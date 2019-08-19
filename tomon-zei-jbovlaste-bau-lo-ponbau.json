@@ -1,0 +1,121 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "klama"
+    },
+    "translations" : [ {
+      "title" : "位置構造",
+      "forms" : [ "x₁ は x₂ （終点）に x₃ （起点）から x₄ （経路）を x₅ （方法）で行く／来る" ]
+    }, {
+      "title" : "内容語",
+      "forms" : [ "行く", "来る" ]
+    }, {
+      "title" : "lo",
+      "forms" : [ "行く者", "来る者" ]
+    }, {
+      "title" : "lo se",
+      "forms" : [ "行き先" ]
+    }, {
+      "title" : "lo te",
+      "forms" : [ "出発地" ]
+    }, {
+      "title" : "lo ve",
+      "forms" : [ "経路", "移動の経路" ]
+    }, {
+      "title" : "lo xe",
+      "forms" : [ "移動手段", "乗り物" ]
+    } ],
+    "tags" : [ "語根《ギスム》", "動詞型" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "kláma （クルァマ）"
+    }, {
+      "title" : "語呂合わせ",
+      "text" : "来る"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "kla"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "fa'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "文章の終了", "めでたし", "終わり", "おわり", "おしまい", "以上", "終り", "完", "終幕", "完結", "エンド", "文字列の終了", "文字列の終端", "文章終了", "終了" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "FAhO" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "faho （ファホ）"
+    }, {
+      "title" : "語法",
+      "text" : "全ての文章の終わりにつけます。\nコンピュータの入力時に、{fa'o}を入力することによって、「これ以上入力することはない」ということをコンピュータに知らせるときに使われます。\n次によく使われるものとして、ロジバンの文法の範囲外に出るときに{fa'o}を使います。こうすることによって、これ以降の文字列をパーサに解析されなくて済みます。\nまた、物語や小説などでは、文章の最後に付けることによって「めでたし、めでたし」といった意味を持たせることができます。"
+    }, {
+      "title" : "文法",
+      "text" : "FAhO類を置くことによって、それ以降に続く文字列は全て無視されます。\nこれは文法外の機械的なシグナルです。\nちなみに、FAhO類は{fa'o}のみです。"
+    }, {
+      "title" : "文献",
+      "text" : "The Complete Lojban Language では19章15節で解説されています。（http://ponjbogri.github.io/cll-ja/chapter19.html）"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "FAhO"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "i"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "文の区切り", "文境界" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "I" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "i （イ）"
+    }, {
+      "title" : "語法",
+      "text" : "文の区切りを表します。\n文の先頭に置くことで、ここから文から始まることを示します。\nですが、大抵の場合は、先頭は省略されます。"
+    }, {
+      "title" : "文法",
+      "text" : "I類は言明《ブリジュハ》と言明の間に入ります。\nちなみに、I類は{i}のみです。"
+    }, {
+      "title" : "文献",
+      "text" : "The Complete Lojban Language では19章2節で解説されています。（http://ponjbogri.github.io/cll-ja/chapter19.html）"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "FAhO"
+    } ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : "発音",
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
