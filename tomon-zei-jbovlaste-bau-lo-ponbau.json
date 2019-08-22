@@ -11,25 +11,25 @@
       "title" : "内容語",
       "forms" : [ "行く", "来る" ]
     }, {
-      "title" : "lo",
+      "title" : "lo ...",
       "forms" : [ "行く者", "来る者" ]
     }, {
-      "title" : "lo se",
+      "title" : "lo se ...",
       "forms" : [ "行き先" ]
     }, {
-      "title" : "lo te",
+      "title" : "lo te ...",
       "forms" : [ "出発地" ]
     }, {
-      "title" : "lo ve",
+      "title" : "lo ve ...",
       "forms" : [ "経路", "移動の経路" ]
     }, {
-      "title" : "lo xe",
+      "title" : "lo xe ...",
       "forms" : [ "移動手段", "乗り物" ]
     } ],
     "tags" : [ "語根《ギスム》", "動詞型" ],
     "contents" : [ {
       "title" : "発音",
-      "text" : "kláma （クルァマ）"
+      "text" : "kláma"
     }, {
       "title" : "語呂合わせ",
       "text" : "来る"
@@ -50,17 +50,14 @@
     } ],
     "tags" : [ "機能語《シマボ》", "FAhO" ],
     "contents" : [ {
-      "title" : "発音",
-      "text" : "faho （ファホ）"
-    }, {
       "title" : "語法",
-      "text" : "全ての文章の終わりにつけます。\nコンピュータの入力時に、{fa'o}を入力することによって、「これ以上入力することはない」ということをコンピュータに知らせるときに使われます。\n次によく使われるものとして、ロジバンの文法の範囲外に出るときに{fa'o}を使います。こうすることによって、これ以降の文字列をパーサに解析されなくて済みます。\nまた、物語や小説などでは、文章の最後に付けることによって「めでたし、めでたし」といった意味を持たせることができます。"
+      "text" : "全ての文章の終わりにつけます。\nコンピュータの入力時に、 {fa'o} を入力することによって、「これ以上入力することはない」ということをコンピュータに知らせるときに使われます。\n次によく使われるものとして、ロジバンの文法の範囲外に出るときに {fa'o} を使います。こうすることによって、これ以降の文字列をパーサに解析されなくて済みます。\nまた、物語や小説などでは、文章の最後に付けることによって「めでたし、めでたし」といった意味を持たせることができます。"
     }, {
       "title" : "文法",
-      "text" : "FAhO類を置くことによって、それ以降に続く文字列は全て無視されます。\nこれは文法外の機械的なシグナルです。\nちなみに、FAhO類は{fa'o}のみです。"
+      "text" : "FAhO類を置くことによって、それ以降に続く文字列は全て無視されます。\nこれは文法外の機械的なシグナルです。\nちなみに、FAhO類は {fa'o} のみです。"
     }, {
-      "title" : "文献",
-      "text" : "The Complete Lojban Language では19章15節で解説されています。（http://ponjbogri.github.io/cll-ja/chapter19.html）"
+      "title" : "The Complete Lojban Language",
+      "text" : "19.15. No more to say: FAhO"
     } ],
     "variations" : [ {
       "title" : "品詞",
@@ -78,31 +75,1442 @@
     } ],
     "tags" : [ "機能語《シマボ》", "I" ],
     "contents" : [ {
-      "title" : "発音",
-      "text" : "i （イ）"
-    }, {
       "title" : "語法",
       "text" : "文の区切りを表します。\n文の先頭に置くことで、ここから文から始まることを示します。\nですが、大抵の場合は、先頭は省略されます。"
     }, {
       "title" : "文法",
-      "text" : "I類は言明《ブリジュハ》と言明の間に入ります。\nちなみに、I類は{i}のみです。"
+      "text" : "I類は言明《ブリジュハ》と言明の間に入ります。\nちなみに、I類は {i} のみです。"
     }, {
-      "title" : "文献",
-      "text" : "The Complete Lojban Language では19章2節で解説されています。（http://ponjbogri.github.io/cll-ja/chapter19.html）"
+      "title" : "使用例",
+      "text" : "① {i jai nanca li 24} [Sentence #5181516, Tatoeba]\n24歳です。\n\uD83D\uDC49この場合は、文頭なので、 {i} は省略可能です。\n② {ko klasti i xunre sinxa} [Sentence #3692775, Tatoeba]\n止まりなさい。赤信号です。\n③ {jau i gai i fei i dau i so i bi i ze i xa i mu i vo i ci i re i pa i incipe} [Sentence #769264, Tatoeba]\n13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, スタート！"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "19.2. Sentences: I"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "5. 述語に慣れる"
+    }, {
+      "title" : "ko lojbo .iu ロジバン入門",
+      "text" : "第2回 lojbo jufra : ロジバンの文 / 文として認められる表現"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 1: Bridi, jufra, sumti and selbri"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "入門コース / ロジバン文を書こう"
     } ],
     "variations" : [ {
       "title" : "品詞",
-      "form" : "FAhO"
+      "form" : "I"
     } ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "pa"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "1", "１", "一", "壱" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 1 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "1 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 1 番目の要素［ x₄ （基準）に基づいて］", "1 番目の要素" ]
+    }, {
+      "title" : "... cu'o",
+      "forms" : [ "x₁ （事象）が x₂ （条件）の下で発生する確率は 100 ％［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 1 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 1 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "1回", "1回にわたって", "１回", "１回にわたって", "一回", "一回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "1回目", "1度目", "１回目", "１度目", "一回目", "一度目" ]
+    }, {
+      "title" : "... ba'oi",
+      "forms" : [ "将来 100 ％の確率で起こりえる", "絶対に～するだろう" ]
+    }, {
+      "title" : "... mu'ei",
+      "forms" : [ "100 ％の確率で可能な", "絶対に～しえる" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第1に～", "第１に～", "第一に～", "はじめに～", "初めに", "最初に～", "まず" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第1に～", "第１に～", "第一に～", "はじめに～", "初めに", "最初に～", "まず" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "10以上を示す場合は、10進数に対応するPA1類を列にして表されます。\n例えば、10は{pa no}となります。（使用例の[2.1, CLL 18.2]を参照してください。）\n用言《セルブリ》の左にPA1類をつけることによって、その数を特定することができます。（使用例の[2.1, CLL 18.2], [Sentence #1857312, Tatoeba]を参照してください。）\n数量詞を何かの量ではなく数として扱うときには{li}を付ける必要があります。（使用例の[5.2 CLL 18.3]を参照してください。）"
+    }, {
+      "title" : "文法",
+      "text" : "隣接するPA類同士はくっついてPA類になります。\nつまり、 PA + PA → PA ということです。\nPA1類は{pa}を含めて全部で10種類あります。\nそのリストを以下に示します。\n{pa}: 1\n{re}: 2\n{ci}: 3\n{vo}: 4\n{mu}: 5\n{xa}: 6\n{ze}: 7\n{bi}: 8\n{so}: 9\n{no}: 0"
+    }, {
+      "title" : "使用例",
+      "text" : "① {pa re ci} [2.1, CLL 18.2]\n123\n② {pa no} [2.2, CLL 18.2]\n10\n③ {pa re ci vo mu xa ze bi so no} [2.3, CLL 18.2]\n1 234 567 890\n④ {le ci prenu} [5.2, CLL 18.2]\n3人の人\n⑤ {la .cindji. citka so lo rutrkoko} [Sentence #1857312, Tatoeba]\n新二は9つのココナッツを食べました。\n⑥ {levi sfani cu grake li ci} [5.3, CLL 18.2]\nこの蝿は3グラムだ。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{no}以外のPA1類は、あるパターンに従っています。1から9のシマヴォは、 a, e, i, o, u の順で繰り返し終わる形になっています。また、同じ子音で始まるPA1類はありません。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA1"
+    }, {
+      "title" : "接辞《ラフシ》",
+      "form" : "pav"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "1"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "１"
+    }, {
+      "title" : "基数用言《セルブリ》",
+      "form" : "pamei"
+    }, {
+      "title" : "順序数用言《セルブリ》",
+      "form" : "pamoi"
+    }, {
+      "title" : "確率用言《セルブリ》",
+      "form" : "pacu'o"
+    }, {
+      "title" : "段階用言《セルブリ》",
+      "form" : "pava'e"
+    }, {
+      "title" : "分量用言《セルブリ》",
+      "form" : "pasi'e"
+    }, {
+      "title" : "数量間制",
+      "form" : "paroi"
+    }, {
+      "title" : "順序数間制",
+      "form" : "pare'u"
+    }, {
+      "title" : "確率間制",
+      "form" : "paba'oi"
+    }, {
+      "title" : "確率間制",
+      "form" : "pamu'ei "
+    }, {
+      "title" : "発話順序",
+      "form" : "pamai"
+    }, {
+      "title" : "高位発話順序",
+      "form" : "pamo'o"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "re"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "2", "２", "二", "弐" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 2 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "2 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 2 番目の要素［ x₄ （基準）に基づいて］", "2 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 2 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 2 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "2回", "2回にわたって", "２回", "２回にわたって", "二回", "二回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "2回目", "2度目", "２回目", "２度目", "二回目", "二度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第2に～", "第２に～", "第二に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第2に～", "第２に～", "第二に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "rel"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "2"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "２"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "ci"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "3", "３", "三", "参" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 3 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "3 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 3 番目の要素［ x₄ （基準）に基づいて］", "3 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 3 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 3 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "3回", "3回にわたって", "３回", "３回にわたって", "三回", "三回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "3回目", "3度目", "３回目", "３度目", "三回目", "三度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第3に～", "第３に～", "第三に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第3に～", "第３に～", "第三に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "cib"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "3"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "３"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "vo"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "4", "４", "四", "肆" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 4 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "4 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 4 番目の要素［ x₄ （基準）に基づいて］", "4 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 4 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 4 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "4回", "4回にわたって", "４回", "４回にわたって", "四回", "四回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "4回目", "4度目", "４回目", "４度目", "四回目", "四度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第4に～", "第４に～", "第四に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第4に～", "第４に～", "第四に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。\n四捨五入は {ji'i} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "von"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "4"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "４"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "mu"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "5", "５", "五", "伍" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 5 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "5 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 5 番目の要素［ x₄ （基準）に基づいて］", "5 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 5 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 5 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "5回", "5回にわたって", "５回", "５回にわたって", "五回", "五回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "5回目", "5度目", "５回目", "５度目", "五回目", "五度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第5に～", "第５に～", "第五に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第5に～", "第５に～", "第五に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。\n四捨五入は {ji'i} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "mum"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "5"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "５"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "xa"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "6", "６", "六", "陸" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 6 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "6 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 6 番目の要素［ x₄ （基準）に基づいて］", "6 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 6 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 6 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "6回", "6回にわたって", "６回", "６回にわたって", "六回", "六回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "6回目", "6度目", "６回目", "６度目", "六回目", "六度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第6に～", "第６に～", "第六に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第6に～", "第６に～", "第六に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "xav"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "6"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "６"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "ze"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "7", "７", "七", "漆" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 7 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "7 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 7 番目の要素［ x₄ （基準）に基づいて］", "7 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 7 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 7 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "7回", "7回にわたって", "７回", "７回にわたって", "七回", "七回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "7回目", "7度目", "７回目", "７度目", "七回目", "七度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第7に～", "第７に～", "第七に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第7に～", "第７に～", "第七に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "zel"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "7"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "７"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "bi"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "8", "８", "八", "捌" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 2 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "8 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 8 番目の要素［ x₄ （基準）に基づいて］", "8 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 8 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 8 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "8回", "8回にわたって", "８回", "８回にわたって", "八回", "八回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "8回目", "8度目", "８回目", "８度目", "八回目", "八度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第8に～", "第８に～", "第八に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第8に～", "第８に～", "第八に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "biv"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "8"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "８"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "so"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "9", "９", "九", "玖" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 2 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "1 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 9 番目の要素［ x₄ （基準）に基づいて］", "0 番目の要素" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 9 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 9 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "9回", "9回にわたって", "９回", "９回にわたって", "九回", "九回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "9回目", "9度目", "９回目", "９度目", "九回目", "九度目" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第9に～", "第９に～", "第九に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第9に～", "第９に～", "第九に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "soz"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "9"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "９"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "no"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "0", "０", "ゼロ", "〇", "零" ]
+    }, {
+      "title" : "... mei",
+      "forms" : [ "x₁ は基数 0 に対等な x₂ （集合）が形成する群れ (mass) でありその集合の元の1個以上が x₃ である［集合 x₄ との対応によって測定される／基準 x₄ に基づいて］", "0 個からなる集合" ]
+    }, {
+      "title" : "... moi",
+      "forms" : [ "x₁ は x₂ （集合）の x₃ （規則）に従って並んだ 0 番目の要素［ x₄ （基準）に基づいて］", "0 番目の要素" ]
+    }, {
+      "title" : "... cu'o",
+      "forms" : [ "x₁ （事象）が x₂ （条件）の下で発生する確率は 0 ％［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... va'e",
+      "forms" : [ "x₁ は x₂ （段階）上の段階位置 0 にある［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... si'e",
+      "forms" : [ "x₁ は x₂ （群れ）の 0 倍の分量［ x₃ （基準）に基づいて］" ]
+    }, {
+      "title" : "... roi",
+      "forms" : [ "0回", "0回にわたって", "０回", "０回にわたって", "ゼロ回", "ゼロ回にわたって", "〇回", "〇回にわたって" ]
+    }, {
+      "title" : "... re'u",
+      "forms" : [ "0回目", "0度目", "０回目", "０度目", "ゼロ回目", "ゼロ度目", "〇回目", "〇度目" ]
+    }, {
+      "title" : "... ba'oi",
+      "forms" : [ "将来 0 ％の確率で起こりえる", "絶対に～しないだろう" ]
+    }, {
+      "title" : "... mu'ei",
+      "forms" : [ "0 ％の確率で可能な", "絶対に～しえない" ]
+    }, {
+      "title" : "... mai",
+      "forms" : [ "第0に～", "第０に～", "第ゼロに～", "第〇に～" ]
+    }, {
+      "title" : "... mo'o",
+      "forms" : [ "（高位発話順序）第0に～", "第０に～", "第ゼロに～", "第〇に～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa} を参照してください。\n英語で限定詞としてno, noneなどを翻訳するときに使われたりします。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {no lo gerku pu batci le nanmu} [Wiktionary]\nNo dog bit the man. （男を噛む犬はいません。）\n② {no le gerku pu batci le ta nanmu} [Wiktionary]\nNone of the dogs bit that man. （その男を噛む犬はいません。）"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    }, {
+      "title" : "はじめてのロジバン 第2版",
+      "text" : "21. 数詞"
+    }, {
+      "title" : "Lojban Wave Lessons",
+      "text" : "Lesson 19: Numbers"
+    }, {
+      "title" : "はじめてのロジバン",
+      "text" : "初級コース / 数のイロハ"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "non"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "0"
+    }, {
+      "title" : "アラビア数字",
+      "form" : "0"
+    }, {
+      "title" : "基数用言《セルブリ》",
+      "form" : "nomei"
+    }, {
+      "title" : "順序数用言《セルブリ》",
+      "form" : "nomoi"
+    }, {
+      "title" : "確率用言《セルブリ》",
+      "form" : "nocu'o"
+    }, {
+      "title" : "段階用言《セルブリ》",
+      "form" : "nova'e"
+    }, {
+      "title" : "分量用言《セルブリ》",
+      "form" : "nosi'e"
+    }, {
+      "title" : "数量間制",
+      "form" : "noroi"
+    }, {
+      "title" : "順序数間制",
+      "form" : "nore'u"
+    }, {
+      "title" : "確率間制",
+      "form" : "noba'oi"
+    }, {
+      "title" : "確率間制",
+      "form" : "nomu'ei "
+    }, {
+      "title" : "発話順序",
+      "form" : "nomai"
+    }, {
+      "title" : "高位発話順序",
+      "form" : "nomo'o"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "pa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "re"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "ci"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "vo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "mu"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "xa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "ze"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "bi"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "so"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "no"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
-    "ignoredTranslationRegex" : "",
+    "ignoredTranslationRegex" : "\\s*\\(.+?\\)\\s*|\\s*（.+?）\\s*|～",
     "pronunciationTitle" : "発音",
-    "plainInformationTitles" : [ ],
+    "plainInformationTitles" : [ "The Complete Lojban Language", "はじめてのロジバン 第2版", "ko lojbo .iu ロジバン入門", "Lojban Wave Lessons", "はじめてのロジバン" ],
     "informationTitleOrder" : null,
     "formFontFamily" : null,
     "defaultWord" : {
@@ -112,10 +1520,40 @@
       },
       "translations" : [ ],
       "tags" : [ ],
-      "contents" : [ ],
-      "variations" : [ ],
+      "contents" : [ {
+        "title" : "語法",
+        "text" : "（空）"
+      }, {
+        "title" : "文法",
+        "text" : "（空）"
+      }, {
+        "title" : "使用例",
+        "text" : "（空）"
+      }, {
+        "title" : "語源",
+        "text" : "定義"
+      }, {
+        "title" : "The Complete Lojban Language",
+        "text" : "（空）"
+      }, {
+        "title" : "はじめてのロジバン 第2版",
+        "text" : "（空）"
+      }, {
+        "title" : "ko lojbo .iu ロジバン入門",
+        "text" : "（空）"
+      }, {
+        "title" : "Lojban Wave Lessons",
+        "text" : "（空）"
+      }, {
+        "title" : "はじめてのロジバン",
+        "text" : "（空）"
+      } ],
+      "variations" : [ {
+        "title" : "接辞《ラフシ》",
+        "form" : "!"
+      } ],
       "relations" : [ ]
     }
   },
-  "snoj" : null
+  "snoj" : "# See from CLL Chapter 3. The Hills Are Alive With The Sounds Of Lojban\n\n@CASE_SENSITIVE\n\nzunsna = \"p\" | \"b\" | \"f\" | \"v\" | \"t\" | \"d\" | \"s\" | \"z\" | \"c\" | \"j\" | \"k\" | \"g\" | \"x\" | \"m\" | \"n\" | \"r\" | \"l\" | \"P\" | \"B\" | \"F\" | \"V\" | \"T\" | \"D\" | \"S\" | \"Z\" | \"C\" | \"J\" | \"K\" | \"G\" | \"X\" | \"M\" | \"N\" | \"R\" | \"L\"\n\n\"ts\" -> /t͡s/; \"TS\" -> /t͡s/\n\"tc\" -> /t͡ʃ/; \"TC\" -> /t͡ʃ/\n\"dz\" -> /d͡z/; \"dz\" -> /d͡z/\n\"dj\" -> /d͡ʒ/; \"dj\" -> /d͡ʒ/\n\n\"p\" -> /p/; \"P\" -> /p/\n\"b\" -> /b/; \"B\" -> /b/\n\"f\" -> /f/; \"F\" -> /f/\n\"v\" -> /v/; \"V\" -> /v/\n\"t\" -> /t/; \"T\" -> /t/\n\"d\" -> /d/; \"D\" -> /d/\n\"s\" -> /s/; \"S\" -> /s/\n\"z\" -> /z/; \"Z\" -> /z/\n\"c\" -> /ʃ/; \"C\" -> /ʃ/\n\"j\" -> /ʒ/; \"J\" -> /ʒ/\n\"k\" -> /k/; \"K\" -> /k/\n\"g\" -> /g/; \"G\" -> /g/\n\"x\" -> /x/; \"X\" -> /x/\n\"m\" -> /m/; \"M\" -> /m/\n\"n\" -> /n/; \"N\" -> /n/\n\"r\" -> /r/; \"R\" -> /r/\n\"l\" -> /l/; \"L\" -> /l/\n\n\".\" -> /ʔ/\n\"'\" -> /h/; \"h\" -> /h/\n\n\",\" -> /h/\n\nvoksna = \"a\" | \"e\" | \"i\" | \"o\" | \"u\" | \"A\" | \"E\" | \"I\" | \"O\" | \"U\"\n\n# voksna\n\"ai\" -> /aj/; \"AI\" -> /áj/\n\"ei\" -> /ɛj/; \"EI\" -> /ɛ́j/\n\"oi\" -> /oj/; \"OI\" -> /ój/\n\"au\" -> /au/; \"AU\" -> /áw/\n\n\"i\" voksna -> /j/ $\n\"I\" voksna -> /j/ $\n\"u\" voksna -> /w/ $\n\"U\" voksna -> /w/ $\n\n\"iy\" -> /jə/;\n\"uy\" -> /wə/;\n\n\"a\" -> /a/; \"A\" -> /á/\n\"e\" -> /ɛ/; \"E\" -> /ɛ́/\n\"i\" -> /i/; \"I\" -> /í/\n\"o\" -> /o/; \"O\" -> /ó/\n\"u\" -> /u/; \"U\" -> /ú/\n\"y\" -> /ə/\n "
 }
