@@ -2,7 +2,8 @@
 
 @CASE_SENSITIVE
 
-# zunsna
+zunsna = "p" | "b" | "f" | "v" | "t" | "d" | "s" | "z" | "c" | "j" | "k" | "g" | "x" | "m" | "n" | "r" | "l" | "P" | "B" | "F" | "V" | "T" | "D" | "S" | "Z" | "C" | "J" | "K" | "G" | "X" | "M" | "N" | "R" | "L"
+
 "ts" -> /t͡s/; "TS" -> /t͡s/
 "tc" -> /t͡ʃ/; "TC" -> /t͡ʃ/
 "dz" -> /d͡z/; "dz" -> /d͡z/
@@ -31,23 +32,18 @@
 
 "," -> /h/
 
+voksna = "a" | "e" | "i" | "o" | "u" | "A" | "E" | "I" | "O" | "U"
+
 # voksna
 "ai" -> /aj/; "AI" -> /áj/
 "ei" -> /ɛj/; "EI" -> /ɛ́j/
 "oi" -> /oj/; "OI" -> /ój/
 "au" -> /au/; "AU" -> /áw/
 
-"ia" -> /ja/; "IA" -> /já/
-"ie" -> /jɛ/; "IE" -> /jɛ́/
-"ii" -> /ji/; "II" -> /jí/
-"io" -> /jo/; "IO" -> /jó/
-"iu" -> /ju/; "IU" -> /jú/
-
-"ua" -> /wa/; "UA" -> /wá/
-"ue" -> /wɛ/; "UE" -> /wɛ́/
-"ui" -> /wi/; "UI" -> /wí/
-"uo" -> /wo/; "UO" -> /wó/
-"uu" -> /wu/; "UU" -> /wú/
+"i" voksna -> /j/ $
+"I" voksna -> /j/ $
+"u" voksna -> /w/ $
+"U" voksna -> /w/ $
 
 "iy" -> /jə/;
 "uy" -> /wə/;
@@ -58,5 +54,4 @@
 "o" -> /o/; "O" -> /ó/
 "u" -> /u/; "U" -> /ú/
 "y" -> /ə/
-
  
