@@ -21,3 +21,8 @@
 
 - Add PA1
 - Total: 12 words
+
+### Version 0.5
+
+- Add PA2
+- Total: 19 words

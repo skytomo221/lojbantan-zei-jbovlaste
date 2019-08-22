@@ -2,46 +2,6 @@
   "words" : [ {
     "entry" : {
       "id" : 1,
-      "form" : "klama"
-    },
-    "translations" : [ {
-      "title" : "位置構造",
-      "forms" : [ "x₁ は x₂ （終点）に x₃ （起点）から x₄ （経路）を x₅ （方法）で行く／来る" ]
-    }, {
-      "title" : "内容語",
-      "forms" : [ "行く", "来る" ]
-    }, {
-      "title" : "lo ...",
-      "forms" : [ "行く者", "来る者" ]
-    }, {
-      "title" : "lo se ...",
-      "forms" : [ "行き先" ]
-    }, {
-      "title" : "lo te ...",
-      "forms" : [ "出発地" ]
-    }, {
-      "title" : "lo ve ...",
-      "forms" : [ "経路", "移動の経路" ]
-    }, {
-      "title" : "lo xe ...",
-      "forms" : [ "移動手段", "乗り物" ]
-    } ],
-    "tags" : [ "語根《ギスム》", "動詞型" ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "kláma"
-    }, {
-      "title" : "語呂合わせ",
-      "text" : "来る"
-    } ],
-    "variations" : [ {
-      "title" : "接辞《ラフシ》",
-      "form" : "kla"
-    } ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 2,
       "form" : "fa'o"
     },
     "translations" : [ {
@@ -66,7 +26,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 3,
+      "id" : 2,
       "form" : "i"
     },
     "translations" : [ {
@@ -109,7 +69,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 4,
+      "id" : 3,
       "form" : "pa"
     },
     "translations" : [ {
@@ -227,73 +187,73 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 5,
+      "id" : 4,
       "form" : "re"
     },
     "translations" : [ {
@@ -338,6 +298,9 @@
       "title" : "語源",
       "text" : "定義"
     }, {
+      "title" : "覚え方",
+      "text" : "{pa} を参照してください。"
+    }, {
       "title" : "The Complete Lojban Language",
       "text" : "15.2. Lojban numbers"
     }, {
@@ -363,67 +326,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 6,
+      "id" : 5,
       "form" : "ci"
     },
     "translations" : [ {
@@ -493,67 +456,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 7,
+      "id" : 6,
       "form" : "vo"
     },
     "translations" : [ {
@@ -623,67 +586,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 8,
+      "id" : 7,
       "form" : "mu"
     },
     "translations" : [ {
@@ -753,67 +716,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 9,
+      "id" : 8,
       "form" : "xa"
     },
     "translations" : [ {
@@ -883,67 +846,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 10,
+      "id" : 9,
       "form" : "ze"
     },
     "translations" : [ {
@@ -1013,67 +976,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 11,
+      "id" : 10,
       "form" : "bi"
     },
     "translations" : [ {
@@ -1143,67 +1106,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 12,
+      "id" : 11,
       "form" : "so"
     },
     "translations" : [ {
@@ -1273,67 +1236,67 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 13,
+      "id" : 12,
       "form" : "no"
     },
     "translations" : [ {
@@ -1379,6 +1342,9 @@
       "text" : "{pa} を参照してください。\n英語で限定詞としてno, noneなどを翻訳するときに使われたりします。"
     }, {
       "title" : "文法",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
       "text" : "{pa} を参照してください。"
     }, {
       "title" : "使用例",
@@ -1445,62 +1411,591 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 4,
+        "id" : 3,
         "form" : "pa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 5,
+        "id" : 4,
         "form" : "re"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 6,
+        "id" : 5,
         "form" : "ci"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 7,
+        "id" : 6,
         "form" : "vo"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 8,
+        "id" : 7,
         "form" : "mu"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 9,
+        "id" : 8,
         "form" : "xa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 10,
+        "id" : 9,
         "form" : "ze"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 11,
+        "id" : 10,
         "form" : "bi"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 12,
+        "id" : 11,
         "form" : "so"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 13,
+        "id" : 12,
         "form" : "no"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "dau"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）10", "0xA", "(A)₁₆", "A" ]
+    }, {
+      "title" : "機能語",
+      "forms" : [ "（時計盤の）10", "（12進数で）10", "(A)₁₂", "A" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "通常の文脈では、ロジバンの数はデフォルトで 10 進法（ 10 を底とする位取り記数法）で表されていると、みんなは想定しています。しかし、他の底を取ることもできて、特定の状況では他の底の方が適切なことがあります。そこで、ロジバンには 16 までの底を表す数字があります。多くの場合、コンピュータで 16 という底がよく使われるため、このように定義されました。慣習的には、 16 進数の 10 から 15 までの数字には A から F までのラテン文字が当てられていますが、ロジバンではこのような曖昧な表現が避けられています。\n底の位置を表す {pi} は、10進法以外でも同じように使われます。"
+    }, {
+      "title" : "文法",
+      "text" : "{pa} と同じ文法です。"
+    }, {
+      "title" : "使用例",
+      "text" : "{pa} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {li daufeigai ju'u paxa du li rezevobi} [10.2, CLL 15.2.]\n（16進数）ABCは、（10進数）2748に等しい。\n② {li vai pi bi ju'u paxa du li pamu pi mu} [10.2, CLL 15.2.]\n（16進数）F.8は、（10進数）15.5に等しい。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "fei"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）11", "0xB", "(B)₁₆", "B" ]
+    }, {
+      "title" : "機能語",
+      "forms" : [ "（時計盤の）11", "（12進数で）11", "(B)₁₂", "B" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "gai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）12", "0xC", "(C)₁₆", "C" ]
+    }, {
+      "title" : "機能語",
+      "forms" : [ "（時計盤の）12", "（12進数で）12", "(C)₁₂", "C" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "jau"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）13", "0xD", "(D)₁₆", "D" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "rei"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）14", "0xE", "(E)₁₆", "E" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "xei"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）14", "0xE", "(E)₁₆", "E" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{rei} は {re} と聞き間違えやすいので、 {rei} の代わりに定義された非公式・試験的機能語《シマボ》です。"
+    }, {
+      "title" : "文法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "{rei} を回避するために r を x に変更したのが、この単語の誕生した経緯です。"
+    }, {
+      "title" : "覚え方",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "vai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（16進数で）15", "0xF", "(F)₁₆", "F" ]
+    } ],
+    "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "使用例",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{fau} を参照してください。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "15.2. Lojban numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA2"
+    } ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "dau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "fei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "gai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "jau"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "rei"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
       }
     } ]
   } ],
