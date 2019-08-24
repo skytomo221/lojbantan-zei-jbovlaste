@@ -127,7 +127,7 @@
       "text" : "{no}以外のPA1類は、あるパターンに従っています。1から9のシマヴォは、 a, e, i, o, u の順で繰り返し終わる形になっています。また、同じ子音で始まるPA1類はありません。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -185,67 +185,67 @@
       "form" : "pamo'o"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -302,7 +302,7 @@
       "text" : "{pa} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -324,61 +324,61 @@
       "form" : "２"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -432,7 +432,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -454,61 +454,61 @@
       "form" : "３"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -562,7 +562,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -584,61 +584,61 @@
       "form" : "４"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -692,7 +692,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -714,61 +714,61 @@
       "form" : "５"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -822,7 +822,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -844,61 +844,61 @@
       "form" : "６"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -952,7 +952,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -974,61 +974,61 @@
       "form" : "７"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -1082,7 +1082,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -1104,61 +1104,61 @@
       "form" : "８"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -1212,7 +1212,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -1234,61 +1234,61 @@
       "form" : "９"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -1354,7 +1354,7 @@
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.2. Lojban numbers"
     }, {
       "title" : "はじめてのロジバン 第2版",
       "text" : "21. 数詞"
@@ -1409,61 +1409,61 @@
       "form" : "nomo'o"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 3,
         "form" : "pa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 4,
         "form" : "re"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 5,
         "form" : "ci"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 6,
         "form" : "vo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 7,
         "form" : "mu"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 8,
         "form" : "xa"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 9,
         "form" : "ze"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 10,
         "form" : "bi"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 11,
         "form" : "so"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 12,
         "form" : "no"
@@ -1484,7 +1484,7 @@
     "tags" : [ "PA", "PA2", "機能語《シマボ》", "数量詞" ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "通常の文脈では、ロジバンの数はデフォルトで 10 進法（ 10 を底とする位取り記数法）で表されていると、みんなは想定しています。しかし、他の底を取ることもできて、特定の状況では他の底の方が適切なことがあります。そこで、ロジバンには 16 までの底を表す数字があります。多くの場合、コンピュータで 16 という底がよく使われるため、このように定義されました。慣習的には、 16 進数の 10 から 15 までの数字には A から F までのラテン文字が当てられていますが、ロジバンではこのような曖昧な表現が避けられています。\n底の位置を表す {pi} は、10進法以外でも同じように使われます。"
+      "text" : "通常の文脈では、ロジバンの数はデフォルトで 10 進法（ 10 を底とする位取り記数法）で表されていると、みんなは想定しています。しかし、他の底を取ることもできて、特定の状況では他の底の方が適切なことがあります。そこで、ロジバンには 16 までの底を表す数字があります。多くの場合、コンピュータで 16 という底がよく使われるため、このように定義されました。慣習的には、 16 進数の 10 から 15 までの数字には A から F までのラテン文字が当てられていますが、ロジバンではこのような曖昧な表現が避けられています。\n小数点を表す {pi} は、10進法以外でも同じように使われます。"
     }, {
       "title" : "文法",
       "text" : "{pa} と同じ文法です。"
@@ -1493,56 +1493,56 @@
       "text" : "{pa} を参照してください。"
     }, {
       "title" : "使用例",
-      "text" : "① {li daufeigai ju'u paxa du li rezevobi} [10.2, CLL 15.2.]\n（16進数）ABCは、（10進数）2748に等しい。\n② {li vai pi bi ju'u paxa du li pamu pi mu} [10.2, CLL 15.2.]\n（16進数）F.8は、（10進数）15.5に等しい。"
+      "text" : "① {li daufeigai ju'u paxa du li rezevobi} [10.2, CLL 18.2.]\n（16進数）ABCは、（10進数）2748に等しい。\n② {li vai pi bi ju'u paxa du li pamu pi mu} [10.2, CLL 18.2.]\n（16進数）F.8は、（10進数）15.5に等しい。"
     }, {
       "title" : "語源",
       "text" : "定義"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
     "variations" : [ {
       "title" : "品詞",
       "form" : "PA2"
     } ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 18,
         "form" : "xei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 19,
         "form" : "vai"
@@ -1578,50 +1578,47 @@
       "text" : "{fau} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
-    "variations" : [ {
-      "title" : "品詞",
-      "form" : "PA2"
-    } ],
+    "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 18,
         "form" : "xei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 19,
         "form" : "vai"
@@ -1657,50 +1654,47 @@
       "text" : "{fau} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
-    "variations" : [ {
-      "title" : "品詞",
-      "form" : "PA2"
-    } ],
+    "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 18,
         "form" : "xei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 19,
         "form" : "vai"
@@ -1733,50 +1727,47 @@
       "text" : "{fau} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
-    "variations" : [ {
-      "title" : "品詞",
-      "form" : "PA2"
-    } ],
+    "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 18,
         "form" : "xei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 19,
         "form" : "vai"
@@ -1809,50 +1800,47 @@
       "text" : "{fau} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
-    "variations" : [ {
-      "title" : "品詞",
-      "form" : "PA2"
-    } ],
+    "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "同義語",
+      "title" : "類義語",
       "entry" : {
         "id" : 18,
         "form" : "xei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 19,
         "form" : "vai"
@@ -1885,47 +1873,50 @@
       "text" : "{fau} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
-    "variations" : [ {
-      "title" : "品詞",
-      "form" : "PA2"
-    } ],
+    "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "同義語",
+      "title" : "類義語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 18,
         "form" : "xei"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 19,
+        "form" : "vai"
       }
     } ]
   }, {
@@ -1955,47 +1946,546 @@
       "text" : "{fau} を参照してください。"
     }, {
       "title" : "The Complete Lojban Language",
-      "text" : "15.2. Lojban numbers"
+      "text" : "18.10. Non-decimal and compound bases"
     } ],
-    "variations" : [ {
-      "title" : "品詞",
-      "form" : "PA2"
-    } ],
+    "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 13,
         "form" : "dau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 14,
         "form" : "fei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 15,
         "form" : "gai"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 16,
         "form" : "jau"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
       "entry" : {
         "id" : 17,
         "form" : "rei"
       }
     }, {
-      "title" : "類義語",
+      "title" : "関連語",
+      "entry" : {
+        "id" : 18,
+        "form" : "xei"
+      }
+    }, {
+      "title" : "関連語",
       "entry" : {
         "id" : 19,
         "form" : "vai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "ma'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "+", "＋", "正の符号", "正号", "プラス" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数の前に、{ma'u} を付けることによって、正の数であることを明示することができます。これらは正負の記号であって、足し算や引き算や否定演算子ではありません。足し算の演算子としては {su'i} を使用します。\nデフォルトでは、数値は正の数ですので、したがって、この機能語《シマボ》は強調するためのものです）。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、これらの符号は数の一部分とみなされます。 {ma'u} は単独でも数として扱うことができ、その場合の意味は、大抵、「何らかの正の数」と意味に訳されるでしょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {ma'u pa}\n+1\n② {li ci vu'u re du li ma'u} [8.14, CLL 18.8]\n3 - 2 = 正の数"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.3. Simple infix expressions and equations"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "ni'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "-", "－", "負の符号", "負号", "マイナス" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数の前に、{ni'u} を付けることによって、負の数であることを明示することができます。これらは正負の記号であって、足し算や引き算や否定演算子ではありません。足し算の演算子としては {su'i} を使用します。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、これらの符号は数の一部分とみなされます。 {ma'u} は単独でも数として扱うことができ、その場合の意味は、大抵、「何らかの正の数」と意味に訳されるでしょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {ni'u pa} [3.1, CLL 18.8]\n-1\n② {li ci vu'u vo du li ni'u} [8.15, CLL 18.8]\n3 - 4 = 負の数"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.3. Simple infix expressions and equations"
+    } ],
+    "variations" : [ {
+      "title" : "代替接辞《ラフシ》",
+      "form" : "nim"
+    }, {
+      "title" : "語根《ギスム》",
+      "form" : "ninmu"
+    } ],
+    "relations" : [ {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "pi"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "小数点", "基数点", "対数底" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pi} は小数点を表します。\n{pi} + PA4 で、全体のうちの一部分を表すことができます。\n{piro}: 全部\n{piso'a}: ほとんど全部\n{piso'e}: 大半の部分\n{piso'i}: 多くの部分\n{piso'o}: いくらかの部分\n{piso'u}: 少しの部分\n{pino'o}: 典型的な量\n{pirau}: 充分\n{pidu'e}: 過多\n{pimo'a}: 過少"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {pi} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {ci pi pa vo pa mu}  [3.2, CLL 18.8]\n3.1415\n② {pi ci mu ra'e pa vo re bi mu ze} [3.5, CLL 18.8]\n.35142857142857..."
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.3. Simple infix expressions and equations"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "piz"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "fi'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "～分の～", "分数斜線", "/" ]
+    }, {
+      "title" : "機能語",
+      "forms" : [ "黄金比", "φ", "ファイ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fi'u} は分数斜線を表します。\n分数の分母があって分子がない場合は、分子を 1 と見なします。\nまた、分母も分子も無い、単独の分数の記号は、黄金比を表します。\n{fi'u} に接辞《ラフシ》はありませんが、代わりに {frinu} には接辞《ラフシ》があるので、数の接辞《ラフシ》の中で分数記号を表すときにこれを使うことができます。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {fi'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {re fi'u ze}  [3.3, CLL 18.8]\n2/7\n② {fi'u ze} [3.4, CLL 18.8]\n1/7"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.3. Simple infix expressions and equations"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "ra'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "循環小数", "小数反復", "繰り返し" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fi'u} は小数反復を表します。\n右の小数数量詞のまとまりが以降ずっと反復するのを表します。\n言い換えると、小数の循環部分の直前に付きます。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ra'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {li pa fi'u ze no no no du li no pi no no ra'e pa vo re bi mu ze} \n1/700 = 0.00142857...\n\uD83D\uDC49この場合は、小数の循環部分 142857 の直前に {ra'e} が付きます。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.3. Simple infix expressions and equations"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "ce'i"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "%", "％", "パーセント", "百分率" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ce'i} はパーセントを表します。\nPA3 の中では、 {ce'i} だけが直前の数字列に意味を付与することになっています。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ce'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {ci mu ce'i} [3.6, CLL 18.3]\n35%"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "cez"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "ki'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（数の）区切り", "（数の区切りのための）カンマ", "キロ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA3" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ce'i} は3桁ずつの区切りを表します。\n{ki'o} 列の間の数字は 3 個より少なくてもよく、その場合は 0 が省略されているとみなされます。\n{ki'o} は {pi} の後でも 3 桁の区切りとして使えます。しかし、 {ki'o} の直後の 0 を省略する場合、その数全体を言い終わるか、次の {ki'o} が現れるまでは、 0 がいくつ省略されているか判断できません。ですから、例えば、{pa ki'o re li'o} のように、 {ki'o} の後の数字の続きが {li'o} で省略された場合、 {ki'o} の後の 0 がいくつ省略されたのか分からなくなってしまいます。そのため、続きを省略するときの {ki'o} の使い方には注意が必要になります。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ki'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {pa ki'o re ci vo ki'o mu xa ze} [3.7, CLL 18.3]\n1 234 567\n② {pa ki'o re re} [3.9, CLL 18.3]\n.022\n③ {pi pa ki'o pa re ki'o pa} [3.10, CLL 18.3]\n.1 012 001\n④ {li ci no no ki'o ki'o du li bi gei ci} [14.2, CLL 18.14]\n300 000 000 = 3 × 10⁸\n\uD83D\uDC49 このように {ki'o} を繰り返すことで大きな数を表すことができますが、 {gei} を使えば簡潔に大きな数を表記することができます。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.3. Simple infix expressions and equations"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "cez"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 22,
+        "form" : "pi"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 23,
+        "form" : "fi'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 24,
+        "form" : "ra'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 25,
+        "form" : "ce'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 26,
+        "form" : "ki'o"
       }
     } ]
   } ],
