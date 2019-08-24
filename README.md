@@ -31,3 +31,8 @@
 
 - Add PA3
 - Total: 26 words
+
+### Version 0.7
+
+- Add PA4
+- Total: 34 words

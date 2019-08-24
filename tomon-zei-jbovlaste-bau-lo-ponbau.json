@@ -2488,6 +2488,665 @@
         "form" : "ki'o"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "ro"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "それぞれ", "全て", "任意の～", "各", "全", "一つ一つの" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この数は理論上決まった値を持ちません。 {li ro} は定義されていません。しかし、ものを数えたり定量化したりするとき、 {ro} は明確な意味を持つことができます。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ro} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu ro prenu} [8.2, CLL 18.3]\n私はすべての人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "PA4"
+    }, {
+      "title" : "接辞《ラフシ》",
+      "form" : "rol"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "so'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ほとんどすべての～", "ほぼすべての～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この数は理論上決まった値を持ちません。\n詳しくは、 {ro} を参照してください。\n{so'a} は {ji'i ro} に置き換えることができます。\n{so'a} {so'e} {so'i} {so'o} {so'u} の感覚は日本語や英語とは微妙に違います。分かりやすい例として、バッテリーの残量を考えてみましょう。\n{ro}: バッテリー残量が 100%\n{so'a}: バッテリー残量が 95%以上\n{so'e}: バッテリー残量が 65% ～ 95%\n{so'i}: バッテリー残量が 35% ～ 65%\n{so'o}: バッテリー残量が 5% ～ 35%\n{so'u}: バッテリー残量が 5%以下\nとまあだいたいこんな感じです。\nしかし、これはバッテリー残量の場合で、すべての例でうまくいくとは限りません。例えば、{mi catlu so'o prenu} は「私は幾人かの人を見る」と意味になりますが、すべての人口の 5%  ～ 35% 程度の人数を見たということにはなりません。世界人口を 70 億人 だと仮定しても、人口の 5% は 3.5 億人です。{mi catlu so'o prenu} の場合の見た人間の数は完全に文脈によるでしょう。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {so'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu so'a prenu} [8.2, CLL 18.3]\n私はほとんどすべての人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{so'a} {so'e} {so'i} {so'o} {so'u} はアルファベット順に量が少なくなるようにできています。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "soj"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "so'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ほとんどの～", "大半の～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この数は理論上決まった値を持ちません。\n詳しくは、 {ro} および {so'a} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {so'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu so'e prenu} [8.2, CLL 18.3]\n私はほとんどの人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{so'a} {so'e} {so'i} {so'o} {so'u} はアルファベット順に量が少なくなるようにできています。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "sop"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "so'i"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "たくさんの～", "多くの～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この数は理論上決まった値を持ちません。\n詳しくは、 {ro} および {so'a} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {so'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu so'i prenu} [8.2, CLL 18.3]\n私はたくさんの人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{so'a} {so'e} {so'i} {so'o} {so'u} はアルファベット順に量が少なくなるようにできています。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "sor"
+    }, {
+      "title" : "接辞《ラフシ》",
+      "form" : "so'i"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "so'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "いくつかの～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この数は理論上決まった値を持ちません。\n詳しくは、 {ro} および {so'a} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {so'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu so'u prenu} [8.2, CLL 18.3]\n私は幾人かの人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{so'a} {so'e} {so'i} {so'o} {so'u} はアルファベット順に量が少なくなるようにできています。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "sos"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "so'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "少しの～" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この数は理論上決まった値を持ちません。\n詳しくは、 {ro} および {so'a} を参照してください。\n{so'u} は {ji'i no} に置き換えることができます。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {so'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu so'u prenu} [8.2, CLL 18.3]\n私は幾人かの人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "{so'a} {so'e} {so'i} {so'o} {so'u} はアルファベット順に量が少なくなるようにできています。"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "sot"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "no'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "典型的な数" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{no'o} は文脈に依存する典型的、平均的な数値量です。この「平均的」は、一般には数学的な平均値とか中央値とか最頻値といったものではありません。「私は {no'o} 、どこにでもいる普通の数値」という感じの意味の「平均的」です。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {no'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu so'u prenu} [8.2, CLL 18.3]\n私は幾人かの人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "のほほんとした数\nのほ {no'o} ほんとした数"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "da'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "～を除く全て", "ある数（デフォルトで1）を除く全て" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{da'a} + PA は、全てから PA を引いた数（全 - PA）を表します。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {da'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {mi catlu da'a re prenu} [8.11, CLL 18.3]\n私は2人を除く全ての人を見る。\n② {mi catlu da'a so'u prenu} [8.11, CLL 18.4]\n私は少しの人数を除く全ての人を見る。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.8. Indefinite numbers"
+    } ],
+    "variations" : [ {
+      "title" : "接辞《ラフシ》",
+      "form" : "daz"
+    } ],
+    "relations" : [ {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "関連語",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
