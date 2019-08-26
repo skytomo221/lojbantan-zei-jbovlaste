@@ -34,5 +34,10 @@
 
 ### Version 0.7
 
-- Add PA4
+- Add 8 words of PA4
 - Total: 34 words
+
+### Version 0.8
+
+- Add 9 words of PA4
+- Total: 43 words
