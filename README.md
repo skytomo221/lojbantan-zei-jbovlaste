@@ -41,3 +41,8 @@
 
 - Add 9 words of PA4
 - Total: 43 words
+
+### Version 0.8
+
+- Add experimental PA4
+- Total: 57 words

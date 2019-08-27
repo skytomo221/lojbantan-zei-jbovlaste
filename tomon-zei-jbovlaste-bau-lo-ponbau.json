@@ -1468,6 +1468,18 @@
         "id" : 12,
         "form" : "no"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 50,
+        "form" : "no'ai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 51,
+        "form" : "no'e'u"
+      }
     } ]
   }, {
     "entry" : {
@@ -2643,6 +2655,12 @@
       "entry" : {
         "id" : 43,
         "form" : "xo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 52,
+        "form" : "ro'oi"
       }
     } ]
   }, {
@@ -4297,6 +4315,12 @@
         "id" : 43,
         "form" : "xo"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 54,
+        "form" : "su'au"
+      }
     } ]
   }, {
     "entry" : {
@@ -4450,6 +4474,12 @@
       "entry" : {
         "id" : 43,
         "form" : "xo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 54,
+        "form" : "su'au"
       }
     } ]
   }, {
@@ -4749,7 +4779,7 @@
     },
     "translations" : [ {
       "title" : "機能語",
-      "forms" : [ "いくつ" ]
+      "forms" : [ "いくつ", "数量質問" ]
     } ],
     "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
     "contents" : [ {
@@ -4767,6 +4797,1693 @@
     }, {
       "title" : "The Complete Lojban Language",
       "text" : "18.12. Number questions"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "ja'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ " 減少する数", "減少数量" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ja'au} は時間とともに減少する主観的な数です。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 45,
+        "form" : "ze'au"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "ze'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "増加する数", "増加数量" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ja'au} は時間とともに増加する主観的な数です。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 44,
+        "form" : "ja'au"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "so'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "定数" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{so'au} は一定の主観的な数です。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "ku'i'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "空数字", "空文字" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ku'i'a} は、空の数字を意味します。この数字のみの文字列は、指定された長さの空の数字の列を意味します。評価されると、この数字のみの文字列は空の数値を生成します。\n{ku'i'a} が数字の列に含まれている場合、その部分に文字列は存在しない、または発話されていないかのように解釈されます。 {ku'i'a} だけで構成されている添え字である場合、その添え字は削除されたように解釈されます。\n{ku'i'a} は、質問に答えたり、記法を簡略化したり、そうでない場合は繰り返しの説明をするのに役立ちます。（使用例①を参照してください。）\n適切な文脈では、 {xo'e} および {xo'ei} に当てはまる値である可能性があります。確実に {ku'i'a} が当てはまらないようにしたい場合は、明示的に{xo'e} および {xo'ei} に当てはまる値を制限するための文や単語が必要になるかもしれません。 とはいえ、 Jbovlaste の {xo'e} および {xo'ei} の定義には {ku'i'a} で受け答え可能とも不可能とも書かれておらず、動作は不明確であいまいです。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {li so pi'i papa du li so xo so ju'u dau ― .i ku'i'a} [Jbovlaste]\n9 × 11 = 9?9 ― そこに数字は存在しないよ\n\uD83D\uDC49 技術的には、長さが1以上の任意の文字列のみこの数字が機能します。"
+    }, {
+      "title" : "語源",
+      "text" : "{kunti} + PA"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "mei'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "恣意的に小さい" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{mei'a} は、有限でゼロではないですが、必要に応じて小さいものです。\n符号についての仮定はありません。\n{mei'a} は、絶対値で示されています。 言い換えれば、「任意にかつ積極的に小さい」という典型的な意味は {ma'u mei'a} であり、「任意に絶対値が小さい負の数」は {ni'u mei'a} によって与えられます。 {zau'u} も参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "{mleca} + \"-a\"\nこの \"-a\" は {pa} が {mu} よりも小さいことに由来しており、このことから小さいというイメージがあります。（PA1 は -a, -e, -i, -o, -u の順になっており、 -a は -u よりも小さいイメージがあります。）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 49,
+        "form" : "zau'u"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "zau'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "恣意的に大きい" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{zau'u} は有限の n > 0 に対して、n < |x| のような有限の x を指します。\nこれが「無限」と異なる点は、不滅の宇宙において文字通り真に永遠に生きることと、当初望まれていた限り長く生きることとは異なる点です（そして最終的には死ぬことです）。\n符号に関する仮定はありません。{zau'u} は、絶対値で示されています。言い換えれば、「任意にかつ積極的に大きい」という典型的な意味は {ma'u zau'u} であり、「任意に絶対値が大きい負の数」は {ni'u zau'u} によって与えられます。 {mei'a} も参照してください。"
+    }, {
+      "title" : "語源",
+      "text" : "{zmadu} + \"-u\"\nこの \"-u\" は {mu} が {pa} よりも大きいことに由来しており、このことから大きいというイメージがあります。（PA1 は -a, -e, -i, -o, -u の順になっており、 -u は -a よりも大きいイメージがあります。）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "対義語",
+      "entry" : {
+        "id" : 48,
+        "form" : "mei'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "no'ai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（絶対値が）0", "存在否定", "∄" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数学的に {no} と同じですが、特にスケール（{va'e} / {va'ei} など）で負の値がないことを意味します。\n{ro ne'e no} と同じ意味です。 "
+    }, {
+      "title" : "語源",
+      "text" : "{no} + {sai}\n{no} + {cai}"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "語源",
+      "entry" : {
+        "id" : 12,
+        "form" : "no"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "no"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 51,
+        "form" : "no'e'u"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "no'e'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "（正でも負でもない）0" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数学的に {no} と同じですが、特にスケール（{va'e} / {va'ei} など）で正と負の両方の値が存在することを意味します。"
+    }, {
+      "title" : "語源",
+      "text" : "{no} + {no'e} + {ma'u}\n{no} + {no'e} + {ni'u}"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "語源",
+      "entry" : {
+        "id" : 12,
+        "form" : "no"
+      }
+    }, {
+      "title" : "語源",
+      "entry" : {
+        "id" : 20,
+        "form" : "ma'u"
+      }
+    }, {
+      "title" : "語源",
+      "entry" : {
+        "id" : 21,
+        "form" : "ni'u"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "no"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 50,
+        "form" : "no'ai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "ro'oi"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "全て（複数量化子）" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ro'oi} は、「全ての」という意味になる複数量化子です。 {ro'oi da} によって「{da} に当てはまる全てのものについて」という束縛複数変項を表します。 "
+    }, {
+      "title" : "使用例",
+      "text" : "{ro'oi da poi ke'a me xy. zo'u xy. me da} [https://mw.lojban.org/papri/gadri_の論理学的観点からの解説]\nX は個である"
+    }, {
+      "title" : "語源",
+      "text" : "la xorxes が提案した試験的 cmavo です。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "su'ai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "有効数字" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{su'ai} は指定された有効桁数内まで正確です。"
+    }, {
+      "title" : "使用例",
+      "text" : "{mi'ai su'ai slabu ze'a lo nanca be li so'i} [Sentence #3854691, Tatoeba]\n私たちは何年もお互いを知っています。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 54,
+        "form" : "su'au"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "su'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "正確に", "正確に等しい", "これ以上でも以下でもない", "数学的に理想的（測定誤差または丸め誤差なし）" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{su'au} は、{su'e} と {su'o} の仲間です。ある意味では、{su'e je su'o} と同じです。 ある意味では、正確に等しいことを強調しています。ただし、結果をデータ/測定および数学的真実と区別することもできます。"
+    }, {
+      "title" : "使用例",
+      "text" : "{lo gusni nilsutra pi'ai mitre snidu te'ai ni'u pa lo mitre be li su'au re so so ki'o ze so re ki'o vo mu bi}\n光の速度は正確に 299 792 458 m/s です。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 53,
+        "form" : "su'ai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "su'oi"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "～がある", "存在複数量化詞" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{su'oi da} = {na ku ro'oi da na ku}\n{su'oi} は、「存在し」という意味になる複数量化子です。 {su'oi} が「少なくとも1つ」ではないことに注意する必要があります。 {su'oi da} によって「{da} に当てはまるものが存在し」という束縛複数変項を表します。"
+    }, {
+      "title" : "語源",
+      "text" : "su'oi は la xorxes が提案した試験的 cmavo です。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "xe'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "～がある", "存在複数量化詞" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{xe'e} は任意/非特定の指示対象; 数量詞を変更して、参照セットの特定のメンバーが何であるかが重要でないことを示します。\nhttps://mw.lojban.org/papri/xe%27e などを参照してください。この単語の説明は未完成です。"
+    }, {
+      "title" : "語源",
+      "text" : "1994 年に JorgeLlambías によって、内包的修飾子として提案されました。 使用法は記録されておらず、その機能は {lo} に置き換えられました。"
     } ],
     "variations" : [ ],
     "relations" : [ {
