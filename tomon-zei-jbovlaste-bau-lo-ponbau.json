@@ -42,7 +42,7 @@
       "text" : "I類は言明《ブリジュハ》と言明の間に入ります。\nちなみに、I類は {i} のみです。"
     }, {
       "title" : "使用例",
-      "text" : "① {i jai nanca li 24} [Sentence #5181516, Tatoeba]\n24歳です。\n\uD83D\uDC49この場合は、文頭なので、 {i} は省略可能です。\n② {ko klasti i xunre sinxa} [Sentence #3692775, Tatoeba]\n止まりなさい。赤信号です。\n③ {jau i gai i fei i dau i so i bi i ze i xa i mu i vo i ci i re i pa i incipe} [Sentence #769264, Tatoeba]\n13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, スタート！"
+      "text" : "① {i jai nanca li 24} [Tatoeba:5181516]\n24歳です。\n\uD83D\uDC49この場合は、文頭なので、 {i} は省略可能です。\n② {ko klasti i xunre sinxa} [Tatoeba:3692775]\n止まりなさい。赤信号です。\n③ {jau i gai i fei i dau i so i bi i ze i xa i mu i vo i ci i re i pa i incipe} [Tatoeba:769264]\n13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, スタート！"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -112,13 +112,13 @@
     "tags" : [ "機能語《シマボ》", "PA", "PA1", "数量詞" ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "10以上を示す場合は、10進数に対応するPA1類を列にして表されます。\n例えば、10は{pa no}となります。（使用例の[2.1, CLL 18.2]を参照してください。）\n用言《セルブリ》の左にPA1類をつけることによって、その数を特定することができます。（使用例の[2.1, CLL 18.2], [Sentence #1857312, Tatoeba]を参照してください。）\n数量詞を何かの量ではなく数として扱うときには{li}を付ける必要があります。（使用例の[5.2 CLL 18.3]を参照してください。）"
+      "text" : "10以上を示す場合は、10進数に対応するPA1類を列にして表されます。\n例えば、10は{pa no}となります。（使用例の[CLL:18.2.1]を参照してください。）\n用言《セルブリ》の左にPA1類をつけることによって、その数を特定することができます。（使用例の[CLL:18.2.1], [Tatoeba:1857312]を参照してください。）\n数量詞を何かの量ではなく数として扱うときには{li}を付ける必要があります。（使用例の[5.2 CLL 18.3]を参照してください。）"
     }, {
       "title" : "文法",
       "text" : "隣接するPA類同士はくっついてPA類になります。\nつまり、 PA + PA → PA ということです。\nPA1類は{pa}を含めて全部で10種類あります。\nそのリストを以下に示します。\n{pa}: 1\n{re}: 2\n{ci}: 3\n{vo}: 4\n{mu}: 5\n{xa}: 6\n{ze}: 7\n{bi}: 8\n{so}: 9\n{no}: 0"
     }, {
       "title" : "使用例",
-      "text" : "① {pa re ci} [2.1, CLL 18.2]\n123\n② {pa no} [2.2, CLL 18.2]\n10\n③ {pa re ci vo mu xa ze bi so no} [2.3, CLL 18.2]\n1 234 567 890\n④ {le ci prenu} [5.2, CLL 18.2]\n3人の人\n⑤ {la .cindji. citka so lo rutrkoko} [Sentence #1857312, Tatoeba]\n新二は9つのココナッツを食べました。\n⑥ {levi sfani cu grake li ci} [5.3, CLL 18.2]\nこの蝿は3グラムだ。"
+      "text" : "① {pa re ci} [CLL:18.2.1]\n123\n② {pa no} [CLL:18.2.2]\n10\n③ {pa re ci vo mu xa ze bi so no} [CLL:18.2.3]\n1 234 567 890\n④ {le ci prenu} [CLL:18.5.2]\n3人の人\n⑤ {la .cindji. citka so lo rutrkoko} [Tatoeba:1857312]\n新二は9つのココナッツを食べました。\n⑥ {levi sfani cu grake li ci} [CLL:18.5.3]\nこの蝿は3グラムだ。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -1505,7 +1505,7 @@
       "text" : "{pa} を参照してください。"
     }, {
       "title" : "使用例",
-      "text" : "① {li daufeigai ju'u paxa du li rezevobi} [10.2, CLL 18.2.]\n（16進数）ABCは、（10進数）2748に等しい。\n② {li vai pi bi ju'u paxa du li pamu pi mu} [10.2, CLL 18.2.]\n（16進数）F.8は、（10進数）15.5に等しい。"
+      "text" : "① {li daufeigai ju'u paxa du li rezevobi} [CLL:18.10.2]\n（16進数）ABCは、（10進数）2748に等しい。\n② {li vai pi bi ju'u paxa du li pamu pi mu} [CLL:18.10.2]\n（16進数）F.8は、（10進数）15.5に等しい。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2022,7 +2022,7 @@
       "text" : "これらの品詞は PA ですので、文法上、これらの符号は数の一部分とみなされます。 {ma'u} は単独でも数として扱うことができ、その場合の意味は、大抵、「何らかの正の数」と意味に訳されるでしょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {ma'u pa}\n+1\n② {li ci vu'u re du li ma'u} [8.14, CLL 18.8]\n3 - 2 = 正の数"
+      "text" : "① {ma'u pa}\n+1\n② {li ci vu'u re du li ma'u} [CLL:18.8.14]\n3 - 2 = 正の数"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2098,7 +2098,7 @@
       "text" : "これらの品詞は PA ですので、文法上、これらの符号は数の一部分とみなされます。 {ma'u} は単独でも数として扱うことができ、その場合の意味は、大抵、「何らかの正の数」と意味に訳されるでしょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {ni'u pa} [3.1, CLL 18.8]\n-1\n② {li ci vu'u vo du li ni'u} [8.15, CLL 18.8]\n3 - 4 = 負の数"
+      "text" : "① {ni'u pa} [CLL:18.3.1]\n-1\n② {li ci vu'u vo du li ni'u} [CLL:18.8.15]\n3 - 4 = 負の数"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2180,7 +2180,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {pi} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {ci pi pa vo pa mu}  [3.2, CLL 18.8]\n3.1415\n② {pi ci mu ra'e pa vo re bi mu ze} [3.5, CLL 18.8]\n.35142857142857..."
+      "text" : "① {ci pi pa vo pa mu}  [CLL:18.3.2]\n3.1415\n② {pi ci mu ra'e pa vo re bi mu ze} [CLL:18.3.5]\n.35142857142857..."
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2256,7 +2256,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {fi'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {re fi'u ze}  [3.3, CLL 18.8]\n2/7\n② {fi'u ze} [3.4, CLL 18.8]\n1/7"
+      "text" : "① {re fi'u ze}  [CLL:18.3.3]\n2/7\n② {fi'u ze} [CLL:18.3.4]\n1/7"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2396,7 +2396,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {ce'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {ci mu ce'i} [3.6, CLL 18.3]\n35%"
+      "text" : "① {ci mu ce'i} [CLL:18.3.6]\n35%"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2469,7 +2469,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {ki'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {pa ki'o re ci vo ki'o mu xa ze} [3.7, CLL 18.3]\n1 234 567\n② {pa ki'o re re} [3.9, CLL 18.3]\n.022\n③ {pi pa ki'o pa re ki'o pa} [3.10, CLL 18.3]\n.1 012 001\n④ {li ci no no ki'o ki'o du li bi gei ci} [14.2, CLL 18.14]\n300 000 000 = 3 × 10⁸\n\uD83D\uDC49 このように {ki'o} を繰り返すことで大きな数を表すことができますが、 {gei} を使えば簡潔に大きな数を表記することができます。"
+      "text" : "① {pa ki'o re ci vo ki'o mu xa ze} [CLL:18.3.7]\n1 234 567\n② {pa ki'o re re} [CLL:18.3.9]\n.022\n③ {pi pa ki'o pa re ki'o pa} [CLL:18.3.10]\n.1 012 001\n④ {li ci no no ki'o ki'o du li bi gei ci} [CLL:18.14.2]\n300 000 000 = 3 × 10⁸\n\uD83D\uDC49 このように {ki'o} を繰り返すことで大きな数を表すことができますが、 {gei} を使えば簡潔に大きな数を表記することができます。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2539,7 +2539,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {ro} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu ro prenu} [8.2, CLL 18.8]\n私はすべての人を見る。"
+      "text" : "① {mi catlu ro prenu} [CLL:18.8.2]\n私はすべての人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2589,12 +2589,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -2681,7 +2675,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {so'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu so'a prenu} [8.3, CLL 18.8]\n私はほとんどすべての人を見る。"
+      "text" : "① {mi catlu so'a prenu} [CLL:18.8.3]\n私はほとんどすべての人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2731,12 +2725,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -2823,7 +2811,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {so'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu so'e prenu} [8.4, CLL 18.8]\n私はほとんどの人を見る。"
+      "text" : "① {mi catlu so'e prenu} [CLL:18.8.4]\n私はほとんどの人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -2873,12 +2861,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -2965,7 +2947,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {so'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu so'i prenu} [8.5, CLL 18.8]\n私はたくさんの人を見る。"
+      "text" : "① {mi catlu so'i prenu} [CLL:18.8.5]\n私はたくさんの人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3018,12 +3000,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -3104,7 +3080,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {so'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu so'u prenu} [8.6, CLL 18.8]\n私は幾人かの人を見る。"
+      "text" : "① {mi catlu so'u prenu} [CLL:18.8.6]\n私は幾人かの人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3154,12 +3130,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -3246,7 +3216,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {so'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu so'u prenu} [8.7, CLL 18.8]\n私は幾人かの人を見る。"
+      "text" : "① {mi catlu so'u prenu} [CLL:18.8.7]\n私は幾人かの人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3296,12 +3266,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -3379,7 +3343,7 @@
       "title" : "機能語",
       "forms" : [ "典型的な数" ]
     } ],
-    "tags" : [ "機能語《シマボ》", "PA", "PA4" ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5" ],
     "contents" : [ {
       "title" : "語法",
       "text" : "{no'o} は文脈に依存する典型的、平均的な数値量です。この「平均的」は、一般には数学的な平均値とか中央値とか最頻値といったものではありません。「私は {no'o} 、どこにでもいる普通の数値」という感じの意味の「平均的」です。"
@@ -3388,7 +3352,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {no'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu no'o prenu} [8.9, CLL 18.8]\n私は典型的な人数の人を見る。"
+      "text" : "① {mi catlu no'o prenu} [CLL:18.8.9]\n私は典型的な人数の人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3401,106 +3365,40 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "PA4",
+      "title" : "PA5",
       "entry" : {
-        "id" : 27,
-        "form" : "ro"
+        "id" : 58,
+        "form" : "ci'i"
       }
     }, {
-      "title" : "PA4",
+      "title" : "PA5",
       "entry" : {
-        "id" : 28,
-        "form" : "so'a"
+        "id" : 59,
+        "form" : "ka'o"
       }
     }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 29,
-        "form" : "so'e"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 30,
-        "form" : "so'i"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 31,
-        "form" : "so'o"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 32,
-        "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
+      "title" : "PA5",
       "entry" : {
         "id" : 33,
         "form" : "no'o"
       }
     }, {
-      "title" : "PA4",
+      "title" : "PA5",
       "entry" : {
-        "id" : 34,
-        "form" : "da'a"
+        "id" : 60,
+        "form" : "pai"
       }
     }, {
-      "title" : "PA4",
+      "title" : "PA5",
       "entry" : {
-        "id" : 35,
-        "form" : "rau"
+        "id" : 61,
+        "form" : "te'o"
       }
     }, {
-      "title" : "PA4",
+      "title" : "PA5",
       "entry" : {
-        "id" : 36,
-        "form" : "du'e"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 37,
-        "form" : "mo'a"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 38,
-        "form" : "ji'i"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 39,
-        "form" : "su'e"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 40,
-        "form" : "su'o"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 41,
-        "form" : "me'i"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 42,
-        "form" : "za'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 43,
-        "form" : "xo"
+        "id" : 62,
+        "form" : "tu'o"
       }
     } ]
   }, {
@@ -3521,7 +3419,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {da'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu da'a re prenu} [8.11, CLL 18.8]\n私は2人を除く全ての人を見る。\n② {mi catlu da'a so'u prenu} [8.12, CLL 18.8]\n私は少しの人数を除く全ての人を見る。"
+      "text" : "① {mi catlu da'a re prenu} [CLL:18.8.11]\n私は2人を除く全ての人を見る。\n② {mi catlu da'a so'u prenu} [CLL:18.8.12]\n私は少しの人数を除く全ての人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3571,12 +3469,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -3657,7 +3549,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {rau} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi ponse rau rupnu} [8.17, CLL 18.8]\n私には充分なお金がある。"
+      "text" : "① {mi ponse rau rupnu} [CLL:18.8.17]\n私には充分なお金がある。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3701,12 +3593,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -3787,7 +3673,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {du'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {lei ratcu poi zvati le panka cu du'e mei fo mi} [11.11, CLL 18.11]\nその公園にいる鼠の群れは私にとって多すぎる。"
+      "text" : "① {lei ratcu poi zvati le panka cu du'e mei fo mi} [CLL:18.11.11]\nその公園にいる鼠の群れは私にとって多すぎる。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -3831,12 +3717,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -3962,12 +3842,6 @@
     }, {
       "title" : "PA4",
       "entry" : {
-        "id" : 33,
-        "form" : "no'o"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
         "id" : 34,
         "form" : "da'a"
       }
@@ -4056,7 +3930,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {ji'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {ji'i vo no} [9.1, CLL 18.9]\nおよそ 40\n② {vo no ji'i mu no} [9.2, CLL 18.9]\nおよそ 4050\n\uD83D\uDC49 このとき、 4000 までは正確ですが、 50 は近似であることを表しています。\n③ {re pi ze re ji'i} [9.3, CLL 18.9]\n2.72 （丸め）\n\uD83D\uDC49 10進数のときは四捨五入です。\n④ {re pi ze re ji'i ma'u} [9.4, CLL 18.9]\n2.72 （切り上げ）\n⑤ {re pi ze re ji'i ni'u} [9.5, CLL 18.9]\n2.72 （切り下げ）"
+      "text" : "① {ji'i vo no} [CLL:18.9.1]\nおよそ 40\n② {vo no ji'i mu no} [CLL:18.9.2]\nおよそ 4050\n\uD83D\uDC49 このとき、 4000 までは正確ですが、 50 は近似であることを表しています。\n③ {re pi ze re ji'i} [CLL:18.9.3]\n2.72 （丸め）\n\uD83D\uDC49 10進数のときは四捨五入です。\n④ {re pi ze re ji'i ma'u} [CLL:18.9.4]\n2.72 （切り上げ）\n⑤ {re pi ze re ji'i ni'u} [CLL:18.9.5]\n2.72 （切り下げ）"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -4100,12 +3974,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -4186,7 +4054,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {su'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu su'e re prenu} [9.6, CLL 18.9]\n私は多くとも2人の人を見る。"
+      "text" : "① {mi catlu su'e re prenu} [CLL:18.9.6]\n私は多くとも2人の人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -4236,12 +4104,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -4340,7 +4202,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {su'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu su'o re prenu} [9.7, CLL 18.9]\n私は少なくとも2人の人を見る。"
+      "text" : "① {mi catlu su'o re prenu} [CLL:18.9.7]\n私は少なくとも2人の人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -4390,12 +4252,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -4500,7 +4356,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {me'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu me'i re prenu} [9.7, CLL 18.9]\n私は2人より少ない人を見る。"
+      "text" : "① {mi catlu me'i re prenu} [CLL:18.9.7]\n私は2人より少ない人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -4544,12 +4400,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -4648,7 +4498,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {za'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {mi catlu me'i re prenu} [9.7, CLL 18.9]\n私は2人より多くの人を見る。"
+      "text" : "① {mi catlu me'i re prenu} [CLL:18.9.7]\n私は2人より多くの人を見る。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -4692,12 +4542,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -4790,7 +4634,7 @@
       "text" : "これらの品詞は PA ですので、文法上、 {xo} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
     }, {
       "title" : "使用例",
-      "text" : "① {li re su'i re du li xo} [12.1, CLL 18.12]\n2 + 2 = ?\n② {le xo moi prenu cu darxi do} [12.2, CLL 18.12]\n何番めの人があなたを叩きましたか？\n③ {li re mu pi'i xa du li pa xo no} [12.3, CLL 18.12]\n25 × 6 = 1?0\n\uD83D\uDC49 {xo} は、他の数字（PA1 など）と組み合わせて使うこともできます。これによって、部分的には既に特定されている数の不明な部分だけを質問することができます。このことは、計算力を確かめる学校のテストなどで役に立ちます。"
+      "text" : "① {li re su'i re du li xo} [CLL:18.12.1]\n2 + 2 = ?\n② {le xo moi prenu cu darxi do} [CLL:18.12.2]\n何番めの人があなたを叩きましたか？\n③ {li re mu pi'i xa du li pa xo no} [CLL:18.12.3]\n25 × 6 = 1?0\n\uD83D\uDC49 {xo} は、他の数字（PA1 など）と組み合わせて使うこともできます。これによって、部分的には既に特定されている数の不明な部分だけを質問することができます。このことは、計算力を確かめる学校のテストなどで役に立ちます。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -4834,12 +4678,6 @@
       "entry" : {
         "id" : 32,
         "form" : "so'u"
-      }
-    }, {
-      "title" : "PA4",
-      "entry" : {
-        "id" : 33,
-        "form" : "no'o"
       }
     }, {
       "title" : "PA4",
@@ -6090,7 +5928,7 @@
       "text" : "{su'ai} は指定された有効桁数内まで正確です。"
     }, {
       "title" : "使用例",
-      "text" : "{mi'ai su'ai slabu ze'a lo nanca be li so'i} [Sentence #3854691, Tatoeba]\n私たちは何年もお互いを知っています。"
+      "text" : "{mi'ai su'ai slabu ze'a lo nanca be li so'i} [Tatoeba:3854691]\n私たちは何年もお互いを知っています。"
     }, {
       "title" : "語源",
       "text" : "定義"
@@ -6480,10 +6318,10 @@
     "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "{xe'e} は任意/非特定の指示対象; 数量詞を変更して、参照セットの特定のメンバーが何であるかが重要でないことを示します。\nhttps://mw.lojban.org/papri/xe%27e などを参照してください。この単語の説明は未完成です。"
+      "text" : "{xe'e} は任意/非特定の指示対象; 数量詞を変更して、参照セットの特定のメンバーが何であるかが重要でないことを示します。\n⚠ https://mw.lojban.org/papri/xe%27e などを参照してください。この単語の説明は未完成です。"
     }, {
       "title" : "語源",
-      "text" : "1994 年に JorgeLlambías によって、内包的修飾子として提案されました。 使用法は記録されておらず、その機能は {lo} に置き換えられました。"
+      "text" : "1994 年に Jorge Llambías によって、内包的修飾子として提案されました。 使用法は記録されておらず、その機能は {lo} に置き換えられました。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6587,6 +6425,2254 @@
       "entry" : {
         "id" : 43,
         "form" : "xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "xo'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ある数", "不特定の数" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA4", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{xo'e} は「ある数」を意味します。ただし、 {no'o} と違い、典型的な数であるとは限りません。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 27,
+        "form" : "ro"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 28,
+        "form" : "so'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 29,
+        "form" : "so'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 30,
+        "form" : "so'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 31,
+        "form" : "so'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 32,
+        "form" : "so'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 34,
+        "form" : "da'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 35,
+        "form" : "rau"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 36,
+        "form" : "du'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 37,
+        "form" : "mo'a"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 38,
+        "form" : "ji'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 39,
+        "form" : "su'e"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 40,
+        "form" : "su'o"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 41,
+        "form" : "me'i"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 42,
+        "form" : "za'u"
+      }
+    }, {
+      "title" : "PA4",
+      "entry" : {
+        "id" : 43,
+        "form" : "xo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "ci'i"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "無限大", "∞" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ci'i} は無限大です。\n数が続く場合は可算無限集合の濃度 (ℵ) を表します。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ci'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "{ma'u ci'i} [CLL:18.4.1]\n+∞\n{ci'i no} [CLL:18.4.3]\nℵ₀ （アレフ・ゼロ、超限数）"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.4. Special numbers"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "ka'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "虚数", "虚数単位", "i", "√-1" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ka'o} は虚数単位です。\n複素数の実部と虚部を分離する区切り記号でもあります。\n四元数については、 {kai'o}, {kei'o}, {koi'o} を参照してください。\n純粋なスカラー値としての虚数は、 {ka'o'ai} を参照してください。\n球面座標系の虚数については、 {ka'o'ei} を参照してください。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ka'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "{ci ka'o re} [CLL:18.4.2]\n3 + 2i"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.4. Special numbers"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kai'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 73,
+        "form" : "kei'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 74,
+        "form" : "koi'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 76,
+        "form" : "ka'o'ai"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 77,
+        "form" : "ka'o'ei"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "pai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "円周率", "π", "パイ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pai} は円周率です。円周と直径の比です。\n{pai} ≃ 3.141 592 653 589 793 238 462 643 383 279"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {no'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {pai} [CLL:18.4.4]\nπ\n② {li pai du li ci pi pa vo pa mu so ji'i} [Tatoeba:4189738]\nπ は約 3.14159 です。\n③ {li te'o te'a vei ka'o pi'i pai ve'o su'i pa du li no} [crashcourse.jbo_eng_dict:1050]\ne ^ (i × π) + 1 = 0"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "覚え方",
+      "text" : "パイ {pai}"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.4. Special numbers"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "te'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ネイピア数", "e", "自然対数の底" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{te'o} は自然対数の底です。\n{te'o} ≃ 2.718 281 828 459 045 235 360 287 471 352"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {te'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {te'o} [CLL:18.4.4]\ne （ネイピア数）\n② {li pa dugri li te'o li te'o} [Tatoeba:3807438]\ne の自然対数は 1 です。"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.4. Special numbers"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "tu'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ヌル被演算子" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{tu'o} は被演算子が足りないときに使います。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {tu'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "① {li tu'o va'a ny. du li no vu'u ny.} [CLL:18.14.1]\n-n = 0 - n"
+    }, {
+      "title" : "語源",
+      "text" : "定義"
+    }, {
+      "title" : "The Complete Lojban Language",
+      "text" : "18.14. Infix operators revisited"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "fai'e'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ファイゲンバウム定数", "δ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fai'e'au} ≃ 4.669 201 609 102 990 671 853 203 821 578"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {fai'e'au} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "語源",
+      "text" : "おそらく Feigenbaum の母音が語源\nFeigenbaum\n→ /ˈfaɪ̯ɡənˌbaʊ̯m/\n→ faigenbaum\n→ fai'e'au"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "fai'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "黄金比", "φ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fai'u} = (1 + √5) / 2  ≃ 1.618 033 988 749 894 848 204 586 834 365"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {fai'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "語源",
+      "text" : "おそらく φ が語源\nφ\n→ /faɪ/\n→ fai\n→ fai'u\n{fai} にならなかったのは、すでに FA として {fai} が使われていたためでしょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "fai'u'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "微細構造定数", "α" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fai'u'a} = 7.2973525693(11) × 10⁻³"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {fai'u'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "fu'a'ai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "first Foias constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fu'a'ai} ≃ 1.187 452 351 126 501 054 595 480 158 396"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {fu'a'ai} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "fu'a'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "second Foias constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fu'a'ai} ≃ 2.293"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {fu'a'au} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "ga'au"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "オイラーの定数", "オイラー・マスケローニ定数", "オイラーのγ", "γ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ga'au} ≃ 0.577 215 664 901 532 860 606 512 090 082"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ga'au} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 69,
+      "form" : "gau'i'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Gauss's constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ga'au} ≃ 0.834 626 841 674 073 186 281 429 73"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ga'au} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 70,
+      "form" : "go'o'i'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Golomb–Dickman constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{go'o'i'a} ≃ 0.624 329 988 543 550 870 992 936 383 100"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {go'o'i'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 71,
+      "form" : "ka'ei'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Conway's look-and-say constant", "λ" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ka'ei'a} ≃ 1.303 577 269 034 296 391 257 099 112 152\nLojbanにとっては特に重要だ。10進数のカウントを前提とします（？）；したがって、完全に文化的に中立であったり、数学的に重要であったりするわけではないが、典型的なLojbanの文脈では理にかなっている。（Jbovlaste からの翻訳）"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ka'ei'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 72,
+      "form" : "kai'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "四元数 i" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{kai'o} は、 {ka'o} のように区切りとして機能します。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {kai'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 73,
+        "form" : "kei'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 74,
+        "form" : "koi'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 73,
+      "form" : "kei'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "四元数 j" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{kei'o} は、 {ka'o} のように区切りとして機能します。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {kei'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kai'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 74,
+        "form" : "koi'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 74,
+      "form" : "koi'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "四元数 k" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{koi'o} は、 {ka'o} のように区切りとして機能します。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {koi'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kai'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 73,
+        "form" : "kei'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 76,
+      "form" : "ka'o'ai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "虚数", "虚数単位", "i", "√-1" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ka'o'ai} は虚数単位です。\nこれは文字通り単位で、スカラーとして扱われる純粋な数です。\n{ka'o} とは違い、区切りとして使えません。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ka'o'ai} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "語源",
+      "text" : "{ka'o} + \"ai\"\n\"ai\" は、虚数単位の i に由来します。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 77,
+      "form" : "ka'o'ei"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "虚数", "虚数単位", "i", "√-1" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ka'o'ei} は球面座標系の虚数単位です。\n最初の座標は数値の大きさ（複素係数、半径）を表し、二番目の数値は単位を変えて、虚軸の正の方向に向かって反時計回りに測定した正の実軸からの角度を表します。その角度は正規化されているとは限りません。"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ka'o'ei} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "{ry ka'o'ei xy} [Jbovlaste:ka'o'ei]\n(r, x) = r * e ^ ix\n\uD83D\uDC49 角度 x はデフォルトでラジアン単位で測定され、必ずしも正規化されているわけではありません。標準的には 0 から tau ラジアン（片側のみを含む。ここでの「tau」は「tau'u」を意味します）ですが、それほど制限する必要はありません。 x はほぼ確実に実数です。 r は必然的に非負で実数です。 r = 0 は、(r, x) = 0 を意味します。  r が無限であるということは、 (r, x) が無限大であることを意味します。"
+    }, {
+      "title" : "語源",
+      "text" : "{ka'o} + \"e\" + \"i\"\n\"e\" は、 {te'o} の e に由来します。\n\"i\" は、虚数単位の i に由来します。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 78,
+      "form" : "kau'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "generic algebra unit" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {kau'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "mai'e'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Meissel–Mertens定数", "Meissel-Mertens constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{mai'e'e} ≃ 0.261 497 212 847 642 783 755 426 838 608"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {mai'e'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 80,
+      "form" : "mu'i'ai"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Hafner–Sarnak–McCurley constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{mu'i'ai} ≃ 0.353 236 371 854 995 984 543 516 550 432"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {mu'i'ai} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 81,
+      "form" : "na'a'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "非数", "NaN" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {na'a'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    }, {
+      "title" : "使用例",
+      "text" : "{li no fe'i no du li na'a'u} [Jbovlaste:na'a'u]\n0 / 0 = NaN"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 82,
+      "form" : "ni'e'ei"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Niven's greatest-exponent prime factorization constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ni'e'ei} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 83,
+      "form" : "ni'e'oi"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Niven's smallest-exponent prime factorization constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ni'e'oi} ≃ 2.173 254 312 519 554 138 237 089 840 438"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ni'e'oi} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 84,
+      "form" : "pa'au'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Universal parabolic constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pa'au'o} = √(2) + ln(1 + √(2)) ≃ 2.295 587 149 392 638 074 034 298 049 189"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {pa'au'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 85,
+      "form" : "pei'i'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "アペリーの定数", "ζ(3)" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pei'i'a} = ζ(3) ≃ 1.202 056 903 159 594 285 399 738 161 511"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {pei'i'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 86,
+      "form" : "pu'e'u'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Prouhet–Thue–Morse constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{pu'e'u'o} ≃ 0.412 454 033 640 107 597 783 361 368 258"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {pu'e'u'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 87,
+      "form" : "se'i'i"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Sierpiński's constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{se'i'i} ≃ 2.584 981 759 579 253 217 065 893 587 383"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {se'i'i} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 88,
+      "form" : "sei'u'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "第一スキューズ数" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {ni'e'oi} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 89,
+      "form" : "tau'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "τ", "2π" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{tau'u} = 2π ≃ 6.283 185 307 179 586 476 925 286 766 559"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {tau'u} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 90,
+      "form" : "va'ei'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "プラスチック数" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{va'ei'a} ≃ 1.324 717 957 244 746 025 960 908 854 478"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {va'ei'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 91,
+      "form" : "vau'au'o"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "オメガ定数" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ni'e'oi} ≃ 0.567 143 290 409 783 872 999 968 662 210"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {vau'au'o} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 92,
+      "form" : "vi'ei'e"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Lévy-Khinchin constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{vi'ei'e} = γ = e^(π^2)/(12 ln(2)) ≃ 3.275 822 918 721 811 159 787 681 882 453"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {vi'ei'e} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 93,
+      "form" : "vo'ei'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ランベルトのW関数に1を代入した値", "W(1)" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{vo'ei'a} ≃ 0.567 143 290 409 783 872 999 968 662 210"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {vo'ei'a} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 94,
+      "form" : "xi'i'ei"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "Khinchin's constant" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "PA", "PA5", "非公式・試験的" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{xi'i'ei} ≃ 2.685 452 001 065 306 445 309 714 835 481"
+    }, {
+      "title" : "文法",
+      "text" : "これらの品詞は PA ですので、文法上、 {xi'i'ei} は数の一部分とみなされます。\nただし、構文解析可能でも、意味をなさない場合があるので、注意しましょう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 58,
+        "form" : "ci'i"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 59,
+        "form" : "ka'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 33,
+        "form" : "no'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 60,
+        "form" : "pai"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 61,
+        "form" : "te'o"
+      }
+    }, {
+      "title" : "PA5",
+      "entry" : {
+        "id" : 62,
+        "form" : "tu'o"
       }
     } ]
   } ],
