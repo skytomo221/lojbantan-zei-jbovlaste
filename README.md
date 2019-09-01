@@ -56,3 +56,8 @@
 
 - Add VUhU0
 - Total: 95 words
+
+### Version 0.11
+
+- Add VUhU1
+- Total: 99 words
