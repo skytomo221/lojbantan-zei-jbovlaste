@@ -8675,6 +8675,65 @@
         "form" : "tu'o"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 95,
+      "form" : "fu'u"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "不特定演算子" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "VUhU", "VUhU0" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{fu'u} は、 n 項演算子の不特定の数式演算子です。"
+    } ],
+    "variations" : [ {
+      "title" : "品詞",
+      "form" : "VUhU0"
+    } ],
+    "relations" : [ {
+      "title" : "VUhU0",
+      "entry" : {
+        "id" : 95,
+        "form" : "fu'u"
+      }
+    }, {
+      "title" : "VUhU0",
+      "entry" : {
+        "id" : 96,
+        "form" : "ge'a"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 96,
+      "form" : "ge'a"
+    },
+    "translations" : [ {
+      "title" : "機能語",
+      "forms" : [ "ヌル演算子" ]
+    } ],
+    "tags" : [ "機能語《シマボ》", "VUhU", "VUhU0" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "{ge'a} は、演算子が存在しないことを表します。\n普通、2項以上の演算子（二項演算子以上）として使用されます。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "VUhU0",
+      "entry" : {
+        "id" : 95,
+        "form" : "fu'u"
+      }
+    }, {
+      "title" : "VUhU0",
+      "entry" : {
+        "id" : 96,
+        "form" : "ge'a"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

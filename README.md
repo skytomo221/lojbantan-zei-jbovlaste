@@ -51,3 +51,8 @@
 
 - Add PA5
 - Total: 93 words
+
+### Version 0.10
+
+- Add VUhU0
+- Total: 95 words
