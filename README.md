@@ -42,22 +42,26 @@
 - Add 9 words of PA4
 - Total: 43 words
 
-### Version 0.8
+### Version 0.9
 
 - Add experimental PA4
 - Total: 57 words
 
-### Version 0.9
+### Version 0.10
 
 - Add PA5
 - Total: 93 words
 
-### Version 0.10
+### Version 0.11
 
 - Add VUhU0
 - Total: 95 words
 
-### Version 0.11
+### Version 0.12
 
 - Add VUhU1
 - Total: 99 words
+
+### Version 0.13
+
+- Add skaitomon-zei-jbovlaste.xlsx
