@@ -6179,3 +6179,7 @@
 ## Version 0.1546
 
 - CSV形式にアウトプット
+
+## Version 0.1547
+
+- SkytomoJbovlaste を追加
