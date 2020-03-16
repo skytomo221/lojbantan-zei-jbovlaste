@@ -6182,4 +6182,12 @@
 
 ## Version 0.1547
 
-- SkytomoJbovlaste を追加
+- SkytomoJbovlasteを追加
+
+## Version 0.1548
+
+- SkytomoJbovlasteにおけるCSVファイルの読み込みを実装
+
+## Version 0.1549
+
+- コードの分割化
