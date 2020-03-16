@@ -6191,3 +6191,7 @@
 ## Version 0.1549
 
 - コードの分割化
+
+## Version 0.1550
+
+- OneToManyJsonクラスを追加
