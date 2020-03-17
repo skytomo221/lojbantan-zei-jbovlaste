@@ -26,7 +26,7 @@ namespace SkytomoJbovlaste
             st.Position = 0;
             StreamReader reader = new StreamReader(st);
             //Console.WriteLine(reader.ReadToEnd());
-            using (StreamWriter sw = new StreamWriter("output.json"))
+            using (StreamWriter sw = new StreamWriter(@"..\..\..\skaitomon-zei-jbovlaste.json"))
             {
                 // ファイルへの書き込み
                 dynamic parsedJson = JsonConvert.DeserializeObject(reader.ReadToEnd());
