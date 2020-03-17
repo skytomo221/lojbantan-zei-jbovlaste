@@ -6195,3 +6195,7 @@
 ## Version 0.1550
 
 - OneToManyJsonクラスを追加
+
+## Version 0.1551
+
+- OneToManyJson形式のファイルの出力を実装

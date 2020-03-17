@@ -16,89 +16,89 @@ namespace SkytomoJbovlaste
             [DataContract]
             public class WordEntry
             {
-                [DataMember]
+                [DataMember(Name = "id")]
                 public int Id { get; set; }
-                [DataMember]
+                [DataMember(Name = "form")]
                 public string Form { get; set; }
             }
 
             [DataContract]
             public class Translation
             {
-                [DataMember]
+                [DataMember(Name = "title")]
                 public string Title { get; set; }
-                [DataMember]
-                public List<string> Forms { get; set; }
+                [DataMember(Name = "forms")]
+                public List<string> Forms { get; set; } = new List<string>();
             }
 
 
             [DataContract]
             public class Content
             {
-                [DataMember]
+                [DataMember(Name = "title")]
                 public string Title { get; set; }
-                [DataMember]
+                [DataMember(Name = "text")]
                 public string Text { get; set; }
             }
 
             [DataContract]
             public class Variation
             {
-                [DataMember]
+                [DataMember(Name = "title")]
                 public string Title { get; set; }
-                [DataMember]
+                [DataMember(Name = "form")]
                 public string Form { get; set; }
             }
 
             [DataContract]
             public class Relation
             {
-                [DataMember]
+                [DataMember(Name = "title")]
                 public string Title { get; set; }
-                [DataMember]
-                public WordEntry Entry { get; set; }
+                [DataMember(Name = "entry")]
+                public WordEntry Entry { get; set; } = new WordEntry();
             }
 
-            [DataMember]
-            public WordEntry Entry { get; set; }
-            [DataMember]
-            public List<Translation> Translations { get; set; }
-            [DataMember]
+            [DataMember(Name = "entry")]
+            public WordEntry Entry { get; set; } = new WordEntry();
+            [DataMember(Name = "translations")]
+            public List<Translation> Translations { get; set; } = new List<Translation>();
+            [DataMember(Name = "tags")]
             public List<string> Tags { get; set; }
-            [DataMember]
-            public List<Content> Contents { get; set; }
-            [DataMember]
-            public List<Variation> Variations { get; set; }
-            [DataMember]
-            public List<Relation> Relations { get; set; }
+            [DataMember(Name = "contents")]
+            public List<Content> Contents { get; set; } = new List<Content>();
+            [DataMember(Name = "variations")]
+            public List<Variation> Variations { get; set; } = new List<Variation>();
+            [DataMember(Name = "relations")]
+            public List<Relation> Relations { get; set; } = new List<Relation>();
         }
 
         [DataContract]
         public class ZpdicClass
         {
-            [DataMember]
+            [DataMember(Name = "alphabetOrder")]
             public string AlphabetOrder { get; set; }
-            [DataMember]
+            [DataMember(Name = "wordOrderType")]
             public string WordOrderType { get; set; }
-            [DataMember]
+            [DataMember(Name = "punctuations")]
             public List<string> Punctuations { get; set; }
-            [DataMember]
+            [DataMember(Name = "ignoredTranslationRegex")]
             public string IgnoredTranslationRegex { get; set; }
-            [DataMember]
+            [DataMember(Name = "pronunciationTitle")]
             public string PronunciationTitle { get; set; }
-            [DataMember]
-            public List<string> PlainInformationTitles { get; set; }
-            [DataMember]
+            [DataMember(Name = "plainInformationTitles")]
+            public List<string> PlainInformationTitles { get; set; } = new List<string>();
+            [DataMember(Name = "informationTitleOrder")]
             public object InformationTitleOrder { get; set; }
-            [DataMember]
+            [DataMember(Name = "formFontFamily")]
             public object FormFontFamily { get; set; }
-            [DataMember]
+            [DataMember(Name = "defaultWord")]
             public Word DefaultWord { get; set; }
         }
 
-        [DataMember]
-        public List<Word> Words { get; set; }
-        [DataMember]
+        [DataMember(Name = "words")]
+        public List<Word> Words { get; set; } = new List<Word>();
+        [DataMember(Name = "zpdic")]
         public ZpdicClass Zpdic { get; set; }
     }
 }
