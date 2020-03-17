@@ -164,6 +164,23 @@ namespace SkytomoJbovlaste
                         Title = "rafsi",
                         Form = item.Rafsi1,
                     });
+                    json.Words.Add(new OneToManyJson.Word()
+                    {
+                        Tags = new List<string>() { "語根《ラフシ》" },
+                        Entry = new OneToManyJson.Word.WordEntry()
+                        {
+                            Id = id + 10000,
+                            Form = item.Rafsi1.Replace("-", "").Trim(),
+                        },
+                        Translations = new List<OneToManyJson.Word.Translation>()
+                        {
+                            new OneToManyJson.Word.Translation ()
+                            {
+                                Title = "形態素",
+                                Forms = new List<string>() {item.Name + "のrafsi" },
+                            },
+                        },
+                    });
                 }
                 if (item.Rafsi2 != string.Empty)
                 {
@@ -171,6 +188,23 @@ namespace SkytomoJbovlaste
                     {
                         Title = "rafsi",
                         Form = item.Rafsi2,
+                    });
+                    json.Words.Add(new OneToManyJson.Word()
+                    {
+                        Tags = new List<string>() { "語根《ラフシ》" },
+                        Entry = new OneToManyJson.Word.WordEntry()
+                        {
+                            Id = id + 20000,
+                            Form = item.Rafsi2.Replace("-", "").Trim(),
+                        },
+                        Translations = new List<OneToManyJson.Word.Translation>()
+                        {
+                            new OneToManyJson.Word.Translation ()
+                            {
+                                Title = "形態素",
+                                Forms = new List<string>() {item.Name + "のrafsi" },
+                            },
+                        },
                     });
                 }
                 foreach (var superordinateConcept in item.SuperordinateConcept)

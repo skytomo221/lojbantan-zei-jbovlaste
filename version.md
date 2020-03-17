@@ -6203,3 +6203,11 @@
 ## Version 0.1552
 
 - OneToManyJson形式のファイルの出力で空欄を出力しないように修正
+
+## Version 0.1553
+
+- jsonファイルの出力先を変更
+
+## Version 0.1554
+
+- rafsiの追加
