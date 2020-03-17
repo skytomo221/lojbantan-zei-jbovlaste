@@ -6199,3 +6199,7 @@
 ## Version 0.1551
 
 - OneToManyJson形式のファイルの出力を実装
+
+## Version 0.1552
+
+- OneToManyJson形式のファイルの出力で空欄を出力しないように修正

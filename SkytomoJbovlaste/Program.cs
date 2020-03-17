@@ -117,31 +117,46 @@ namespace SkytomoJbovlaste
                     Forms = item.Keywords,
                 });
                 word.Tags = item.Tags;
-                word.Contents.Add(new OneToManyJson.Word.Content()
+                if (item.Usage != string.Empty)
                 {
-                    Title = "語法",
-                    Text = item.Usage,
-                });
-                word.Contents.Add(new OneToManyJson.Word.Content()
+                    word.Contents.Add(new OneToManyJson.Word.Content()
+                    {
+                        Title = "語法",
+                        Text = item.Usage,
+                    });
+                }
+                if (item.References != string.Empty)
                 {
-                    Title = "参照",
-                    Text = item.References,
-                });
-                word.Contents.Add(new OneToManyJson.Word.Content()
+                    word.Contents.Add(new OneToManyJson.Word.Content()
+                    {
+                        Title = "参照",
+                        Text = item.References,
+                    });
+                }
+                if (item.Tips != string.Empty)
                 {
-                    Title = "Tips",
-                    Text = item.Tips,
-                });
-                word.Contents.Add(new OneToManyJson.Word.Content()
+                    word.Contents.Add(new OneToManyJson.Word.Content()
+                    {
+                        Title = "Tips",
+                        Text = item.Tips,
+                    });
+                }
+                if (item.Lojbantan != string.Empty)
                 {
-                    Title = "ロジバンたんのメモ",
-                    Text = item.Lojbantan,
-                });
-                word.Contents.Add(new OneToManyJson.Word.Content()
+                    word.Contents.Add(new OneToManyJson.Word.Content()
+                    {
+                        Title = "ロジバンたんのメモ",
+                        Text = item.Lojbantan,
+                    });
+                }
+                if (item.HowToMemorise != string.Empty)
                 {
-                    Title = "覚え方",
-                    Text = item.HowToMemorise,
-                });
+                    word.Contents.Add(new OneToManyJson.Word.Content()
+                    {
+                        Title = "覚え方",
+                        Text = item.HowToMemorise,
+                    });
+                }
                 if (item.Rafsi1 != string.Empty)
                 {
                     word.Variations.Add(new OneToManyJson.Word.Variation()
