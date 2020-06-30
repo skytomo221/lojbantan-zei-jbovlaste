@@ -1,11 +1,13 @@
-﻿using System;
+﻿using CsvHelper;
+using Otamajakushi;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Runtime.Serialization.Json;
-using CsvHelper;
-using Newtonsoft.Json;
+using System.Text.Encodings.Web;
+using System.Text.Json;
+using System.Text.Unicode;
 
 namespace SkytomoJbovlaste
 {
@@ -15,24 +17,16 @@ namespace SkytomoJbovlaste
         {
             var data = Load(@"gismu.csv");
             Console.WriteLine("CSVファイルの読み込みが完了しました");
-            var json = Convert(data);
 
-            // データをJSON形式にシリアル化して、メモリーストリームに出力する。
-            MemoryStream st = new MemoryStream(); // メモリーストリームを作成
-            DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(OneToManyJson)); // シリアライザーを作成
-            serializer.WriteObject(st, json); // シリアライザーで出力
-
-            // メモリーストリームの内容をコンソールに出力する。
-            st.Position = 0;
-            StreamReader reader = new StreamReader(st);
-            //Console.WriteLine(reader.ReadToEnd());
-            using (StreamWriter sw = new StreamWriter(@"skaitomon-zei-jbovlaste.json"))
+            var dictionary = Convert(data);
+            var options = new System.Text.Json.JsonSerializerOptions
             {
-                // ファイルへの書き込み
-                dynamic parsedJson = JsonConvert.DeserializeObject(reader.ReadToEnd());
-                sw.WriteLine(JsonConvert.SerializeObject(parsedJson, Formatting.Indented));
-            }
-
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+                Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),
+                WriteIndented = true,
+            };
+            var json = OneToManyJsonSerializer.Serialize(dictionary, options);
+            File.WriteAllText(@"output.json", json);
             Console.WriteLine("JSONファイルの書き込みが完了しました");
         }
 
@@ -46,203 +40,145 @@ namespace SkytomoJbovlaste
             }
         }
 
-        public static OneToManyJson Convert(List<GismuWord> collection)
+        public static OneToManyJson Convert(List<GismuWord> gismus)
         {
-            int id = 1;
-            var json = new OneToManyJson();
-            foreach (var item in collection)
+            var dictionary = new OneToManyJson();
+            foreach (var gismu in gismus)
             {
-                var word = new OneToManyJson.Word();
-                word.Entry.Form = item.Name;
-                word.Entry.Id = id++;
-                foreach (var meaning in item.Meanings)
+                var word = new Word
                 {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
+                    Entry = new Entry
+                    {
+                        Form = gismu.Name,
+                    },
+                    Translations = new List<Translation>(),
+                    Tags = gismu.Tags,
+                };
+                foreach (var meaning in gismu.Meanings)
+                {
+                    word.Translations.Add(new Translation()
                     {
                         Title = "内容語",
                         Forms = new List<string>() { meaning },
                     });
                 }
-                if (item.Argument1.Count != 0)
+                var translationsTuples = new List<Tuple<string, List<string>>>
                 {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
-                    {
-                        Title = "lo go'i",
-                        Forms = item.Argument1,
-                    });
-                }
-                if (item.Argument2.Count != 0)
+                    new Tuple<string, List<string>> ("lo go'i", gismu.Argument1),
+                    new Tuple<string, List<string>> ("lo se go'i", gismu.Argument2),
+                    new Tuple<string, List<string>> ("lo te go'i", gismu.Argument3),
+                    new Tuple<string, List<string>> ("lo ve go'i", gismu.Argument4),
+                    new Tuple<string, List<string>> ("lo xe go'i", gismu.Argument5),
+                    new Tuple<string, List<string>> ("la go'i", gismu.Cmevla),
+                    new Tuple<string, List<string>> ("キーワード", gismu.Keywords),
+                };
+                foreach (var (title, forms) in translationsTuples)
                 {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
+                    var newforms = forms.Where(x => !string.IsNullOrWhiteSpace(x)).ToList();
+                    if (newforms.Count > 0)
                     {
-                        Title = "lo se go'i",
-                        Forms = item.Argument2,
-                    });
-                }
-                if (item.Argument3.Count != 0)
-                {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
-                    {
-                        Title = "lo te go'i",
-                        Forms = item.Argument3,
-                    });
-                }
-                if (item.Argument4.Count != 0)
-                {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
-                    {
-                        Title = "lo ve go'i",
-                        Forms = item.Argument4,
-                    });
-                }
-                if (item.Argument5.Count != 0)
-                {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
-                    {
-                        Title = "lo xe go'i",
-                        Forms = item.Argument5,
-                    });
-                }
-                if (item.Cmevla.Count != 0)
-                {
-                    word.Translations.Add(new OneToManyJson.Word.Translation()
-                    {
-                        Title = "la go'i",
-                        Forms = item.Cmevla,
-                    });
-                }
-                word.Translations.Add(new OneToManyJson.Word.Translation()
-                {
-                    Title = "キーワード",
-                    Forms = item.Keywords,
-                });
-                word.Tags = item.Tags;
-                if (item.Usage != string.Empty)
-                {
-                    word.Contents.Add(new OneToManyJson.Word.Content()
-                    {
-                        Title = "語法",
-                        Text = item.Usage,
-                    });
-                }
-                if (item.References != string.Empty)
-                {
-                    word.Contents.Add(new OneToManyJson.Word.Content()
-                    {
-                        Title = "参照",
-                        Text = item.References,
-                    });
-                }
-                if (item.Tips != string.Empty)
-                {
-                    word.Contents.Add(new OneToManyJson.Word.Content()
-                    {
-                        Title = "Tips",
-                        Text = item.Tips,
-                    });
-                }
-                if (item.Lojbantan != string.Empty)
-                {
-                    word.Contents.Add(new OneToManyJson.Word.Content()
-                    {
-                        Title = "ロジバンたんのメモ",
-                        Text = item.Lojbantan,
-                    });
-                }
-                if (item.HowToMemorise != string.Empty)
-                {
-                    word.Contents.Add(new OneToManyJson.Word.Content()
-                    {
-                        Title = "覚え方",
-                        Text = item.HowToMemorise,
-                    });
-                }
-                if (item.Rafsi1 != string.Empty)
-                {
-                    word.Variations.Add(new OneToManyJson.Word.Variation()
-                    {
-                        Title = "rafsi",
-                        Form = item.Rafsi1,
-                    });
-                    json.Words.Add(new OneToManyJson.Word()
-                    {
-                        Tags = new List<string>() { "語根《ラフシ》" },
-                        Entry = new OneToManyJson.Word.WordEntry()
+                        word.Translations.Add(new Translation()
                         {
-                            Id = id + 10000,
-                            Form = item.Rafsi1.Replace("-", "").Trim(),
-                        },
-                        Translations = new List<OneToManyJson.Word.Translation>()
+                            Title = title,
+                            Forms = newforms,
+                        });
+                    }
+                }
+                var contentsTuples = new List<Tuple<string, string>>
+                {
+                    new Tuple<string, string> ("語法", gismu.Usage),
+                    new Tuple<string, string> ("参照", gismu.References),
+                    new Tuple<string, string> ("Tips", gismu.Tips),
+                    new Tuple<string, string> ("ロジバンたんのメモ", gismu.Lojbantan),
+                    new Tuple<string, string> ("覚え方", gismu.HowToMemorise),
+                };
+                foreach (var (title, text) in contentsTuples)
+                {
+                    if (!string.IsNullOrEmpty(text))
+                    {
+                        word.Contents.Add(new Content()
                         {
-                            new OneToManyJson.Word.Translation ()
+                            Title = title,
+                            Text = text,
+                        });
+                    }
+                }
+                var variations = new List<string>
+                {
+                    gismu.Rafsi1,
+                    gismu.Rafsi2,
+                };
+                foreach (var variation in variations)
+                {
+                    if (!string.IsNullOrEmpty(variation))
+                    {
+                        word.Variations.Add(new Variation()
+                        {
+                            Title = "rafsi",
+                            Form = variation,
+                        });
+                        dictionary.AddWord(new Word()
+                        {
+                            Entry = new Entry
                             {
-                                Title = "形態素",
-                                Forms = new List<string>() {item.Name + "のrafsi" },
+                                Form = variation.Replace("-", string.Empty).Trim(),
                             },
-                        },
-                    });
-                }
-                if (item.Rafsi2 != string.Empty)
-                {
-                    word.Variations.Add(new OneToManyJson.Word.Variation()
-                    {
-                        Title = "rafsi",
-                        Form = item.Rafsi2,
-                    });
-                    json.Words.Add(new OneToManyJson.Word()
-                    {
-                        Tags = new List<string>() { "語根《ラフシ》" },
-                        Entry = new OneToManyJson.Word.WordEntry()
-                        {
-                            Id = id + 20000,
-                            Form = item.Rafsi2.Replace("-", "").Trim(),
-                        },
-                        Translations = new List<OneToManyJson.Word.Translation>()
-                        {
-                            new OneToManyJson.Word.Translation ()
+                            Tags = new List<string>() { "語根《ラフシ》" },
+                            Translations = new List<Translation>()
                             {
-                                Title = "形態素",
-                                Forms = new List<string>() {item.Name + "のrafsi" },
+                                new Translation ()
+                                {
+                                    Title = "形態素",
+                                    Forms = new List<string>() {gismu.Name + "のrafsi" },
+                                },
                             },
-                        },
-                    });
-                }
-                foreach (var superordinateConcept in item.SuperordinateConcept)
-                {
-                    if (collection.FindIndex(x => x.Name == superordinateConcept) != -1)
-                    {
-                        word.Relations.Add(new OneToManyJson.Word.Relation()
-                        {
-                            Title = "上位概念",
-                            Entry = new OneToManyJson.Word.WordEntry()
+                            Relations = new List<Relation>
                             {
-                                Id = collection.FindIndex(x => x.Name == superordinateConcept) + 1,
-                                Form = superordinateConcept,
+                                new Relation
+                                {
+                                    Title = "gismu",
+                                    Entry = word.Entry,
+                                }
                             }
                         });
                     }
                 }
-                json.Words.Add(word);
-                json.Zpdic = new OneToManyJson.ZpdicClass()
-                {
-                    AlphabetOrder = string.Empty,
-                    WordOrderType = "UNICODE",
-                    Punctuations = new List<string>() { ",", "、" },
-                    IgnoredTranslationRegex = "\\s*\\(.+?\\)\\s*|\\s*（.+?）\\s*|～",
-                    PronunciationTitle = "発音",
-                    PlainInformationTitles = new List<string>()
-                    {
-                        "The Complete Lojban Language",
-                        "はじめてのロジバン 第2版",
-                        "ko lojbo .iu ロジバン入門",
-                        "Lojban Wave Lessons",
-                        "はじめてのロジバン"
-                    },
-                    InformationTitleOrder = null,
-                    FormFontFamily = null,
-                };
+                dictionary.AddWord(word);
             }
-            return json;
+            foreach (var gismu in gismus)
+            {
+                foreach (var superordinateConcept in gismu.SuperordinateConcept)
+                {
+                    foreach (var word in dictionary.Words.FindAll(x => x.Entry.Form == superordinateConcept))
+                    {
+                        dictionary.Words.Find(x => x.Entry.Form == gismu.Name).Relations.Add(new Relation()
+                        {
+                            Title = "上位概念",
+                            Entry = word.Entry,
+                        });
+                    }
+                }
+            }
+            dictionary.Zpdic = new Zpdic()
+            {
+                AlphabetOrder = string.Empty,
+                WordOrderType = "UNICODE",
+                Punctuations = new List<string>() { ",", "、" },
+                IgnoredTranslationRegex = "\\s*\\(.+?\\)\\s*|\\s*（.+?）\\s*|～",
+                PronunciationTitle = "発音",
+                PlainInformationTitles = new List<string>()
+                {
+                    "The Complete Lojban Language",
+                    "はじめてのロジバン 第2版",
+                    "ko lojbo .iu ロジバン入門",
+                    "Lojban Wave Lessons",
+                    "はじめてのロジバン"
+                },
+                InformationTitleOrder = null,
+                FormFontFamily = null,
+            };
+            dictionary.RelationIdCompletion();
+            return dictionary;
         }
     }
 }
