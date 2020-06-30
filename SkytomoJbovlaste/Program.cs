@@ -15,11 +15,14 @@ namespace SkytomoJbovlaste
     {
         static void Main(string[] args)
         {
-            var data = Load(@"gismu.csv");
+            var gismus = LoadGismu(@"gismu.csv");
+            var cmavos = LoadCmavo(@"cmavo.csv");
             Console.WriteLine("CSVファイルの読み込みが完了しました");
 
-            var dictionary = Convert(data);
-            var options = new System.Text.Json.JsonSerializerOptions
+            var dictionary = new OneToManyJson();
+            ConvertGismu(gismus, dictionary);
+            ConvertCmavo(cmavos, dictionary);
+            var options = new JsonSerializerOptions
             {
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
                 Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),
@@ -30,7 +33,7 @@ namespace SkytomoJbovlaste
             Console.WriteLine("JSONファイルの書き込みが完了しました");
         }
 
-        public static List<GismuWord> Load(string path)
+        public static List<GismuWord> LoadGismu(string path)
         {
             using (var reader = new StreamReader(path))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
@@ -40,9 +43,18 @@ namespace SkytomoJbovlaste
             }
         }
 
-        public static OneToManyJson Convert(List<GismuWord> gismus)
+        public static List<CmavoWord> LoadCmavo(string path)
         {
-            var dictionary = new OneToManyJson();
+            using (var reader = new StreamReader(path))
+            using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
+            {
+                csv.Configuration.RegisterClassMap<CmavoMap>();
+                return csv.GetRecords<CmavoWord>().ToList();
+            }
+        }
+
+        public static void ConvertGismu(List<GismuWord> gismus, OneToManyJson dictionary)
+        {
             foreach (var gismu in gismus)
             {
                 var word = new Word
@@ -178,7 +190,108 @@ namespace SkytomoJbovlaste
                 FormFontFamily = null,
             };
             dictionary.RelationIdCompletion();
-            return dictionary;
+        }
+
+        public static void ConvertCmavo(List<CmavoWord> cmavos, OneToManyJson dictionary)
+        {
+            foreach (var cmavo in cmavos)
+            {
+                var word = new Word
+                {
+                    Entry = new Entry
+                    {
+                        Form = cmavo.Name,
+                    },
+                    Translations = new List<Translation>(),
+                    Tags = cmavo.Tags,
+                };
+                word.Tags.Add(cmavo.Selmaho);
+                foreach (var meaning in cmavo.Meanings)
+                {
+                    word.Translations.Add(new Translation()
+                    {
+                        Title = "機能語",
+                        Forms = new List<string>() { meaning },
+                    });
+                }
+                var translationsTuples = new List<Tuple<string, List<string>>>
+                {
+                    new Tuple<string, List<string>> ("キーワード", cmavo.Keywords),
+                };
+                foreach (var (title, forms) in translationsTuples)
+                {
+                    var newforms = forms.Where(x => !string.IsNullOrWhiteSpace(x)).ToList();
+                    if (newforms.Count > 0)
+                    {
+                        word.Translations.Add(new Translation()
+                        {
+                            Title = title,
+                            Forms = newforms,
+                        });
+                    }
+                }
+                var contentsTuples = new List<Tuple<string, string>>
+                {
+                    new Tuple<string, string> ("語法", cmavo.Usage),
+                    new Tuple<string, string> ("文法", cmavo.Grammar),
+                    new Tuple<string, string> ("例", cmavo.Example),
+                    new Tuple<string, string> ("語源", cmavo.Etymology),
+                    new Tuple<string, string> ("ロジバンたんのメモ", cmavo.Lojbantan),
+                    new Tuple<string, string> ("覚え方", cmavo.HowToMemorise),
+                };
+                foreach (var (title, text) in contentsTuples)
+                {
+                    if (!string.IsNullOrEmpty(text))
+                    {
+                        word.Contents.Add(new Content()
+                        {
+                            Title = title,
+                            Text = text,
+                        });
+                    }
+                }
+                var variations = new List<string>
+                {
+                    cmavo.Rafsi1,
+                    cmavo.Rafsi2,
+                };
+                foreach (var variation in variations)
+                {
+                    if (!string.IsNullOrEmpty(variation))
+                    {
+                        word.Variations.Add(new Variation()
+                        {
+                            Title = "rafsi",
+                            Form = variation,
+                        });
+                        dictionary.AddWord(new Word()
+                        {
+                            Entry = new Entry
+                            {
+                                Form = variation.Replace("-", string.Empty).Trim(),
+                            },
+                            Tags = new List<string>() { "語根《ラフシ》" },
+                            Translations = new List<Translation>()
+                            {
+                                new Translation ()
+                                {
+                                    Title = "形態素",
+                                    Forms = new List<string>() {cmavo.Name + "のrafsi" },
+                                },
+                            },
+                            Relations = new List<Relation>
+                            {
+                                new Relation
+                                {
+                                    Title = "gismu",
+                                    Entry = word.Entry,
+                                }
+                            }
+                        });
+                    }
+                }
+                dictionary.AddWord(word);
+            }
         }
     }
 }
