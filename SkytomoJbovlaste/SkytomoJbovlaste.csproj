@@ -59,13 +59,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CmavoMap.cs" />
+    <Compile Include="CmavoWord.cs" />
     <Compile Include="CommaConverter.cs" />
     <Compile Include="OneToManyJson.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SemicolonConverter.cs" />
-    <Compile Include="Word.cs" />
-    <Compile Include="WordMap.cs" />
+    <Compile Include="GismuWord.cs" />
+    <Compile Include="GismuMap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

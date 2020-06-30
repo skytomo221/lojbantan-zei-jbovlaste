@@ -13,7 +13,7 @@ namespace SkytomoJbovlaste
     {
         static void Main(string[] args)
         {
-            var data = Load(@"..\..\..\skaitomon-zei-jbovlaste.csv");
+            var data = Load(@"gismu.csv");
             Console.WriteLine("CSVファイルの読み込みが完了しました");
             var json = Convert(data);
 
@@ -26,7 +26,7 @@ namespace SkytomoJbovlaste
             st.Position = 0;
             StreamReader reader = new StreamReader(st);
             //Console.WriteLine(reader.ReadToEnd());
-            using (StreamWriter sw = new StreamWriter(@"..\..\..\skaitomon-zei-jbovlaste.json"))
+            using (StreamWriter sw = new StreamWriter(@"skaitomon-zei-jbovlaste.json"))
             {
                 // ファイルへの書き込み
                 dynamic parsedJson = JsonConvert.DeserializeObject(reader.ReadToEnd());
@@ -36,17 +36,17 @@ namespace SkytomoJbovlaste
             Console.WriteLine("JSONファイルの書き込みが完了しました");
         }
 
-        public static List<Word> Load(string path)
+        public static List<GismuWord> Load(string path)
         {
             using (var reader = new StreamReader(path))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
-                csv.Configuration.RegisterClassMap<WordMap>();
-                return csv.GetRecords<Word>().ToList();
+                csv.Configuration.RegisterClassMap<GismuMap>();
+                return csv.GetRecords<GismuWord>().ToList();
             }
         }
 
-        public static OneToManyJson Convert(List<Word> collection)
+        public static OneToManyJson Convert(List<GismuWord> collection)
         {
             int id = 1;
             var json = new OneToManyJson();

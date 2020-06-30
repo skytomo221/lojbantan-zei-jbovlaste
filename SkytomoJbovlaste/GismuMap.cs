@@ -2,9 +2,9 @@
 
 namespace SkytomoJbovlaste
 {
-    public class WordMap : ClassMap<Word>
+    public class GismuMap : ClassMap<GismuWord>
     {
-        public WordMap()
+        public GismuMap()
         {
             Map(m => m.Name).Name("gismu");
             Map(m => m.IsOfficial).Name("標準");

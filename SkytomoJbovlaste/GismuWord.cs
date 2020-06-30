@@ -2,7 +2,7 @@
 
 namespace SkytomoJbovlaste
 {
-    public class Word
+    public class GismuWord
     {
         public string Name { get; set; }
         public bool IsOfficial { get; set; }
@@ -30,5 +30,4 @@ namespace SkytomoJbovlaste
         public string TypeOfArgument4 { get; set; }
         public string TypeOfArgument5 { get; set; }
     }
-
 }
