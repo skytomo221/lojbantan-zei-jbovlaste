@@ -12,6 +12,7 @@ namespace SkytomoJbovlaste
             Map(m => m.Tags).Name("タグ").TypeConverter<CommaConverter>();
             Map(m => m.Meanings).Name("機能語").TypeConverter<SemicolonConverter>();
             Map(m => m.Keywords).Name("キーワード").TypeConverter<CommaConverter>();
+            Map(m => m.Original).Name("原文");
             Map(m => m.Rafsi1).Name("rafsi");
             Map(m => m.Rafsi2).Name("rafsi2");
             Map(m => m.Usage).Name("語法");

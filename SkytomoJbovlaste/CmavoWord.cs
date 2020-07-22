@@ -10,6 +10,7 @@ namespace SkytomoJbovlaste
         public List<string> Tags { get; set; }
         public List<string> Meanings { get; set; }
         public List<string> Keywords { get; set; }
+        public List<string> Original { get; set; }
         public string Rafsi1 { get; set; }
         public string Rafsi2 { get; set; }
         public string Usage { get; set; }

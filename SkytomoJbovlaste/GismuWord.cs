@@ -9,6 +9,7 @@ namespace SkytomoJbovlaste
         public List<string> Tags { get; set; }
         public List<string> Meanings { get; set; }
         public List<string> Keywords { get; set; }
+        public List<string> Original { get; set; }
         public List<string> Argument1 { get; set; }
         public List<string> Argument2 { get; set; }
         public List<string> Argument3 { get; set; }

@@ -1,4 +1,5 @@
 ﻿using CsvHelper;
+using CsvHelper.Configuration;
 using Otamajakushi;
 using System;
 using System.Collections.Generic;
@@ -83,6 +84,7 @@ namespace SkytomoJbovlaste
                     new Tuple<string, List<string>> ("lo xe go'i", gismu.Argument5),
                     new Tuple<string, List<string>> ("la go'i", gismu.Cmevla),
                     new Tuple<string, List<string>> ("キーワード", gismu.Keywords),
+                    new Tuple<string, List<string>> ("原文", gismu.Original),
                 };
                 foreach (var (title, forms) in translationsTuples)
                 {
@@ -217,6 +219,7 @@ namespace SkytomoJbovlaste
                 var translationsTuples = new List<Tuple<string, List<string>>>
                 {
                     new Tuple<string, List<string>> ("キーワード", cmavo.Keywords),
+                    new Tuple<string, List<string>> ("原文", cmavo.Original),
                 };
                 foreach (var (title, forms) in translationsTuples)
                 {

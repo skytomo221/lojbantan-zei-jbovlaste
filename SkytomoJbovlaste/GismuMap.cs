@@ -11,6 +11,7 @@ namespace SkytomoJbovlaste
             Map(m => m.Tags).Name("タグ").TypeConverter<CommaConverter>();
             Map(m => m.Meanings).Name("内容語").TypeConverter<SemicolonConverter>();
             Map(m => m.Keywords).Name("キーワード").TypeConverter<CommaConverter>();
+            Map(m => m.Original).Name("原文").TypeConverter<CommaConverter>();
             Map(m => m.Argument1).Name("lo go'i").TypeConverter<CommaConverter>();
             Map(m => m.Argument2).Name("lo se go'i").TypeConverter<CommaConverter>();
             Map(m => m.Argument3).Name("lo te go'i").TypeConverter<CommaConverter>();
