@@ -17,6 +17,7 @@ namespace SkytomoJbovlaste
             Map(m => m.Rafsi2).Name("rafsi2");
             Map(m => m.Usage).Name("語法");
             Map(m => m.Grammar).Name("文法");
+            Map(m => m.Example).Name("使用例");
             Map(m => m.Etymology).Name("語源");
             Map(m => m.Lojbantan).Name("ロジバンたんのメモ");
             Map(m => m.HowToMemorise).Name("覚え方");

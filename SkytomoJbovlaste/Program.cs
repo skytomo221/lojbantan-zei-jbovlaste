@@ -30,7 +30,7 @@ namespace SkytomoJbovlaste
                 WriteIndented = true,
             };
             var json = OneToManyJsonSerializer.Serialize(dictionary, options);
-            File.WriteAllText(@"output.json", json);
+            File.WriteAllText(@"skaitomon-zei-jbovlaste.json", json);
             Console.WriteLine("JSONファイルの書き込みが完了しました");
         }
 
@@ -237,7 +237,7 @@ namespace SkytomoJbovlaste
                 {
                     new Tuple<string, string> ("語法", cmavo.Usage),
                     new Tuple<string, string> ("文法", cmavo.Grammar),
-                    new Tuple<string, string> ("例", cmavo.Example),
+                    new Tuple<string, string> ("使用例", cmavo.Example),
                     new Tuple<string, string> ("語源", cmavo.Etymology),
                     new Tuple<string, string> ("ロジバンたんのメモ", cmavo.Lojbantan),
                     new Tuple<string, string> ("覚え方", cmavo.HowToMemorise),
