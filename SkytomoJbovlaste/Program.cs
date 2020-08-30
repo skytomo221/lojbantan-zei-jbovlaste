@@ -101,6 +101,7 @@ namespace SkytomoJbovlaste
                 var contentsTuples = new List<Tuple<string, string>>
                 {
                     new Tuple<string, string> ("語法", gismu.Usage),
+                    new Tuple<string, string> ("使用例", gismu.Example),
                     new Tuple<string, string> ("参照", gismu.References),
                     new Tuple<string, string> ("Tips", gismu.Tips),
                     new Tuple<string, string> ("ロジバンたんのメモ", gismu.Lojbantan),

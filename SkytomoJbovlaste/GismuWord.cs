@@ -19,6 +19,7 @@ namespace SkytomoJbovlaste
         public string Rafsi1 { get; set; }
         public string Rafsi2 { get; set; }
         public string Usage { get; set; }
+        public string Example { get; set; }
         public string References { get; set; }
         public string Tips { get; set; }
         public string Lojbantan { get; set; }

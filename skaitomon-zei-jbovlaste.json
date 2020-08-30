@@ -104921,7 +104921,13 @@
         {
           "title": "機能語",
           "forms": [
-            "yesterday"
+            "昨日"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "前日"
           ]
         },
         {
@@ -104947,7 +104953,13 @@
         {
           "title": "機能語",
           "forms": [
-            "today"
+            "今日"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "本日"
           ]
         },
         {
@@ -104973,7 +104985,13 @@
         {
           "title": "機能語",
           "forms": [
-            "tomorrow"
+            "明日"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "翌日"
           ]
         },
         {
@@ -105031,7 +105049,7 @@
         },
         {
           "title": "使用例",
-          "text": "① .i lo plise .a lo badna cu se citka fa\u0027o リンゴやバナナを食べる"
+          "text": "① .i lo plise .a lo badna cu se citka · リンゴやバナナを食べる [jbovlaste:ja:a]"
         }
       ],
       "variations": [],
@@ -105075,6 +105093,10 @@
         {
           "title": "語法",
           "text": "「ko seka\u0027a selkansa lo mapku .e lo pinxe djacu／帽子と飲み水を持参してください」 ・読み方： エ"
+        },
+        {
+          "title": "使用例",
+          "text": "① ko seka\u0027a selkansa lo mapku .e lo pinxe djacu · 帽子と飲み水を持参してください [jbovlaste:ja:e]"
         }
       ],
       "variations": [],
@@ -105247,12 +105269,7 @@
         "接続詞",
         "A*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ナア"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -105286,12 +105303,7 @@
         "接続詞",
         "A*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： オナイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -105323,12 +105335,7 @@
       "tags": [
         "BAhE"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： バヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -105360,12 +105367,7 @@
       "tags": [
         "BAhE"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ザヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -105378,7 +105380,13 @@
         {
           "title": "機能語",
           "forms": [
-            "jargon word indicator; indicates next word is a jargon word"
+            "右の単語を強調する"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "強調"
           ]
         },
         {
@@ -105394,7 +105402,7 @@
       "contents": [
         {
           "title": "語法",
-          "text": "Jargon words are to have a single, defined, specialized meaning within one particular narrow context (e.g. a game, field of study, or industry), but may also be assigned to other meanings in other contexts. // Proposed rafsi: -zam-. Afterthought variant: {zi\u0027ai}  // Jargonic context, if needed, may be explicated using tanru, including with {bo\u0027ei} / {me} {la}...{ku} clauses, or even defined with a specific meaning using the assigned rafsi e.g. {samyzamsmacu} or {gugyl zei zamgri}"
+          "text": "専門用語は、ある特定の狭い文脈（ゲーム、研究分野、産業など）の中で、単一の定義された専門的な意味を持つことですが、他の文脈では別の意味を持つこともあります。\n提案されているラフシは -zam- です。後付けの変形形として{zi\u0027ai}があります。\n必要に応じて、専門用語の文脈は、{bo\u0027ei} / {me} {la}... {ku}句を含めてタンルを使って説明したり、割り当てられたラフシを使って特定の意味で定義したりすることができます。例えば{samyzamsmacu}や{gugyl zei zamgri}などがあります。"
         }
       ],
       "variations": [],
@@ -105409,7 +105417,13 @@
         {
           "title": "機能語",
           "forms": [
-            "forethought emphasis indicator; indicates next WORD only, even if that word is a construct-indicating cmavo"
+            "右の単語が臨時に造られたものであること、非公式・非標準かもしれないことを示す"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "臨時語造成"
           ]
         },
         {
@@ -105425,7 +105439,7 @@
       "contents": [
         {
           "title": "語法",
-          "text": "According to CLL 19.11, regular {ba\u0027e} doesnt always emphasize just one word. If it is placed in front of a construct (e.g. {la}), it emphasizes the entire construct. {ba\u0027ei} was designed especially for these cases."
+          "text": "CLL 19.11 によると、通常の{ba\u0027e}は常に 1 つの単語だけを強調するわけではありません。もし{ba\u0027e}が構成語の前に置かれた場合（例えば{la}）、それは構成語全体を強調します。{ba\u0027ei}はこのような場合のために特別に設計されました。"
         }
       ],
       "variations": [],
@@ -106533,7 +106547,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（動作者）によって／～がして ： gasnu 法制詞, x_1"
+            "〚gau KOhA〛〈動作者〉によって［がして］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚gau BRODA〛動作者によって［がして］BRODAする［である］"
           ]
         },
         {
@@ -106549,8 +106569,12 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "「gau zgitigni .ije sanga／ひかせてうたつてゐる」（山頭火『行乞記（二）』） ・読み方： ガウ"
+          "title": "使用例",
+          "text": "① gau do mi gleki ･ あなたは私を幸せにします [tatoeba:749034]\n② gau ma co\u0027e ･ 誰がしたの？ [tatoeba:619526]\n③ le botpi gau ma spofu ･ 誰が瓶を割りましたか？ [tatoeba:5184098]"
+        },
+        {
+          "title": "語源",
+          "text": "gasnu@1"
         }
       ],
       "variations": [],
@@ -106565,7 +106589,7 @@
         {
           "title": "機能語",
           "forms": [
-            "non-distributivity tag: as a mass"
+            "〚gu\u0027au KOhA〛KOhAを群として"
           ]
         },
         {
@@ -106582,7 +106606,7 @@
       "contents": [
         {
           "title": "語法",
-          "text": "equivalent to {fi\u0027o} {gunma}. {gu\u0027au} {je} {fa} {lo} {tadni} {cu} {sruri} {lo} {dinju} is the same as {loi} {tadni} {cu} {sruri} {lo} {dinju}."
+          "text": "{fi\u0027o gunma}に相当します。{gu\u0027au je fa lo tadni cu sruri lo dinju}は {loi tadni cu sruri lo dinju}と同じです。"
         }
       ],
       "variations": [],
@@ -106597,7 +106621,25 @@
         {
           "title": "機能語",
           "forms": [
-            "～を結果として／～となって ： jalge 法制詞, x_1"
+            "〚ja\u0027e KOhA〛KOhAを結果として［なって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ja\u0027e BRODA〛何かを結果として［なって］BRODAする［である］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ja\u0027e nai KOhA〛KOhAという事にはならずに"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を結果として［なって］"
           ]
         },
         {
@@ -106613,8 +106655,8 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "・読み方： ジャヘ"
+          "title": "語源",
+          "text": "jagle@1"
         }
       ],
       "variations": [],
@@ -106629,7 +106671,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～を規則として ： javni 法制詞, x_1"
+            "〚ja\u0027i KOhA〛KOhAを規則として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ja\u0027i BRODA〛何かを規則としてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を規則として"
           ]
         },
         {
@@ -106645,8 +106699,8 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "・読み方： ジャヒ"
+          "title": "語源",
+          "text": "javni@1"
         }
       ],
       "variations": [],
@@ -106661,13 +106715,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～まで（限界） ： 法制詞"
+            "〚ji\u0027e KOhA〛KOhAまで（限界）"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            " jimte の x_1"
+            "〚ji\u0027e BRODA〛限界までBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～まで（限界）"
           ]
         },
         {
@@ -106683,8 +106743,8 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "・読み方： ジヘ"
+          "title": "語源",
+          "text": "jimte@1"
         }
       ],
       "variations": [],
@@ -106699,13 +106759,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～の管轄下で ： 法制詞"
+            "〚ji\u0027o KOhA〛KOhAの管轄下で"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            " jitro の x_1"
+            "〚ji\u0027o BRODA〛何［誰］かの管轄下でBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～の管轄下で"
           ]
         },
         {
@@ -106721,8 +106787,8 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "・読み方： ジホ"
+          "title": "語源",
+          "text": "jitro@1"
         }
       ],
       "variations": [],
@@ -106737,13 +106803,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～を基盤として ： 法制詞"
+            "〚ji\u0027u KOhA〛KOhAを基盤として"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            " jicmu の x_1"
+            "〚ji\u0027u BRODA〛何かを基盤としてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を基盤として"
           ]
         },
         {
@@ -106759,8 +106831,8 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "・読み方： ジフ"
+          "title": "語源",
+          "text": "jicmu@1"
         }
       ],
       "variations": [],
@@ -106775,7 +106847,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～が行って／来て ： klama 法制詞, x_1"
+            "〚ka\u0027a KOhA〛KOhAが行って［来て］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ka\u0027a BRODA〛何［誰］かが行って［来て］BRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～が行って［来て］"
           ]
         },
         {
@@ -106791,8 +106875,8 @@
       ],
       "contents": [
         {
-          "title": "語法",
-          "text": "・読み方： カハ"
+          "title": "語源",
+          "text": "klama@1"
         }
       ],
       "variations": [],
@@ -106839,7 +106923,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～が象徴して ： ckaji 法制詞, x_1"
+            "〚kai KOhA〛KOhAが象徴して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚kai BRODA〛何［誰］かが象徴してBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～が象徴して"
           ]
         },
         {
@@ -106853,12 +106949,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： カイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -106871,7 +106962,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～が代表して ： krati 法制詞, x_1"
+            "〚ka\u0027i KOhA〛KOhAが代表して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ka\u0027i BRODA〛何［誰］かが代表してBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～が代表して"
           ]
         },
         {
@@ -106885,12 +106988,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： カヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -106903,7 +107001,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～と同系で ： ckini 法制詞, x_1"
+            "〚ki\u0027i KOhA〛KOhAと同系で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ki\u0027i BRODA〛何［誰］かと同系でBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～と同系で"
           ]
         },
         {
@@ -106917,12 +107027,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： キヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -106967,13 +107072,26 @@
         {
           "title": "機能語",
           "forms": [
-            "～を理由として ： krinu 法制詞, x_1"
+            "〚ki\u0027u KOhA〛KOhAを理由として"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            " 「to\u0027e ki\u0027u nai」で「～という理由に妨げられることなく」から「～にも関わらず」"
+            "〚ki\u0027u BRODA〛何かを理由としてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚to\u0027e ki\u0027u nai KOhA〛（「KOhAという理由に妨げられることなく」より）KOhAにも関わらず"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を理由として",
+            "～にも関わらず"
           ]
         },
         {
@@ -107037,7 +107155,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～を境界として ： korbi 法制詞, x_1"
+            "〚koi KOhA〛KOhAを境界として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚koi BRODA〛何かを境界として"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を境界として"
           ]
         },
         {
@@ -107069,7 +107199,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～（文化）のもと ： kulnu 法制詞, x_1"
+            "〚ku\u0027u KOhA〛KOhA（文化）のもと"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ku\u0027u BRODA〛何かを（文化）のもとBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～（文化）のもと"
           ]
         },
         {
@@ -107101,13 +107243,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～を量として： klani 法制詞, x_1 "
+            "〚la\u0027u KOhA〛KOhAを量として"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚la\u0027u BRODA〛何かを量としてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を量として"
           ]
         },
         {
@@ -107139,13 +107287,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～をカテゴリーとして ： klesi 法制詞, x_1"
+            "〚le\u0027a KOhA〛KOhAをカテゴリーとして"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚le\u0027a BRODA〛何［誰］かをカテゴリーとしてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～をカテゴリーとして"
           ]
         },
         {
@@ -107177,7 +107331,20 @@
         {
           "title": "機能語",
           "forms": [
-            "～が引率して／に先を越されて ： lidne 法制詞, x_1"
+            "〚li\u0027e KOhA〛KOhAが引率して［に先を越されて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚li\u0027e BRODA〛何［誰］かが引率して［に先を越されて］をBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～が引率して",
+            "～に先を越されて"
           ]
         },
         {
@@ -107191,12 +107358,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ルィヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107241,7 +107403,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～を物質として ： marji 法制詞, x_1"
+            "〚ma\u0027e KOhA〛KOhAを物質として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ma\u0027e BRODA〛何［誰］を物質としてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を物質として"
           ]
         },
         {
@@ -107273,7 +107447,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（思考／行動／事件の）枠組として ： manri 法制詞, x_1"
+            "〚ma\u0027i KOhA〛KOhAを思考［行動、事件］の枠組として "
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ma\u0027i BRODA〛何［誰］かを思考［行動、事件］枠組としてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を枠組として"
           ]
         },
         {
@@ -107305,7 +107491,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～が勝って（に劣って）／が超えて（に超されて） ： zmadu 法制詞, x_1"
+            "〚mau KOhA〛KOhAが勝って"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mau BRODA〛何［誰］かが勝ってBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～が勝って"
           ]
         },
         {
@@ -107319,12 +107517,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： マウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107337,7 +107530,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～のほうが少なくて（よりも多くて） ： mleca 法制詞, x_1"
+            "〚me\u0027a KOhA〛KOhAのほうが少なくて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚me\u0027a BRODA〛何［誰］かのほうが少なくてBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～のほうが少なくて"
           ]
         },
         {
@@ -107351,12 +107556,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： メハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107369,7 +107569,19 @@
         {
           "title": "機能語",
           "forms": [
-            "～という名の ： cmene 法制詞, x_1"
+            "〚me\u0027e KOhA〛KOhAという名の"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚me\u0027a BRODA〛何かの名でBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～という名の"
           ]
         },
         {
@@ -107401,7 +107613,7 @@
         {
           "title": "機能語",
           "forms": [
-            "munje modal: 1st place; in universe..."
+            "munje modal: 1st place; in universe…"
           ]
         },
         {
@@ -107433,7 +107645,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が動機となって ： mukti 法制詞, x_1"
+            "〚mu\u0027i KOhA〛KOhAが動機となって"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu\u0027i BRODA〛何［誰］が動機となってBRODAする［である］"
           ]
         },
         {
@@ -107447,12 +107665,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ムヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107465,7 +107678,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を例として ： mupli 法制詞, x_1"
+            "〚mu\u0027u KOhA〛KOhAを例として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu\u0027u BRODA〛何［誰］かを例としてBRODAする［である］"
           ]
         },
         {
@@ -107497,7 +107716,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の論理で ： nibli 法制詞, x_1"
+            "〚ni\u0027i KOhA〛KOhAの論理で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ni\u0027i BRODA〛何かの論理でBRODAする［である］"
           ]
         },
         {
@@ -107511,12 +107736,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ニヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107529,7 +107749,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が並行して／～が共に ： panra 法制詞, x_1"
+            "〚pa\u0027a KOhA〛KOhAが並行して［が共に］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚pa\u0027a BRODA〛何［誰］かが並行して［が共に］BRODAする［である］"
           ]
         },
         {
@@ -107543,12 +107769,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： パハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107561,7 +107782,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を部分／要素として ： pagbu 法制詞, x_1"
+            "〚pa\u0027u KOhA〛KOhAを部分［要素として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚pa\u0027u BRODA〛何［誰］かが並行して［が共に］BRODAする［である］"
           ]
         },
         {
@@ -107575,12 +107802,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： パフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107593,7 +107815,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が使って／～を使用者として ： pilno 法制詞, x_1"
+            "〚pa\u0027u KOhA〛KOhAが使って［を使用者として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚pa\u0027a BRODA〛何［誰］かが並行して［が共に］BRODAする［である］"
           ]
         },
         {
@@ -107607,12 +107835,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ピホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107657,7 +107880,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を並び方として／配列～を作って ： porsi 法制詞, x_1"
+            "〚po\u0027i KOhA〛KOhAを並び方として、配列KOhAを作って"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚po\u0027i BRODA〛何［誰］かを並び方としてBRODAする［である］、何かの配列でBRODAする［である］"
           ]
         },
         {
@@ -107671,12 +107900,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ポヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -107689,7 +107913,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を楽しんで／～がおもしろくて ： pluka 法制詞, x_1"
+            "〚pu\u0027a KOhA〛KOhAを楽しんで［がおもしろくて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚pu\u0027a BRODA〛何かを楽しんで［がおもしろくて］BRODAする［である］"
           ]
         },
         {
@@ -107753,7 +107983,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を過程／プロセスとして ： pruce 法制詞, x_1"
+            "〚pu\u0027e KOhA〛KOhAを過程［プロセス］として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚pu\u0027e BRODA〛何かを過程［プロセス］としてBRODAする［である］"
           ]
         },
         {
@@ -107785,7 +108021,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が関連／関係して／関わって ： srana 法制詞, x_1"
+            "〚ra\u0027a KOhA〛KOhAが関連［関係して、関わって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ra\u0027a BRODA〛何［誰］かが関連［関係して、関わって］BRODAする［である］"
           ]
         },
         {
@@ -107817,7 +108059,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を最上として／～が最高の ： traji 法制詞, x_1"
+            "〚rai KOhA〛KOhAを最上として［が最高の］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚rai BRODA〛何［誰］かを最上として［が最高の］BRODAする［である］"
           ]
         },
         {
@@ -107849,7 +108097,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を起源として ： krasi 法制詞, x_1"
+            "〚ra\u0027i KOhA〛KOhAを起源として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ra\u0027i BRODA〛何［誰］かを起源としてBRODAする［である］"
           ]
         },
         {
@@ -107881,7 +108135,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を原因として／～によって ： rinka 法制詞, x_1"
+            "〚ri\u0027a KOhA〛KOhAを原因として［によって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ri\u0027a BRODA〛何［誰］かを原因として［によって］BRODAする［である］"
           ]
         },
         {
@@ -107913,7 +108173,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が経験して／～を被験者として ： lifri 法制詞, x_1"
+            "〚ri\u0027i KOhA〛KOhAが経験して［を被験者として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ri\u0027i BRODA〛何［誰］かが経験して［を被験者として］BRODAする［である］"
           ]
         },
         {
@@ -107945,7 +108211,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を必要として／～が必須で ： sarcu 法制詞, x_1"
+            "〚sau KOhA〛KOhAを必要として［が必須で］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sau BRODA〛何［誰］かを必要として［が必須で］BRODAする［である］"
           ]
         },
         {
@@ -108009,7 +108281,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が助けて／～が補助となって ： sidju 法制詞, x_1"
+            "〚si\u0027u KOhA〛KOhAが助けて［が補助となって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚si\u0027u BRODA〛何［誰］かが助けて［が補助となって］BRODAする［である］"
           ]
         },
         {
@@ -108041,7 +108319,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～みたいに／～風に ： tamsmi 法制詞, x_1"
+            "〚tai KOhA〛KOhAみたいに［風に］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tai BRODA〛何［誰］かみたいに［風に］BRODAする［である］"
           ]
         },
         {
@@ -108073,7 +108357,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を方法／手段として／～式に ： tadji 法制詞, x_1"
+            "〚ta\u0027i KOhA〛KOhAを方法［手段］として、KOhA式に"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ta\u0027i BRODA〛何［誰］かを方法［手段］としてBRODAする［である］、KOhA式にBRODAする［である］"
           ]
         },
         {
@@ -108137,7 +108427,20 @@
         {
           "title": "機能語",
           "forms": [
-            "～が示唆して／勧めて ： stidi 法制詞, x_1"
+            "〚ti\u0027i KOhA〛KOhAが示唆して［勧めて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ta\u0027i BRODA〛何［誰］かが示唆して［勧めて］BRODAする［である］、KOhA式にBRODAする［である］"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～が示唆して",
+            "～が勧めて"
           ]
         },
         {
@@ -108169,7 +108472,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を時刻として ： tcika 法制詞, x_1"
+            "〚ti\u0027u\u0027a KOhA〛KOhAを時刻として"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～を時刻として"
           ]
         },
         {
@@ -108183,12 +108492,7 @@
         "法制詞",
         "BAI"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ティフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -108201,7 +108505,13 @@
         {
           "title": "機能語",
           "forms": [
-            "at N o\u0027clock; at the hour N of the day."
+            "〚ti\u0027u\u0027a KOhA〛KOhA時に"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～時に"
           ]
         },
         {
@@ -108233,7 +108543,13 @@
         {
           "title": "機能語",
           "forms": [
-            "at the minute N of the hour."
+            "〚ti\u0027u\u0027e KOhA〛KOhA分に"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～分に"
           ]
         },
         {
@@ -108265,7 +108581,13 @@
         {
           "title": "機能語",
           "forms": [
-            "at the second N of the minute."
+            "〚ti\u0027u\u0027i KOhA〛KOhA秒に"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "～秒に"
           ]
         },
         {
@@ -108297,7 +108619,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を場所として ： stuzi 法制詞, x_1"
+            "〚tu\u0027i KOhA〛KOhAを場所として〚tu\u0027i BRODA〛"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "どこかでBRODAする［である］"
           ]
         },
         {
@@ -108329,7 +108657,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を環境／状況として ： vanbi 法制詞, x_1"
+            "〚va\u0027o KOhA〛KOhAを環境［状況］として〚va\u0027o BRODA〛"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "何かを環境／状況としてBRODAする［である］"
           ]
         },
         {
@@ -108361,7 +108695,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（良い何か）を享受して ： xamgu 法制詞, x_1"
+            "〚va\u0027u KOhA〛KOhA〈良い何か〉を享受して〚va\u0027u BRODA〛"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "良い何かを享受してBRODAする［である］"
           ]
         },
         {
@@ -108425,7 +108765,13 @@
         {
           "title": "機能語",
           "forms": [
-            "~に承認されて ： zanru 法制詞, x_1"
+            "〚zau KOhA〛KOhAに承認されて〚zau BRODA〛"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "何［誰］かに承認されてBRODAする［である］"
           ]
         },
         {
@@ -108457,7 +108803,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が行動して ： zukte 法制詞, x_1"
+            "〚zu\u0027e KOhA〛KOhAが行動して〚zu\u0027e BRODA〛"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "何［誰］かが行動してBRODAする［である］"
           ]
         },
         {
@@ -108516,7 +108868,7 @@
         {
           "title": "機能語",
           "forms": [
-            "～という事にはならずに ： jalge 法制詞, x_1"
+            "〚ja\u0027enai KOhA〛KOhAという事にはならずに"
           ]
         },
         {
@@ -108914,13 +109266,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を強いて ： bapli 法制詞, x_2 "
+            "〚sebai KOhA〛KOhAを強いて"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            " 何らかの力によって強いられている者／物／事"
+            "〚sebai BRODA〛何［誰］かを強いてBRODAする［である］"
           ]
         },
         {
@@ -108934,12 +109286,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セバイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -108952,7 +109299,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の代わりに／～に替わって ： basti 法制詞, x_2"
+            "〚seba\u0027i KOhA〛KOhAの代わりに［に替わって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seba\u0027i BRODA〛何［誰］かの代わりに［に替わって］BRODAする［である］"
           ]
         },
         {
@@ -108966,12 +109319,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セバヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -108984,7 +109332,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（話者）の言語として ： bangu 法制詞, x_2"
+            "〚sebau KOhA〛KOhA〈話者〉の言語として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sebau BRODA〛話者の言語としてBRODAする［である］"
           ]
         },
         {
@@ -108998,12 +109352,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セバウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109016,7 +109365,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を送受信して ： benji 法制詞, x_2"
+            "〚sebe\u0027i KOhA〛KOhAを送受信して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sebe\u0027i BRODA〛何かを送受信してBRODAする［である］"
           ]
         },
         {
@@ -109030,12 +109385,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セベヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109048,13 +109398,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を管轄して ： catni 法制詞, x_2 "
+            "〚seca\u0027i KOhA〛KOhAを管轄して"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            "権力の行使対象、範囲内のもの"
+            "〚seca\u0027i BRODA〛何［誰］かを管轄してBRODAする［である］"
           ]
         },
         {
@@ -109068,12 +109418,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セシャヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109086,7 +109431,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を欠いて／～無しで ： claxu 法制詞, x_2"
+            "〚secau KOhA〛KOhAを欠いて［無しで］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚secau BRODA〛何［誰］かを欠いて［無しで］BRODAする［である］"
           ]
         },
         {
@@ -109100,12 +109451,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セシャウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109118,7 +109464,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が（体系／システム内の）関係構造となって ： ciste 法制詞, x_2"
+            "〚seci\u0027e KOhA〛KOhAが（体系／システム内の）関係構造となって"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seci\u0027e BRODA〛何かが（体系／システム内の）関係構造となってBRODAする［である］"
           ]
         },
         {
@@ -109132,12 +109484,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セシヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109150,7 +109497,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を感じて ： cinmo 法制詞, x_2"
+            "〚seci\u0027o KOhA〛KOhAを感じて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seci\u0027o BRODA〛何［誰］かを感じてBRODAする［である］"
           ]
         },
         {
@@ -109164,12 +109517,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セシホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109182,7 +109530,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を計測して ： ckilu 法制詞, x_2"
+            "〚seci\u0027u KOhA〛KOhAを計測して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seci\u0027u BRODA〛何かを計測してBRODAする［である］"
           ]
         },
         {
@@ -109196,12 +109550,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セシフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109214,7 +109563,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を表現して／～と言って ： cusku 法制詞, x_2"
+            "〚secu\u0027u KOhA〛KOhAを表現して［と言って］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚secu\u0027u BRODA〛何［誰］かを表現して［と言って］BRODAする［である］"
           ]
         },
         {
@@ -109228,12 +109583,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セシュフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109246,7 +109596,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（事）の日として ： detri 法制詞, x_2"
+            "〚sede\u0027i KOhA〛KOhA《こと》の日として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sede\u0027i BRODA〛何かの日としてBRODAする［である］"
           ]
         },
         {
@@ -109260,12 +109616,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セデヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109278,7 +109629,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を局所として ： diklo 法制詞, x_2"
+            "〚sedi\u0027o KOhA〛KOhAを局所として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sedi\u0027o BRODA〛何かを局所としてBRODAする［である］"
           ]
         },
         {
@@ -109292,12 +109649,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セディホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109310,7 +109662,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～と同等で ： dunli 法制詞, x_2"
+            "〚sedu\u0027i KOhA〛KOhAと同等で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sedu\u0027i BRODA〛何［誰］かと同等でBRODAする［である］"
           ]
         },
         {
@@ -109324,12 +109682,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セドゥヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109342,7 +109695,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～ということを知って ： djuno 法制詞, x_2"
+            "〚sedu\u0027o KOhA〛KOhAということを知って"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sedu\u0027o BRODA〛何かを知ってBRODAする［である］"
           ]
         },
         {
@@ -109356,12 +109715,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セドゥホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109374,7 +109728,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～と逆になって ： fatne 法制詞, x_2"
+            "〚sefa\u0027e KOhA〛KOhAと逆になって"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sefa\u0027e BRODA〛何［誰］かと逆になってBRODAする［である］"
           ]
         },
         {
@@ -109388,12 +109748,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セファヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109406,7 +109761,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を創って／著して ： finti 法制詞, x_2"
+            "〚sefi\u0027e KOhA〛KOhAを創って［著して］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sefi\u0027e BRODA〛何かを創って［著して］BRODAする［である］"
           ]
         },
         {
@@ -109420,12 +109781,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セフィヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109438,7 +109794,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を観察して ： zgana 法制詞, x_2"
+            "〚sega\u0027a KOhA〛KOhAを観察して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sega\u0027a BRODA〛何［誰］かを観察してBRODAする［である］"
           ]
         },
         {
@@ -109452,12 +109814,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セガハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109470,7 +109827,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（行動）をして ： gasnu 法制詞, x_2"
+            "〚segau KOhA〛KOhA〈行動〉をして"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚segau BRODA〛何かをしてBRODAする［である］"
           ]
         },
         {
@@ -109484,12 +109847,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セガウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109502,7 +109860,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を要因／前触れ／先行事件として ： jalge 法制詞, x_2"
+            "〚seja\u0027e KOhA〛KOhAを要因［前触れ、先行事件］として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seja\u0027e BRODA〛何［誰］かを要因［前触れ、先行事件］としてBRODAする［である］"
           ]
         },
         {
@@ -109516,12 +109880,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セジャヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109566,7 +109925,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（事）が（規則で）要されて ： javni 法制詞, x_2"
+            "〚seja\u0027i KOhA〛KOhA《こと》が（規則で）要されて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seja\u0027i BRODA〛何かが（規則で）要されてBRODAする［である］"
           ]
         },
         {
@@ -109580,12 +109945,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セジャヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109598,7 +109958,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を抑えて／～の限度／限界となって ： jimte 法制詞, x_2"
+            "〚seji\u0027e KOhA〛KOhAを抑えて［の限度［限界］となって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seji\u0027e BRODA〛何かを抑えて［の限度［限界］となって］BRODAする［である］"
           ]
         },
         {
@@ -109612,12 +109978,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セジヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109630,7 +109991,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を制御して／～がコントロールされて ： jitro 法制詞, x_2"
+            "〚seji\u0027o KOhA〛KOhAを制御して［～がコントロールされて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seji\u0027o BRODA〛何かを制御して［～がコントロールされて］BRODAする［である］"
           ]
         },
         {
@@ -109644,12 +110011,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セジホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109662,7 +110024,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を支えて／～の基盤となって ： jicmu 法制詞, x_2"
+            "〚seji\u0027u KOhA〛KOhAを支えて［～の基盤となって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seji\u0027u BRODA〛何［誰］かを支えて［～の基盤となって］BRODAする［である］"
           ]
         },
         {
@@ -109676,12 +110044,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セジフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109694,7 +110057,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を目的地として／～行きで ： klama 法制詞, x_2"
+            "〚seka\u0027a KOhA〛KOhAを目的地として［～行きで］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seka\u0027a BRODA〛目的地として［～行きで］BRODAする［である］"
           ]
         },
         {
@@ -109708,12 +110077,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セカハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109726,7 +110090,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を特質／特徴として ： ckaji 法制詞, x_2"
+            "〚sekai KOhA〛KOhAを特質［特徴として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sekai BRODA〛何かを特質［特徴として］BRODAする［である］"
           ]
         },
         {
@@ -109740,12 +110110,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セカイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109758,7 +110123,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を代表して ： krati 法制詞, x_2"
+            "〚seka\u0027i KOhA〛KOhAを代表して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seka\u0027i BRODA〛何［誰］かを代表してBRODAする［である］"
           ]
         },
         {
@@ -109772,12 +110143,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セカヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109817,7 +110183,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～と同類で ： ckini 法制詞, x_2"
+            "〚seki\u0027i KOhA〛KOhAと同類で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seki\u0027i BRODA〛何［誰］かと同類でBRODAする［である］"
           ]
         },
         {
@@ -109831,12 +110203,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セキヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109849,7 +110216,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（理由によって）起こして ： krinu 法制詞, x_2"
+            "〚seki\u0027u KOhA〛KOhAを（理由によって）起こして"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seki\u0027u BRODA〛何［誰］かを（理由によって）起こしてBRODAする［である］"
           ]
         },
         {
@@ -109863,12 +110236,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セキフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109940,7 +110308,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を境界内に／～の境界として ： korbi 法制詞, x_2"
+            "〚sekoi KOhA〛KOhAを境界内に［の境界として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sekoi BRODA〛何［誰］かを境界内に［の境界として］BRODAする［である］"
           ]
         },
         {
@@ -109954,12 +110328,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セコイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -109972,7 +110341,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の文化として ： kulnu 法制詞, x_2"
+            "〚seku\u0027u KOhA〛KOhAの文化として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seku\u0027u BRODA〛何［誰］かの文化としてBRODAする［である］"
           ]
         },
         {
@@ -109986,12 +110361,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セクフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110004,7 +110374,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（数）を測定値として ： klani 法制詞, x_2"
+            "〚sela\u0027u KOhA〛KOhA《数》を測定値として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sela\u0027u BRODA〛測定値としてBRODAする［である］"
           ]
         },
         {
@@ -110018,12 +110394,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セルァフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110036,7 +110407,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～のカテゴリーとして ： klesi 法制詞, x_2"
+            "〚sele\u0027a KOhA〛KOhAのカテゴリーとして"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sele\u0027a BRODA〛何［誰］かのカテゴリーとしてBRODAする［である］"
           ]
         },
         {
@@ -110050,12 +110427,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セルェハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110068,7 +110440,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を引率して／～の先となって ： lidne 法制詞, x_2"
+            "〚seli\u0027e KOhA〛KOhAを引率して［の先となって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seli\u0027e BRODA〛何［誰］かを引率して［の先となって］BRODAする［である］"
           ]
         },
         {
@@ -110082,12 +110460,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セルィヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110100,7 +110473,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を材質として／～でできて ： marji 法制詞, x_2"
+            "〚sema\u0027e KOhA〛KOhAを材質として［でできて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sema\u0027e BRODA〛何かを材質として［でできて］BRODAする［である］"
           ]
         },
         {
@@ -110114,12 +110493,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セマヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110132,7 +110506,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の標準／照合枠として ： manri 法制詞, x_2"
+            "〚sema\u0027i KOhA〛KOhAの標準［照合枠として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sema\u0027i BRODA〛何かの標準［照合枠として］BRODAする［である］"
           ]
         },
         {
@@ -110146,12 +110526,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セマヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110164,7 +110539,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～よりも多くて ： zmadu 法制詞, x_2"
+            "〚semau KOhA〛KOhAよりも多くて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚semau BRODA〛何［誰］かよりも多くてBRODAする［である］"
           ]
         },
         {
@@ -110178,12 +110559,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セマウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110223,7 +110599,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～よりも少なくて ： mleca 法制詞, x_2"
+            "〚seme\u0027a KOhA〛KOhAよりも少なくて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seme\u0027a BRODA〛何［誰］かよりも少なくてBRODAする［である］"
           ]
         },
         {
@@ -110237,12 +110619,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セメハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110282,7 +110659,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の名前として ： cmene 法制詞, x_2"
+            "〚seme\u0027e KOhA〛KOhAの名前として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seme\u0027e BRODA〛何［誰］かの名前としてBRODAする［である］"
           ]
         },
         {
@@ -110296,12 +110679,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セメヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110314,7 +110692,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（動機によって）起こして ： mukti 法制詞, x_2"
+            "〚semu\u0027i KOhA〛KOhAを（動機によって）起こして"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚semu\u0027i BRODA〛何［誰］かを（動機によって）起こしてBRODAする［である］"
           ]
         },
         {
@@ -110328,12 +110712,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セムヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110373,7 +110752,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の例となって ： mupli 法制詞, x_2"
+            "〚semu\u0027u KOhA〛KOhAの例となって"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚semu\u0027u BRODA〛何［誰］かの例となってBRODAする［である］"
           ]
         },
         {
@@ -110387,12 +110772,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セムフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110405,7 +110785,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が（論理によって）必然で ： nibli 法制詞, x_2"
+            "〚seni\u0027i KOhA〛KOhAが（論理によって）必然で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seni\u0027i BRODA〛何［誰］かが（論理によって）必然でBRODAする［である］"
           ]
         },
         {
@@ -110419,12 +110805,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セニヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110464,7 +110845,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～に並行して／～と同じように ： panra 法制詞, x_2"
+            "〚sepa\u0027a KOhA〛KOhAに並行して［と同じように］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sepa\u0027a BRODA〛何［誰］かに並行して［と同じように］BRODAする［である］"
           ]
         },
         {
@@ -110496,7 +110883,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の部分として ： pagbu 法制詞, x_2"
+            "〚sepa\u0027u KOhA〛KOhAの部分として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sepa\u0027u BRODA〛何かの部分としてBRODAする［である］"
           ]
         },
         {
@@ -110510,12 +110903,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セパフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110528,7 +110916,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を使って／用いて ： pilno 法制詞, x_2"
+            "〚sepi\u0027o KOhA〛KOhAを使って［用いて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sepi\u0027o BRODA〛何［誰］かを使って［用いて］BRODAする［である］"
           ]
         },
         {
@@ -110542,12 +110936,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セピホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110560,7 +110949,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を並び方／配列の原理として ： porsi 法制詞, x_2"
+            "〚sepo\u0027i KOhA〛KOhAを並び方［配列の原理として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sepo\u0027i BRODA〛何［誰］かを並び方［配列の原理として］BRODAする［である］"
           ]
         },
         {
@@ -110574,12 +110969,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セポヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110592,7 +110982,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を楽しませて／～が楽しんで ： pluka 法制詞, x_2"
+            "〚sepu\u0027a KOhA〛KOhAを楽しませて［が楽しんで］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sepu\u0027a BRODA〛何［誰］かを楽しませて［が楽しんで］BRODAする［である］"
           ]
         },
         {
@@ -110606,12 +111002,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セプハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110624,7 +111015,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を入力として ： pruce 法制詞, x_2"
+            "〚sepu\u0027e KOhA〛KOhAを入力として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sepu\u0027e BRODA〛何かを入力としてBRODAする［である］"
           ]
         },
         {
@@ -110638,12 +111035,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セプヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110656,7 +111048,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～に関連して ： srana 法制詞, x_2"
+            "〚sera\u0027a KOhA〛KOhAに関連して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sera\u0027a BRODA〛何［誰］かに関連してBRODAする［である］"
           ]
         },
         {
@@ -110670,12 +111068,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セラハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110688,7 +111081,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）において最上で ： traji 法制詞, x_2"
+            "〚serai KOhA〛KOhA《性質》において最上で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚serai BRODA〛何［誰］か《性質》において最上でBRODAする［である］"
           ]
         },
         {
@@ -110702,12 +111101,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セライ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110720,7 +111114,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の起源として ： krasi 法制詞, x_2"
+            "〚sera\u0027i KOhA〛KOhAの起源として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sera\u0027i BRODA〛何［誰］かの起源としてBRODAする［である］"
           ]
         },
         {
@@ -110734,12 +111134,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セラヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110752,7 +111147,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が（原因によって）起こって ： rinka 法制詞, x_2"
+            "〚seri\u0027a KOhA〛KOhAが（原因によって）起こって"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seri\u0027a BRODA〛何［誰］かが（原因によって）起こってBRODAする［である］"
           ]
         },
         {
@@ -110766,12 +111167,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セリハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110811,7 +111207,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を経験して ： lifri 法制詞, x_2"
+            "〚seri\u0027i KOhA〛KOhAを経験して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seri\u0027i BRODA〛何［誰］かを経験してBRODAする［である］"
           ]
         },
         {
@@ -110825,12 +111227,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セリヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110843,7 +111240,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～にとって必須で ： sarcu 法制詞, x_2"
+            "〚sesau KOhA〛KOhAにとって必須で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sesau BRODA〛何［誰］かにとって必須でBRODAする［である］"
           ]
         },
         {
@@ -110857,12 +111260,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セサウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110875,7 +111273,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を助けて／～の補助となって ： sidju 法制詞, x_2"
+            "〚sesi\u0027u KOhA〛KOhAを助けて［の補助となって］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sesi\u0027u BRODA〛何［誰］かを助けて［の補助となって］BRODAする［である］"
           ]
         },
         {
@@ -110889,12 +111293,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： サスィフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110907,7 +111306,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～みたいに／～風に ： tamsmi 法制詞, x_2"
+            "〚setai KOhA〛KOhAみたいに［風に］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚setai BRODA〛何［誰］かみたいに［風に］BRODAする［である］"
           ]
         },
         {
@@ -110921,12 +111326,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セタイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110939,7 +111339,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の方法／手段として ： tadji 法制詞, x_2"
+            "〚seta\u0027i KOhA〛KOhAの方法［手段］として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seta\u0027i BRODA〛何らかの方法［手段］としてBRODAする［である］"
           ]
         },
         {
@@ -110953,12 +111359,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セタヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -110971,7 +111372,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を示唆して／勧めて ： stidi 法制詞, x_2"
+            "〚seti\u0027i KOhA〛KOhAを示唆して［勧めて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seti\u0027i BRODA〛何［誰］かを示唆して［勧めて］BRODAする［である］"
           ]
         },
         {
@@ -110985,12 +111392,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セティヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111003,7 +111405,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の時刻として ： tcika 法制詞, x_2"
+            "〚seti\u0027u KOhA〛KOhAの時刻として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seti\u0027u BRODA〛何かの時刻としてBRODAする［である］"
           ]
         },
         {
@@ -111017,12 +111425,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セティフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111035,7 +111438,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の場所として ： stuzi 法制詞, x_2"
+            "〚setu\u0027i KOhA〛KOhAの場所として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚setu\u0027i BRODA〛何かの場所としてBRODAする［である］"
           ]
         },
         {
@@ -111049,12 +111458,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セトゥヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111067,7 +111471,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～の環境／状況として ： vanbi 法制詞, x_2"
+            "〚seva\u0027o KOhA〛KOhAの環境［状況として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seva\u0027o BRODA〛何かの環境［状況として］BRODAする［である］"
           ]
         },
         {
@@ -111081,12 +111491,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セヴァホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111099,7 +111504,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～のために／～の利益として ： xamgu 法制詞, x_2"
+            "〚seva\u0027u KOhA〛KOhAのために［の利益として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚seva\u0027u BRODA〛何［誰］かのために［の利益として］BRODAする［である］"
           ]
         },
         {
@@ -111113,12 +111524,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セヴァフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111131,7 +111537,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を承認して ： zanru 法制詞, x_2"
+            "〚sezau KOhA〛KOhAを承認して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sezau BRODA〛何［誰］かを承認してBRODAする［である］"
           ]
         },
         {
@@ -111145,12 +111557,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： セザウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111163,7 +111570,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を行為して／振舞って ： zukte 法制詞, x_2"
+            "〚sezu\u0027e KOhA〛KOhAを行為して［振舞って］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚sezu\u0027e BRODA〛何［誰］かを行為して［振舞って］BRODAする［である］"
           ]
         },
         {
@@ -111177,12 +111590,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： サズヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111222,7 +111630,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を表す言語として ： bangu 法制詞, x_3"
+            "〚tebau KOhA〛KOhAを表す言語として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tebau BRODA〛何かを表す言語としてBRODAする［である］"
           ]
         },
         {
@@ -111236,12 +111650,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テバウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111254,7 +111663,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～に送って ： benji 法制詞, x_3"
+            "〚tebe\u0027i KOhA〛KOhAに送って"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tebe\u0027i BRODA〛何［誰］かに送ってBRODAする［である］"
           ]
         },
         {
@@ -111268,12 +111683,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テベヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111286,7 +111696,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を権力の根源として ： catni 法制詞, x_3"
+            "〚teca\u0027i KOhA〛KOhAを権力の根源として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teca\u0027i BRODA〛何［誰］かを権力の根源としてBRODAする［である］"
           ]
         },
         {
@@ -111300,12 +111716,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テシャヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111318,7 +111729,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（体系／システムの）構成要素として ： ciste 法制詞, x_3"
+            "〚teci\u0027e KOhA〛KOhAを（体系［システム］の）構成要素として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teci\u0027e BRODA〛何［誰］かを（体系［システムの）構成要素として］BRODAする［である］"
           ]
         },
         {
@@ -111332,12 +111749,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テシヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111350,7 +111762,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～について感じて／～にたいする感情として ： cinmo 法制詞, x_3"
+            "〚teci\u0027o KOhA〛KOhAについて感じて［にたいする感情として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teci\u0027o BRODA〛何［誰］かについて感じて［にたいする感情として］BRODAする［である］"
           ]
         },
         {
@@ -111364,12 +111782,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テシホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111382,7 +111795,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～に言って／～を聞き手／読み手として ： cusku 法制詞, x_3"
+            "〚tecu\u0027u KOhA〛KOhAに言って［を聞き手［読み手］として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tecu\u0027u BRODA〛何［誰］かに言って［を聞き手［読み手］として］BRODAする［である］"
           ]
         },
         {
@@ -111396,12 +111815,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テシュフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111414,7 +111828,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（場所）における日として ： detri 法制詞, x_3"
+            "〚tede\u0027i KOhA〛KOhA〈場所〉における日として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tede\u0027i BRODA〛どこかにおける日としてBRODAする［である］"
           ]
         },
         {
@@ -111428,12 +111848,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テデヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111446,7 +111861,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（範囲）内の局所として ： diklo 法制詞, x_3"
+            "〚tedi\u0027o KOhA〛KOhA〈範囲〉内の局所として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tedi\u0027o BRODA〛範囲内の局所としてBRODAする［である］"
           ]
         },
         {
@@ -111460,12 +111881,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テディホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111478,7 +111894,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）に関して同等で ： dunli 法制詞, x_3"
+            "〚tedu\u0027i KOhA〛KOhA《性質》に関して同等で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tedu\u0027i BRODA〛何かの性質に関して同等でBRODAする［である］"
           ]
         },
         {
@@ -111492,12 +111914,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テドゥヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111510,7 +111927,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～について知って ： djuno 法制詞, x_3"
+            "〚tedu\u0027o KOhA〛KOhAについて知って"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tedu\u0027o BRODA〛何［誰］かについて知ってBRODAする［である］"
           ]
         },
         {
@@ -111524,12 +111947,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テドゥホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111542,7 +111960,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（目的）のために創って／著して ： finti 法制詞, x_3"
+            "〚tefi\u0027e KOhA〛KOhA〈目的〉のために創って［著して］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tefi\u0027e BRODA〛何かの目的のために創って［著して］BRODAする［である］"
           ]
         },
         {
@@ -111556,12 +111980,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テフィヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111574,7 +111993,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を観察方法として ： zgana 法制詞, x_3"
+            "〚tega\u0027a KOhA〛KOhAを観察方法として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tega\u0027a BRODA〛何かを観察方法としてBRODAする［である］"
           ]
         },
         {
@@ -111588,12 +112013,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テガハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111606,7 +112026,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～における規則／原理として ： javni 法制詞, x_3"
+            "〚teja\u0027i KOhA〛KOhAにおける規則［原理として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teja\u0027i BRODA〛何［誰］かにおける規則［原理として］BRODAする［である］"
           ]
         },
         {
@@ -111620,12 +112046,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テジャヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111638,7 +112059,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）に関する限度として ： jimte 法制詞, x_3"
+            "〚teji\u0027e KOhA〛KOhA《性質》に関する限度として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teji\u0027e BRODA〛何［誰］か《性質》に関する限度としてBRODAする［である］"
           ]
         },
         {
@@ -111652,12 +112079,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テジヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111670,7 +112092,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（事／動作）における制御として ： jitro 法制詞, x_3"
+            "〚teji\u0027o KOhA〛KOhA《こと・動作》における制御として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teji\u0027o BRODA〛何かにおける制御としてBRODAする［である］"
           ]
         },
         {
@@ -111684,12 +112112,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テジホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111702,7 +112125,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を出発地として／～発で／～から来て ： klama 法制詞, x_3"
+            "〚teka\u0027a KOhA〛KOhAを出発地として［発で、から来て］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teka\u0027a BRODA〛どこかを出発地として［発で、から来て］BRODAする［である］"
           ]
         },
         {
@@ -111716,12 +112145,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テカハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111734,7 +112158,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（役割）に関して代表して ： krati 法制詞, x_2"
+            "〚teka\u0027i KOhA〛KOhA〈役割〉に関して代表して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teka\u0027i BRODA〛何［誰］か〈役割〉に関して代表してBRODAする［である］"
           ]
         },
         {
@@ -111748,12 +112178,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テカヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111766,7 +112191,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を同類関係として ： ckini 法制詞, x_3"
+            "〚teki\u0027i KOhA〛KOhAを同類関係として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teki\u0027i BRODA〛何［誰］かを同類関係としてBRODAする［である］"
           ]
         },
         {
@@ -111780,12 +112211,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テキヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111798,7 +112224,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～への境界として／～が向こう側で ： korbi 法制詞, x_3"
+            "〚tekoi KOhA〛KOhAへの境界として［が向こう側で］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tekoi BRODA〛何［誰］かへの境界として［が向こう側で］BRODAする［である］"
           ]
         },
         {
@@ -111812,12 +112244,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テコイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111830,7 +112257,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（概念）を測定の尺度として ： klani 法制詞, x_3"
+            "〚tela\u0027u KOhA〛KOhA《概念》を測定の尺度として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tela\u0027u BRODA〛何［誰］か《概念》を測定の尺度としてBRODAする［である］"
           ]
         },
         {
@@ -111862,7 +112295,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～をカテゴリー特性として ： klesi 法制詞, x_3"
+            "〚tele\u0027a KOhA〛KOhAをカテゴリー特性として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tele\u0027a BRODA〛何［誰］かをカテゴリー特性としてBRODAする［である］"
           ]
         },
         {
@@ -111876,12 +112315,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テルェハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111894,7 +112328,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を前後関係の順序として ： lidne 法制詞, x_3"
+            "〚teli\u0027e KOhA〛KOhAを前後関係の順序として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teli\u0027e BRODA〛何［誰］かを前後関係の順序としてBRODAする［である］"
           ]
         },
         {
@@ -111908,12 +112348,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テルィヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111926,7 +112361,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（物質の）形状として ： marji 法制詞, x_3"
+            "〚tema\u0027e KOhA〛KOhAを（物質の）形状として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tema\u0027e BRODA〛何［誰］かを（物質の）形状としてBRODAする［である］"
           ]
         },
         {
@@ -111940,12 +112381,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テマヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111958,7 +112394,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を標準／照合枠の原理として ： manri 法制詞, x_3"
+            "〚tema\u0027i KOhA〛KOhAを標準［照合枠の原理として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tema\u0027i BRODA〛何［誰］かを標準［照合枠の原理として］BRODAする［である］"
           ]
         },
         {
@@ -111972,12 +112414,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テマヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -111990,7 +112427,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）に関してより多くて ： zmadu 法制詞, x_3"
+            "〚temau KOhA〛KOhA《性質》に関してより多くて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚temau BRODA〛何［誰］か《性質》に関してより多くてBRODAする［である］"
           ]
         },
         {
@@ -112004,12 +112447,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テマウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112022,7 +112460,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）に関してより少なくて ： mleca 法制詞, x_3"
+            "〚teme\u0027a KOhA〛KOhA《性質》に関してより少なくて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teme\u0027a BRODA〛何［誰］か《性質》に関してより少なくてBRODAする［である］"
           ]
         },
         {
@@ -112036,12 +112480,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テメハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112054,7 +112493,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～が呼ぶ名として／～に名付けられて ： cmene 法制詞, x_3"
+            "〚teme\u0027e KOhA〛KOhAが呼ぶ名として［～に名付けられて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teme\u0027e BRODA〛何［誰］かが呼ぶ名として［～に名付けられて］BRODAする［である］"
           ]
         },
         {
@@ -112068,12 +112513,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テメヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112086,7 +112526,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（者）を動機づけて ： mukti 法制詞, x_3"
+            "〚temu\u0027i KOhA〛KOhA〈者〉を動機づけて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚temu\u0027i BRODA〛誰かを動機づけてBRODAする［である］"
           ]
         },
         {
@@ -112100,12 +112546,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テムヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112118,7 +112559,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（集合）における例として ： mupli 法制詞, x_3"
+            "〚temu\u0027u KOhA〛KOhA〈集合〉における例として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚temu\u0027u BRODA〛何かの集合における例としてBRODAする［である］"
           ]
         },
         {
@@ -112132,12 +112579,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テムフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112150,7 +112592,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を論理体系として ： nibli 法制詞, x_3"
+            "〚teni\u0027i KOhA〛KOhAを論理体系として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teni\u0027i BRODA〛何かを論理体系としてBRODAする［である］"
           ]
         },
         {
@@ -112164,12 +112612,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テニヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112182,7 +112625,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）を相異点として ： panra 法制詞, x_3"
+            "〚tepa\u0027a KOhA〛KOhA《性質》を相異点として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tepa\u0027a BRODA〛何［誰］か《性質》を相異点としてBRODAする［である］"
           ]
         },
         {
@@ -112196,12 +112645,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テパハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112214,7 +112658,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を用途として ： pilno 法制詞, x_3"
+            "〚tepi\u0027o KOhA〛KOhAを用途として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tepi\u0027o BRODA〛何かを用途としてBRODAする［である］"
           ]
         },
         {
@@ -112228,12 +112678,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テピホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112246,7 +112691,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（要素）の配列として ： porsi 法制詞, x_3"
+            "〚tepo\u0027i KOhA〛KOhA〈要素〉の配列として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tepo\u0027i BRODA〛何かの要素の配列としてBRODAする［である］"
           ]
         },
         {
@@ -112260,12 +112711,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テポヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112278,7 +112724,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（条件）で（何かが）楽しくて ： pluka 法制詞, x_3"
+            "〚tepu\u0027a KOhA〛KOhA〈条件〉で（何かが）楽しくて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tepu\u0027a BRODA〛何［誰］か〈条件〉で（何かが）楽しくてBRODAする［である］"
           ]
         },
         {
@@ -112292,12 +112744,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テプハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112310,7 +112757,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を出力として ： pruce 法制詞, x_3"
+            "〚tepu\u0027e KOhA〛KOhAを出力として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tepu\u0027e BRODA〛何かを出力としてBRODAする［である］"
           ]
         },
         {
@@ -112324,12 +112777,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テプヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112342,7 +112790,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（極性／指向性）に関して最上で ： traji 法制詞, x_3"
+            "〚terai KOhA〛KOhA〈極性・指向性〉に関して最上で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚terai BRODA〛何［誰］か〈極性・指向性〉に関して最上でBRODAする［である］"
           ]
         },
         {
@@ -112356,12 +112810,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テライ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112374,7 +112823,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（条件）で起因して ： rinka 法制詞, x_2"
+            "〚teri\u0027a KOhA〛KOhA〈条件〉で起因して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teri\u0027a BRODA〛何かの条件で起因してBRODAする［である］"
           ]
         },
         {
@@ -112388,12 +112843,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テリハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112406,7 +112856,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（条件）において必須で ： sarcu 法制詞, x_3"
+            "〚tesau KOhA〛KOhA〈条件〉において必須で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tesau BRODA〛何かの条件において必須でBRODAする［である］"
           ]
         },
         {
@@ -112420,12 +112876,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テサウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112438,7 +112889,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～において助けて／補助して ： sidju 法制詞, x_3"
+            "〚tesi\u0027u KOhA〛KOhAにおいて助けて［補助して］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tesi\u0027u BRODA〛何かにおいて助けて［補助して］BRODAする［である］"
           ]
         },
         {
@@ -112452,12 +112909,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テスィフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112470,7 +112922,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を類似点として ： tamsmi 法制詞, x_3"
+            "〚tetai KOhA〛KOhAを類似点として "
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tetai BRODA〛何かを類似点として BRODAする［である］"
           ]
         },
         {
@@ -112484,12 +112942,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テタイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112502,7 +112955,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（条件）における方法／方式／手段として ： tadji 法制詞, x_3"
+            "〚teta\u0027i KOhA〛KOhA〈条件〉における方法［方式、手段］として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teta\u0027i BRODA〛何［誰］か〈条件〉における方法［方式、手段］としてBRODAする［である］"
           ]
         },
         {
@@ -112516,12 +112975,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テタヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112534,7 +112988,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～に示唆して／勧めて ： stidi 法制詞, x_3"
+            "〚teti\u0027i KOhA〛KOhAに示唆して［勧めて］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teti\u0027i BRODA〛何［誰］かに示唆して［勧めて］BRODAする［である］"
           ]
         },
         {
@@ -112548,12 +113008,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テティヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112566,7 +113021,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（日）における時刻として ： tcika 法制詞, x_3"
+            "〚teti\u0027u KOhA〛KOhA〈日〉における時刻として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teti\u0027u BRODA〛何日かにおける時刻としてBRODAする［である］"
           ]
         },
         {
@@ -112580,12 +113041,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テティフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112598,7 +113054,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を価値基準／価値観として ： xamgu 法制詞, x_3"
+            "〚teva\u0027u KOhA〛KOhAを価値基準［価値観として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚teva\u0027u BRODA〛何かを価値基準［価値観として］BRODAする［である］"
           ]
         },
         {
@@ -112612,12 +113074,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： テヴァフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112630,7 +113087,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を目的／目標として ： zukte 法制詞, x_3"
+            "〚tezu\u0027e KOhA〛KOhAを目的［目標として］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚tezu\u0027e BRODA〛何かを目的［目標として］BRODAする［である］"
           ]
         },
         {
@@ -112644,12 +113107,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： デズヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112790,7 +113248,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～から送って／受け取って ： benji 法制詞, x_4"
+            "〚vebe\u0027i KOhA〛KOhAから送って［受け取って］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vebe\u0027i BRODA〛何［誰］かから送って［受け取って］BRODAする［である］"
           ]
         },
         {
@@ -112804,12 +113268,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェベヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112822,7 +113281,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（体系／システムの）相乗作用として ： ciste 法制詞, x_4"
+            "〚veci\u0027e KOhA〛KOhAを（体系［システム］の）相乗作用として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚veci\u0027e BRODA〛何［誰］かを（体系［システム］の）相乗作用としてBRODAする［である］"
           ]
         },
         {
@@ -112836,12 +113301,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェシヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112854,7 +113314,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を表現媒体として ： cusku 法制詞, x_4"
+            "〚vecu\u0027u KOhA〛KOhAを表現媒体として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vecu\u0027u BRODA〛何かを表現媒体としてBRODAする［である］"
           ]
         },
         {
@@ -112868,12 +113334,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェシュフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112886,7 +113347,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（暦）における日として ： detri 法制詞, x_4"
+            "〚vede\u0027i KOhA〛KOhA〈暦〉における日として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vede\u0027i BRODA〛何かの暦体系における日としてBRODAする［である］"
           ]
         },
         {
@@ -112900,12 +113367,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェデヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112918,7 +113380,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を認識体系／エピステモロジーとして ： djuno 法制詞, x_4"
+            "〚vedu\u0027o KOhA〛KOhAを認識体系［エピステモロジーとして］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vedu\u0027o BRODA〛何かを認識体系［エピステモロジーとして］BRODAする［である］"
           ]
         },
         {
@@ -112932,12 +113400,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェドゥホ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112950,7 +113413,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（素材）から創って／～をインスピレーションとして ： finti 法制詞, x_4"
+            "〚vefi\u0027e KOhA〛KOhA〈素材〉から創って［をインスピレーションとして］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vefi\u0027e BRODA〛何か〈素材〉から創って［をインスピレーションとして］BRODAする［である］"
           ]
         },
         {
@@ -112964,12 +113433,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェフィヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -112982,7 +113446,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（条件）において観察して ： zgana 法制詞, x_4"
+            "〚vega\u0027a KOhA〛KOhA〈条件〉において観察して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vega\u0027a BRODA〛何かの条件において観察してBRODAする［である］"
           ]
         },
         {
@@ -112996,12 +113466,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェガハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113014,7 +113479,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を経路／行路／筋道として ： klama 法制詞, x_4"
+            "〚veka\u0027a KOhA〛KOhAを経路［行路、筋道］として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚veka\u0027a BRODA〛何かを経路［行路、筋道］としてBRODAする［である］"
           ]
         },
         {
@@ -113028,12 +113499,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェカハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113046,7 +113512,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（度量）の分多くて ： zmadu 法制詞, x_4"
+            "〚vemau KOhA〛KOhA〈度量〉の分多くて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vemau BRODA〛何かの度量の分多くてBRODAする［である］"
           ]
         },
         {
@@ -113060,12 +113532,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェマウ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113078,7 +113545,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（度量）の分少なくて ： mleca 法制詞, x_4"
+            "〚veme\u0027a KOhA〛KOhA〈度量〉の分少なくて"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚veme\u0027a BRODA〛何かの度量の分少なくてBRODAする［である］"
           ]
         },
         {
@@ -113092,12 +113565,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェメハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113110,7 +113578,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（基準）で並行して ： panra 法制詞, x_4"
+            "〚vepa\u0027a KOhA〛KOhA〈基準〉で並行して"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vepa\u0027a BRODA〛何かの基準で並行してBRODAする［である］"
           ]
         },
         {
@@ -113124,12 +113598,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェパハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113142,7 +113611,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～を（過程／プロセスの）段階として ： pruce 法制詞, x_4"
+            "〚vepu\u0027e KOhA〛KOhAを（過程［プロセス］の）段階として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vepu\u0027e BRODA〛何かを（過程［プロセス］の）段階としてBRODAする［である］"
           ]
         },
         {
@@ -113156,12 +113631,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェプヘ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113174,7 +113644,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（集合）の中で最上で ： traji 法制詞, x_4"
+            "〚verai KOhA〛KOhA〈集合〉の中で最上で"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚verai BRODA〛何かの集合の中で最上でBRODAする［である］"
           ]
         },
         {
@@ -113188,12 +113664,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェライ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113206,7 +113677,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（性質）に関して類似して ： tamsmi 法制詞, x_4"
+            "〚vetai KOhA〛KOhA《性質》に関して類似して "
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vetai BRODA〛何かの性質に関して類似して BRODAする［である］"
           ]
         },
         {
@@ -113220,12 +113697,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェタイ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113238,7 +113710,13 @@
         {
           "title": "機能語",
           "forms": [
-            "～（場所）の時刻として ： tcika 法制詞, x_4"
+            "〚veti\u0027u KOhA〛KOhA〈場所〉の時刻として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚veti\u0027u BRODA〛どこかの時刻としてBRODAする［である］"
           ]
         },
         {
@@ -113252,12 +113730,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： ヴェティフ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113270,7 +113743,13 @@
         {
           "title": "機能語",
           "forms": [
-            "~を送信経路として ： benji 法制詞, x_5"
+            "〚xebe\u0027i KOhA〛KOhAを送信経路として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xebe\u0027i BRODA〛何かを送信経路としてBRODAする［である］"
           ]
         },
         {
@@ -113284,12 +113763,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： クェベヒ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -113302,7 +113776,13 @@
         {
           "title": "機能語",
           "forms": [
-            "~を移動手段として ： klama 法制詞, x_5"
+            "〚xeka\u0027a KOhA〛KOhAを移動手段として"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xeka\u0027a BRODA〛何かを移動手段としてBRODAする［である］"
           ]
         },
         {
@@ -113316,12 +113796,7 @@
         "法制詞",
         "BAI*"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・読み方： クェカハ"
-        }
-      ],
+      "contents": [],
       "variations": [],
       "relations": []
     },
@@ -117456,7 +117931,7 @@
         },
         {
           "title": "使用例",
-          "text": "① mi\u0027e .tanakan. fa\u0027o 田中と申します\n② mi\u0027e nai .lojypantan. fa\u0027o ぼくはロジパンたんじゃないよ"
+          "text": "① mi\u0027e .tanakan. · 田中と申します\n② mi\u0027e nai .lojypantan. · ぼくはロジパンたんじゃないよ"
         }
       ],
       "variations": [],
@@ -139501,7 +139976,88 @@
         {
           "title": "機能語",
           "forms": [
-            "8 ： 数量詞"
+            "8"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi mei〛@1は基数8に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］8個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ8番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置8にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の8倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi roi〛8回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi re\u0027u〛8回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi mai〛第8に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚bi mo\u0027o〛（高位発話順序）第8に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "8",
+            "８",
+            "八",
+            "捌",
+            "8個",
+            "８個",
+            "八個",
+            "8つ",
+            "８つ",
+            "ふたつ",
+            "八つ",
+            "8番目",
+            "８番目",
+            "8回",
+            "8回にわたって",
+            "８回",
+            "８回にわたって",
+            "八回",
+            "八回にわたって",
+            "8回目",
+            "8度目",
+            "８回目",
+            "８度目",
+            "八回目",
+            "八度目",
+            "第8に～",
+            "第８に～",
+            "第八に～"
           ]
         },
         {
@@ -139565,13 +140121,88 @@
         {
           "title": "機能語",
           "forms": [
-            "3 ： 数量詞"
+            "3"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚ci mei〛@1は基数3に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］3個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ3番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置3にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の3倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci roi〛3回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci re\u0027u〛3回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci mai〛第3に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ci mo\u0027o〛（高位発話順序）第3に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "3",
+            "３",
+            "三",
+            "参",
+            "3個",
+            "３個",
+            "三個",
+            "3つ",
+            "３つ",
+            "ふたつ",
+            "三つ",
+            "3番目",
+            "３番目",
+            "3回",
+            "3回にわたって",
+            "３回",
+            "３回にわたって",
+            "三回",
+            "三回にわたって",
+            "3回目",
+            "3度目",
+            "３回目",
+            "３度目",
+            "三回目",
+            "三度目",
+            "第3に～",
+            "第３に～",
+            "第三に～"
           ]
         },
         {
@@ -139635,13 +140266,88 @@
         {
           "title": "機能語",
           "forms": [
-            "5 ： 数量詞"
+            "5"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚mu mei〛@1は基数5に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］5個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ5番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置5にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の5倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu roi〛5回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu re\u0027u〛5回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu mai〛第5に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚mu mo\u0027o〛（高位発話順序）第5に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "5",
+            "５",
+            "五",
+            "伍",
+            "5個",
+            "５個",
+            "五個",
+            "5つ",
+            "５つ",
+            "ふたつ",
+            "五つ",
+            "5番目",
+            "５番目",
+            "5回",
+            "5回にわたって",
+            "５回",
+            "５回にわたって",
+            "五回",
+            "五回にわたって",
+            "5回目",
+            "5度目",
+            "５回目",
+            "５度目",
+            "五回目",
+            "五度目",
+            "第5に～",
+            "第５に～",
+            "第五に～"
           ]
         },
         {
@@ -139705,13 +140411,7 @@
         {
           "title": "機能語",
           "forms": [
-            "0 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "0"
           ]
         },
         {
@@ -139772,6 +140472,12 @@
         "form": "pa"
       },
       "translations": [
+        {
+          "title": "機能語",
+          "forms": [
+            "1"
+          ]
+        },
         {
           "title": "機能語",
           "forms": [
@@ -139845,6 +140551,16 @@
             "１",
             "一",
             "壱",
+            "1個",
+            "１個",
+            "一個",
+            "1つ",
+            "１つ",
+            "ひとつ",
+            "一つ",
+            "1番目",
+            "１番目",
+            "最初の",
             "1回",
             "1回にわたって",
             "１回",
@@ -139875,14 +140591,11 @@
         }
       ],
       "tags": [
+        "数量詞",
+        "PA",
         "PA1"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・大意： 1 ・読み方： パ"
-        }
-      ],
+      "contents": [],
       "variations": [
         {
           "title": "rafsi",
@@ -139928,13 +140641,88 @@
         {
           "title": "機能語",
           "forms": [
-            "2 ： 数量詞"
+            "2"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚re mei〛@1は基数2に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］2個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ2番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置2にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の2倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re roi〛2回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re re\u0027u〛2回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re mai〛第2に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚re mo\u0027o〛（高位発話順序）第2に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "2",
+            "２",
+            "二",
+            "弐",
+            "2個",
+            "２個",
+            "二個",
+            "2つ",
+            "２つ",
+            "ふたつ",
+            "二つ",
+            "2番目",
+            "２番目",
+            "2回",
+            "2回にわたって",
+            "２回",
+            "２回にわたって",
+            "二回",
+            "二回にわたって",
+            "2回目",
+            "2度目",
+            "２回目",
+            "２度目",
+            "二回目",
+            "二度目",
+            "第2に～",
+            "第２に～",
+            "第二に～"
           ]
         },
         {
@@ -139947,12 +140735,7 @@
       "tags": [
         "PA1"
       ],
-      "contents": [
-        {
-          "title": "語法",
-          "text": "・大意： 2 ・読み方： レ"
-        }
-      ],
+      "contents": [],
       "variations": [
         {
           "title": "rafsi",
@@ -139998,13 +140781,88 @@
         {
           "title": "機能語",
           "forms": [
-            "9 ： 数量詞"
+            "9"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚so mei〛@1は基数9に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］9個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ9番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置9にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の9倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so roi〛9回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so re\u0027u〛9回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so mai〛第9に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚so mo\u0027o〛（高位発話順序）第9に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "9",
+            "９",
+            "九",
+            "キュウ",
+            "9個",
+            "９個",
+            "九個",
+            "9つ",
+            "９つ",
+            "ふたつ",
+            "九つ",
+            "9番目",
+            "９番目",
+            "9回",
+            "9回にわたって",
+            "９回",
+            "９回にわたって",
+            "九回",
+            "九回にわたって",
+            "9回目",
+            "9度目",
+            "９回目",
+            "９度目",
+            "九回目",
+            "九度目",
+            "第9に～",
+            "第９に～",
+            "第九に～"
           ]
         },
         {
@@ -140068,13 +140926,88 @@
         {
           "title": "機能語",
           "forms": [
-            "4 ： 数量詞"
+            "4"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚vo mei〛@1は基数4に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］4個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ4番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置4にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の4倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo roi〛4回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo re\u0027u〛4回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo mai〛第4に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚vo mo\u0027o〛（高位発話順序）第4に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "4",
+            "４",
+            "四",
+            "肆",
+            "4個",
+            "４個",
+            "四個",
+            "4つ",
+            "４つ",
+            "ふたつ",
+            "九つ",
+            "4番目",
+            "４番目",
+            "4回",
+            "4回にわたって",
+            "４回",
+            "４回にわたって",
+            "四回",
+            "四回にわたって",
+            "4回目",
+            "4度目",
+            "４回目",
+            "４度目",
+            "四回目",
+            "四度目",
+            "第4に～",
+            "第４に～",
+            "第四に～"
           ]
         },
         {
@@ -140138,13 +141071,88 @@
         {
           "title": "機能語",
           "forms": [
-            "6 ： 数量詞"
+            "6"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚xa mei〛@1は基数6に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］6個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ6番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置6にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の6倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa roi〛6回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa re\u0027u〛6回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa mai〛第6に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚xa mo\u0027o〛（高位発話順序）第6に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "6",
+            "６",
+            "六",
+            "陸",
+            "6個",
+            "６個",
+            "六個",
+            "6つ",
+            "６つ",
+            "むっつ",
+            "六つ",
+            "6番目",
+            "６番目",
+            "6回",
+            "6回にわたって",
+            "６回",
+            "６回にわたって",
+            "六回",
+            "六回にわたって",
+            "6回目",
+            "6度目",
+            "６回目",
+            "６度目",
+            "六回目",
+            "六度目",
+            "第6に～",
+            "第６に～",
+            "第六に～"
           ]
         },
         {
@@ -140208,13 +141216,88 @@
         {
           "title": "機能語",
           "forms": [
-            "7 ： 数量詞"
+            "7"
           ]
         },
         {
           "title": "機能語",
           "forms": [
-            ""
+            "〚ze mei〛@1は基数7に対等な@2《集合》が形成する群でありその集合の元の1個以上が@3である@4《集合》との対応によって測定される［@4《基準》に基づいて］7個からなる集合である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze moi〛@1は@4〈基準〉に基づいて@2《集合》の@3〈規則〉に従って並んだ7番目の要素である"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze va\u0027e〛@1は@3〈基準〉に基づいて@2〈段階〉上の段階位置7にある"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze si\u0027e〛@1 は@3〈基準〉に基づいて@2《群》の7倍の分量"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze roi〛7回（にわたって）"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze re\u0027u〛7回目［度目］"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze mai〛第7に～"
+          ]
+        },
+        {
+          "title": "機能語",
+          "forms": [
+            "〚ze mo\u0027o〛（高位発話順序）第7に～"
+          ]
+        },
+        {
+          "title": "キーワード",
+          "forms": [
+            "7",
+            "７",
+            "七",
+            "漆",
+            "7個",
+            "７個",
+            "七個",
+            "7つ",
+            "７つ",
+            "ななつ",
+            "七つ",
+            "7番目",
+            "７番目",
+            "7回",
+            "7回にわたって",
+            "７回",
+            "７回にわたって",
+            "七回",
+            "七回にわたって",
+            "7回目",
+            "7度目",
+            "７回目",
+            "７度目",
+            "七回目",
+            "七度目",
+            "第7に～",
+            "第７に～",
+            "第七に～"
           ]
         },
         {
@@ -140250,13 +141333,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法A/10進法10 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "（11進数以上で）10"
           ]
         },
         {
@@ -140287,13 +141364,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法B/10進法11 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "（12進数以上で）11"
           ]
         },
         {
@@ -140324,7 +141395,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法C/10進法12 ： 数量詞"
+            "（13進数以上で）12"
           ]
         },
         {
@@ -140355,13 +141426,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法D/10進法13 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "（14進数以上で）13"
           ]
         },
         {
@@ -140392,13 +141457,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法E/10進法14 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "（15進数以上で）14"
           ]
         },
         {
@@ -140429,13 +141488,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法F/10進法15 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "（16進数以上で）15"
           ]
         },
         {
@@ -140466,13 +141519,7 @@
         {
           "title": "機能語",
           "forms": [
-            "16進法E/10進法14 ： 数量詞"
-          ]
-        },
-        {
-          "title": "機能語",
-          "forms": [
-            ""
+            "（15進数以上で）14"
           ]
         },
         {
