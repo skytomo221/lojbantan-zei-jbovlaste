@@ -67,6 +67,9 @@ namespace SkytomoJbovlaste
                     Translations = new List<Translation>(),
                     Tags = gismu.Tags,
                 };
+                word.Tags.Insert(0, gismu.IsOfficial ? "標準" : "非標準");
+                word.Tags.Insert(1, "ギスム");
+                word.Tags.Insert(2, gismu.IsOfficial ? "標準ギスム" : "非標準ギスム");
                 foreach (var meaning in gismu.Meanings)
                 {
                     word.Translations.Add(new Translation()
@@ -138,7 +141,7 @@ namespace SkytomoJbovlaste
                             {
                                 Form = variation.Replace("-", string.Empty).Trim(),
                             },
-                            Tags = new List<string>() { "語根《ラフシ》" },
+                            Tags = new List<string>() { "ラフシ" },
                             Translations = new List<Translation>()
                             {
                                 new Translation ()
@@ -208,6 +211,21 @@ namespace SkytomoJbovlaste
                     Translations = new List<Translation>(),
                     Tags = cmavo.Tags,
                 };
+                switch (cmavo.Type)
+                {
+                    case "標準":
+                    case "非標準":
+                        word.Tags.Insert(0, cmavo.Type);
+                        word.Tags.Insert(1, "シュマボ");
+                        word.Tags.Insert(2, cmavo.Type + "シュマボ");
+                        break;
+                    case "複合cmavo":
+                        word.Tags.Insert(0, "複合シュマボ");
+                        break;
+                    default:
+                        word.Tags.Add(cmavo.Type);
+                        break;
+                }
                 word.Tags.Add(cmavo.Selmaho);
                 foreach (var meaning in cmavo.Meanings)
                 {
