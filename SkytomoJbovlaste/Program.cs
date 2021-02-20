@@ -8,6 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Encodings.Web;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using System.Text.Unicode;
 
 namespace SkytomoJbovlaste
@@ -67,9 +68,9 @@ namespace SkytomoJbovlaste
                     Translations = new List<Translation>(),
                     Tags = gismu.Tags,
                 };
-                word.Tags.Insert(0, gismu.IsOfficial ? "標準" : "非標準");
+                word.Tags.Insert(0, gismu.IsOfficial ? "標準" : "試験的");
                 word.Tags.Insert(1, "ギスム");
-                word.Tags.Insert(2, gismu.IsOfficial ? "標準ギスム" : "非標準ギスム");
+                word.Tags.Insert(2, gismu.IsOfficial ? "標準ギスム" : "試験的ギスム");
                 foreach (var meaning in gismu.Meanings)
                 {
                     word.Translations.Add(new Translation()
@@ -214,7 +215,7 @@ namespace SkytomoJbovlaste
                 switch (cmavo.Type)
                 {
                     case "標準":
-                    case "非標準":
+                    case "試験的":
                         word.Tags.Insert(0, cmavo.Type);
                         word.Tags.Insert(1, "シュマボ");
                         word.Tags.Insert(2, cmavo.Type + "シュマボ");
@@ -313,6 +314,33 @@ namespace SkytomoJbovlaste
                     }
                 }
                 dictionary.AddWord(word);
+            }
+            { // セルマホの関連語
+                foreach (var word in dictionary.Words)
+                {
+                    if (cmavos.Any(x => x.Tags.Contains("シュマボ") && x.Name == word.Entry.Form)
+                        && (word.Tags.Contains("標準") || word.Tags.Contains("試験的")))
+                    {
+                        var cmavo = cmavos.First(x => x.Name == word.Entry.Form);
+                        var cmavo_selmaho = Regex.Match(cmavo.Selmaho, @"[A-Zh]+").Value;
+                        foreach (var rel_cmavo in cmavos.Where(x => Regex.IsMatch(x.Selmaho, "^" + cmavo_selmaho + @"\d*$") && x.Type == "標準"))
+                        {
+                            word.Relations.Add(new Relation
+                            {
+                                Title = rel_cmavo.Selmaho,
+                                Entry = dictionary.Words.First(x => x.Tags.Contains("シュマボ") && x.Entry.Form == rel_cmavo.Name).Entry
+                            });
+                        }
+                        foreach (var rel_cmavo in cmavos.Where(x => Regex.IsMatch(x.Selmaho, "^" + cmavo_selmaho + @"\d*$") && x.Type == "試験的"))
+                        {
+                            word.Relations.Add(new Relation
+                            {
+                                Title = rel_cmavo.Selmaho + "🧪",
+                                Entry = dictionary.Words.First(x => x.Tags.Contains("シュマボ") && x.Entry.Form == rel_cmavo.Name).Entry
+                            });
+                        }
+                    }
+                }
             }
         }
     }
