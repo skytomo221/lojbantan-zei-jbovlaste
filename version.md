@@ -10,6 +10,22 @@
 - ファイル名をlojbantan-zei-jbovlaste.jsonに変更
 - 不要な要素を削除
 - Excelファイルや変換プログラムの削除
+- ドキュメントの追加
+
+解決した問題点は以下の通りです。
+
+- [3](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues/3): ライセンスの追加
+- [5](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues/5): コントリビューター行動規範の追加
+- [7](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues/7): Issue templates の追加
+
+貢献者は以下の通りです。
+
+- [skytomo (@skytomo221)](https://github.com/skytomo221)
+  - Create LICENSE [PR #2](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/2)
+  - Create CODE_OF_CONDUCT.md [PR #4](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/4)
+  - Update issue templates [PR #6](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/6)
+  - V2project [PR #10](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/10)
+  - Develop [PR #11](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/11)
 
 ## Version 1.0
 
