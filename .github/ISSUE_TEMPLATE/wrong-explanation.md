@@ -1,6 +1,6 @@
 ---
 name: 誤った説明
-about: 改善に役立つレポートを作成する
+about: 誤った説明を訂正する必要があることを示し、改善に役立つレポートを作成します
 title: ''
 labels: wrong explanation
 assignees: ''

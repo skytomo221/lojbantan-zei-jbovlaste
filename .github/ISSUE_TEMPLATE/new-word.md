@@ -1,6 +1,6 @@
 ---
 name: 新しい単語のリクエスト
-about: この辞書に追加する新たな単語を提案する
+about: この辞書に追加する新たな単語を提案します
 title: ''
 labels: new word
 assignees: ''
