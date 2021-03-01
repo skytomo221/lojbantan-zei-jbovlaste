@@ -3,7 +3,7 @@ name: 新しい単語のリクエスト
 about: この辞書に追加する新たな単語を提案する
 title: ''
 labels: new word
-assignees: skytomo221
+assignees: ''
 
 ---
 

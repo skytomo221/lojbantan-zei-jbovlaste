@@ -3,7 +3,7 @@ name: 誤った説明
 about: 改善に役立つレポートを作成する
 title: ''
 labels: wrong explanation
-assignees: skytomo221
+assignees: ''
 
 ---
 
