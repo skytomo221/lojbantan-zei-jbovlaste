@@ -1,7 +1,9 @@
 
-**【チートシート】**
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+チートシート
 
-- 論理接続詞（A, GA, GI, GUhA, JA）
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+論理接続詞（A, GA, GI, GUhA, JA）
 
 |                                  .a                                   |                                  .e                                   |                                  .o                                   |                                  .u                                   |
 | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
@@ -28,32 +30,13 @@
 |  i'a'a  | ji'a'a  |  gi'a'a   |  gi'a'a-gi  |  gu'i'a'a-gi  |   ❌   |   ❌   |   ❌   |   ❌   |
 |   ji    |  je'i   |   gi'i    |   ge'i-gi   |    gu'i-gi    |   ❔   |   ❔   |   ❔   |   ❔   |
 
-- KOhA3
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+KOhA3
 
-```
-┌──────────────────────────┐
-│ me                       │
-│    ┌───────────────────┐ │
-│    │ you               │ │
-│    │      ┌──────────┐ │ │
-│    │      │ listener │ │ │
-│    │      │          │ │ │
-│ mi │ mi'o │   ma'a   │ │ │
-└────┼──────┼──────────┼─┼─┘
-     │  do  │   do'o   │ │
-     └──────┼──────────┼─┘
-   no da    │ le drata │
-            └──────────┘
-```
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/d07d22c1a760e583cc559a629b7631c36f6ebf85/images/KOhA3.svg)
 
-- 時空間制の順番
-
-`[PU ZI] ZEhA PU (TAhE / (PA ROI)) ZAhO [FAhA VA] VEhA FAhA ZAhO MOhI [FAhA VA] CAhA`
-※`[]`は繰り返しがあることを表します。
-また、`/`は「または」を表します。
-すべての単語は省略できます。
-
-- 時空間制（PU, ZI, ZEhA, ROI, ZAhO, FAhA, VA, TAhE, MOhI, CAhA）
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+時空間制（PU, ZI, ZEhA, ROI, ZAhO, FAhA, VA, TAhE, MOhI, CAhA）
 
 |  PU   | 時間方向 |
 | :---: | :------: |
@@ -88,25 +71,6 @@
 | [ba'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=ba%27o&type=exact) | ░░│░░░░░│▓░ | 完成  | まさに～し終えた       |
 | [za'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=za%27o&type=exact) | ░░│░░░░░│░█ | 延続  | ～しすぎる             |
 
-|     例     | 解釈例                                     |
-| :--------: | :----------------------------------------- |
-| xa'o santa | （雨が降っていないのに）もう傘をさしている |
-| pu'o santa | まさに傘をさそうとしている                 |
-| xo'u santa | 傘をさし始める                             |
-| co'a santa | 傘をさす                                   |
-| ca'o santa | 傘をさしている                             |
-| de'a santa | 一旦傘をたたむ                             |
-| co'u santa | （雨は降っているけれど）傘をたたむ         |
-| di'a santa | 再び傘をさす                               |
-| co'i santa | 傘をたたみ始める                           |
-| mo'u santa | 傘をたたむ                                 |
-| ba'o santa | まさに傘をたたんだ                         |
-| za'o santa | （雨がやんだのに）まだ傘をさしている       |
-
-※上の表はあくまで一例ですので、気をつけてください。  
-また、これは傘視点の文なので、例えば、「co'a santa」は厳密には「傘になり始める」です。  
-「.i mi pu se co'a santa」は、「私は傘を差した」という意味に近いですが、もしかしたら自分ではない誰か（または傘自身）が傘を差させた可能性があります。もし、自分で差したことを明示したいならば、「.i mi pu gasnu lo nu co'a santa vo'a」と言うといいかもしれません。
-
 | FAhA  | 空間方向 |
 | :---: | :------: |
 | be'a  |   北に   |
@@ -137,9 +101,41 @@
 | pu'i  |      はい      |    はい    |
 | nu'o  |      はい      |   いいえ   |
 
-**【辞書の使い方】**
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+時空間制の順番
 
-- 括弧の意味
+`[PU ZI] ZEhA PU (TAhE / (PA ROI)) ZAhO [FAhA VA] VEhA FAhA ZAhO MOhI [FAhA VA] CAhA`
+※`[]`は繰り返しがあることを表します。
+また、`/`は「または」を表します。
+すべての単語は省略できます。
+
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+ZAhOの使用例
+
+|     例     | 解釈例                                     |
+| :--------: | :----------------------------------------- |
+| xa'o santa | （雨が降っていないのに）もう傘をさしている |
+| pu'o santa | まさに傘をさそうとしている                 |
+| xo'u santa | 傘をさし始める                             |
+| co'a santa | 傘をさす                                   |
+| ca'o santa | 傘をさしている                             |
+| de'a santa | 一旦傘をたたむ                             |
+| co'u santa | （雨は降っているけれど）傘をたたむ         |
+| di'a santa | 再び傘をさす                               |
+| co'i santa | 傘をたたみ始める                           |
+| mo'u santa | 傘をたたむ                                 |
+| ba'o santa | まさに傘をたたんだ                         |
+| za'o santa | （雨がやんだのに）まだ傘をさしている       |
+
+※上の表はあくまで一例ですので、気をつけてください。  
+また、これは傘視点の文なので、例えば、「co'a santa」は厳密には「傘になり始める」です。  
+「.i mi pu se co'a santa」は、「私は傘を差した」という意味に近いですが、もしかしたら自分ではない誰か（または傘自身）が傘を差させた可能性があります。もし、自分で差したことを明示したいならば、「.i mi pu gasnu lo nu co'a santa vo'a」と言うといいかもしれません。
+
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+辞書の使い方
+
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+括弧の意味
 
 | 括弧  |          意味          |
 | :---: | :--------------------: |
@@ -150,7 +146,8 @@
 | 《》  |   型の指定を表します   |
 | 〚〛  | よく使う熟語・フレーズ |
 
-- 型の意味
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+型の意味
 
 |   型   |             ロジバン             |
 | :----: | :------------------------------: |
@@ -161,7 +158,8 @@
 |   群   |               lu'o               |
 |  数量  |                ni                |
 
-- 熟語・フレーズの抽象的な単語
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+熟語・フレーズの抽象的な単語
 
 |            変数            |      意味      |
 | :------------------------: | :------------: |
@@ -170,7 +168,8 @@
 |     PA, PA1, PA2, ...      |    任意の数    |
 | JUFRA, JUFRA1, JUFRA2, ... |    任意の文    |
 
-- 出典
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+出典
 
 |          記号           |                           出典元                            |
 | :---------------------: | :---------------------------------------------------------: |
@@ -188,10 +187,22 @@
 | `HLB2` | 記事番号 |
 | `TAT`  |   不明   |
 
-【概要】
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+概要
 
 この辞書は [ロジバンの公式辞書 jbovlaste](http://jbovlaste.lojban.org/) から独立したロジバンの辞書を目指しています。  
 [ロジバンたん（la .lojbantan.）](https://twitter.com/lojban_tan)と[skytomo（la .skaitomon.）](https://twitter.com/skytomo221)の共同で作っています。  
 まだ作成途中ですので、未翻訳のものだったり、公式辞書のままのものもあります。
 
-[Git リポジトリ](https://github.com/skytomo221/skaitomon-zei-jbovlaste)
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+謝辞
+
+この辞書の作成にあたり、[nipponjo](https://100-matters.hatenablog.jp/entry/nipponjo)やGitHubで助言を頂いた、[にふさん（la .niftyg.）](https://twitter.com/464161niftg)、[りんさん（la lalxu）](https://twitter.com/chordbug)、[hsjoihsさん（la .sozysozbot.）](https://twitter.com/hsjoihs)に感謝の意を表します。このサポートがなければ、この辞書の作成を途中で諦めていたかもしれません。ありがとうございます！
+
+![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
+その他の情報
+
+- [リポジトリはこちら](https://github.com/skytomo221/skaitomon-zei-jbovlaste)
+- [バージョンの履歴](https://github.com/skytomo221/lojbantan-zei-jbovlaste/blob/master/version.md)
+- [間違いや、誤訳を発見したらこちらからご連絡ください。](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues)
+- [／人◕ ‿‿ ◕人＼＜僕と協力して、contributorになってよ](https://github.com/skytomo221/skaitomon-zei-jbovlaste)
