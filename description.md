@@ -58,18 +58,18 @@ KOhA3
 
 |                                                     ZAhO                                                      |    時制     | 意味  | 意訳                   |
 | :-----------------------------------------------------------------------------------------------------------: | :---------: | :---: | :--------------------- |
-| [xa'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=xa%27o&type=exact) | █░│░░░░░│░░ | 早発  | 早く～しすぎる         |
-| [pu'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=pu%27o&type=exact) | ░▓│░░░░░│░░ | 将前  | まさに～しようとする   |
-| [xo'u](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=xo%27u&type=exact) | ░░█░░░░░│░░ | 開始  | ～し始める             |
-| [co'a](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=co%27a&type=exact) | ░░██░░░░│░░ | 起動  | （ついに）～し始める   |
-| [ca'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=ca%27o&type=exact) | ░░│░███░│░░ | 進行  | ～している             |
-| [de'a](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=de%27a&type=exact) | ░░│░█║░░│░░ | 休止  | 一旦～することをやめる |
-| [co'u](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=co%27u&type=exact) | ░░│░░▓░░│░░ | 停止  | ～することを停止する   |
-| [di'a](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=di%27a&type=exact) | ░░│░░║█░│░░ | 再開  | 再び～し始める         |
-| [co'i](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=co%27i&type=exact) | ░░│░░░░██░░ | 到達  | （ついに）～し終える   |
-| [mo'u](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=mo%27u&type=exact) | ░░│░░░░░█░░ | 終了  | ～し終える             |
-| [ba'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=ba%27o&type=exact) | ░░│░░░░░│▓░ | 完成  | まさに～し終えた       |
-| [za'o](https://zpdic.ziphil.com/dictionary/skaitomon-zei-jbovlaste?mode=name&page=0&search=za%27o&type=exact) | ░░│░░░░░│░█ | 延続  | ～しすぎる             |
+| [xa'o](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=xa%27o&type=exact) | █░│░░░░░│░░ | 早発  | 早く～しすぎる         |
+| [pu'o](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=pu%27o&type=exact) | ░▓│░░░░░│░░ | 将前  | まさに～しようとする   |
+| [xo'u](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=xo%27u&type=exact) | ░░█░░░░░│░░ | 開始  | ～し始める             |
+| [co'a](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=co%27a&type=exact) | ░░██░░░░│░░ | 起動  | （ついに）～し始める   |
+| [ca'o](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=ca%27o&type=exact) | ░░│░███░│░░ | 進行  | ～している             |
+| [de'a](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=de%27a&type=exact) | ░░│░█║░░│░░ | 休止  | 一旦～することをやめる |
+| [co'u](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=co%27u&type=exact) | ░░│░░▓░░│░░ | 停止  | ～することを停止する   |
+| [di'a](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=di%27a&type=exact) | ░░│░░║█░│░░ | 再開  | 再び～し始める         |
+| [co'i](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=co%27i&type=exact) | ░░│░░░░██░░ | 到達  | （ついに）～し終える   |
+| [mo'u](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=mo%27u&type=exact) | ░░│░░░░░█░░ | 終了  | ～し終える             |
+| [ba'o](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=ba%27o&type=exact) | ░░│░░░░░│▓░ | 完成  | まさに～し終えた       |
+| [za'o](https://zpdic.ziphil.com/dictionary/lojbantan-zei-jbovlaste?mode=name&page=0&search=za%27o&type=exact) | ░░│░░░░░│░█ | 延続  | ～しすぎる             |
 
 | FAhA  | 空間方向 |
 | :---: | :------: |
@@ -202,7 +202,7 @@ ZAhOの使用例
 ![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)![](https://raw.githubusercontent.com/skytomo221/lojbantan-zei-jbovlaste/4bc272a60b8dace2a9ef6142a963cb1698c02cda/images/heading.svg)
 その他の情報
 
-- [リポジトリはこちら](https://github.com/skytomo221/skaitomon-zei-jbovlaste)
+- [リポジトリはこちら](https://github.com/skytomo221/lojbantan-zei-jbovlaste)
 - [バージョンの履歴](https://github.com/skytomo221/lojbantan-zei-jbovlaste/blob/master/version.md)
 - [間違いや、誤訳を発見したらこちらからご連絡ください。](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues)
-- [／人◕ ‿‿ ◕人＼＜僕と協力して、contributorになってよ](https://github.com/skytomo221/skaitomon-zei-jbovlaste)
+- [／人◕ ‿‿ ◕人＼＜僕と協力して、contributorになってよ](https://github.com/skytomo221/lojbantan-zei-jbovlaste)
