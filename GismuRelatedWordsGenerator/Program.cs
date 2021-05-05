@@ -1,4 +1,4 @@
-using Otamajakushi;
+﻿using Otamajakushi;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -33,7 +33,16 @@ namespace GismuRelatedWordsGenerator
                     "xunre",
                     "zirpu",
                 }
-            }
+            },
+            new GismuRelation {
+                Title = "味に関するギスム",
+                Entries = new List<string> {
+                    "cpina",
+                    "titla",
+                    "kurki",
+                    "slari",
+                }
+            },
         };
 
         static void Main(string[] args)
