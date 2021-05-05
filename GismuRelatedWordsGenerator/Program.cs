@@ -1,4 +1,4 @@
-﻿using Otamajakushi;
+using Otamajakushi;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -106,6 +106,16 @@ namespace GismuRelatedWordsGenerator
                     "crisa",
                     "critu",
                     "dunra",
+                }
+            },
+            new GismuRelation {
+                Title = "時間帯に関するギスム",
+                Entries = new List<string> {
+                    "murse",
+                    "cerni",
+                    "donri",
+                    "vanci",
+                    "nicte",
                 }
             },
             new GismuRelation {
