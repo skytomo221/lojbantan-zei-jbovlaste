@@ -18,7 +18,7 @@ namespace GismuRelatedWordsGenerator
     {
         private static readonly List<GismuRelation> gismuRelations = new List<GismuRelation> {
             new GismuRelation {
-                Title = "色に関するギスム",
+                Title = "色に関する同一構造のギスム",
                 Entries = new List<string> {
                     "blabi",
                     "blanu",
@@ -35,7 +35,7 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
-                Title = "国と地域に関するギスム",
+                Title = "国と地域に関する同一構造のギスム",
                 Entries = new List<string> {
                     "baxso",
                     "bemro",
@@ -91,7 +91,7 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
-                Title = "味に関するギスム",
+                Title = "味覚に関する同一構造のギスム",
                 Entries = new List<string> {
                     "cpina",
                     "titla",
@@ -100,7 +100,7 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
-                Title = "季節に関するギスム",
+                Title = "季節に関する同一構造のギスム",
                 Entries = new List<string> {
                     "vensa",
                     "crisa",
@@ -109,7 +109,7 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
-                Title = "時間帯に関するギスム",
+                Title = "時間帯に関する同一構造のギスム",
                 Entries = new List<string> {
                     "murse",
                     "cerni",
@@ -119,7 +119,7 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
-                Title = "期間に関するギスム",
+                Title = "期間に関する同一構造のギスム",
                 Entries = new List<string> {
                     "snidu",
                     "mentu",
