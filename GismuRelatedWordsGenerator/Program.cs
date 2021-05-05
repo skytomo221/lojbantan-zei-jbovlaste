@@ -35,6 +35,22 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
+                Title = "衣類に関する同一構造のギスム",
+                Entries = new List<string> {
+                    "mapku",
+                    "creka",
+                    "kosta",
+                    "palku",
+                    "skaci",
+                    "cutci",
+                    "smoka",
+                    "dasri",
+                    "genxu",
+                    "grana",
+                    "jesni",
+                }
+            },
+            new GismuRelation {
                 Title = "国と地域に関する同一構造のギスム",
                 Entries = new List<string> {
                     "baxso",
