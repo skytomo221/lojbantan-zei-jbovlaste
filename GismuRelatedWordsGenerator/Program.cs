@@ -1,4 +1,4 @@
-using Otamajakushi;
+﻿using Otamajakushi;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -138,7 +138,6 @@ namespace GismuRelatedWordsGenerator
             foreach (var gismuRelation in gismuRelations)
             {
                 var entries = gismuRelation.Entries;
-                entries.Sort();
                 var relations = entries.Select(
                     gismu => new Relation
                     {
