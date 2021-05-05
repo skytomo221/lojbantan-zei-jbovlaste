@@ -99,6 +99,16 @@ namespace GismuRelatedWordsGenerator
                     "slari",
                 }
             },
+            new GismuRelation {
+                Title = "期間に関するギスム",
+                Entries = new List<string> {
+                    "snidu",
+                    "mentu",
+                    "cacra",
+                    "djedi",
+                    "masti",
+                }
+            },
         };
 
         static void Main(string[] args)
