@@ -1,4 +1,4 @@
-﻿using Otamajakushi;
+using Otamajakushi;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -43,17 +43,19 @@ namespace GismuRelatedWordsGenerator
 
             foreach (var gismuRelation in gismuRelations)
             {
-                var relation = gismuRelation.Entries.Select(
+                var entries = gismuRelation.Entries;
+                entries.Sort();
+                var relations = entries.Select(
                     gismu => new Relation
                     {
                         Title = gismuRelation.Title,
                         Entry = dictionary.Words.First(word => word.Entry.Form == gismu).Entry
                     }
                 );
-                foreach (var gismu in gismuRelation.Entries)
+                foreach (var gismu in entries)
                 {
                     var word = dictionary.Words.First(word => word.Entry.Form == gismu);
-                    word.Relations = word.Relations.Union(relation).ToList();
+                    word.Relations = word.Relations.Union(relations).ToList();
                 }
             }
 
