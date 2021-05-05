@@ -100,6 +100,15 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
+                Title = "季節に関するギスム",
+                Entries = new List<string> {
+                    "vensa",
+                    "crisa",
+                    "critu",
+                    "dunra",
+                }
+            },
+            new GismuRelation {
                 Title = "期間に関するギスム",
                 Entries = new List<string> {
                     "snidu",
