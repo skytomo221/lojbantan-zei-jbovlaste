@@ -107,6 +107,17 @@ namespace GismuRelatedWordsGenerator
                 }
             },
             new GismuRelation {
+                Title = "生体に関する同一構造のギスム",
+                Entries = new List<string> {
+                    "ciblu",
+                    "kalci",
+                    "pimlu",
+                    "pinca",
+                    "rectu",
+                    "sovda",
+                }
+            },
+            new GismuRelation {
                 Title = "味覚に関する同一構造のギスム",
                 Entries = new List<string> {
                     "cpina",
