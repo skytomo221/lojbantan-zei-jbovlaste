@@ -72,6 +72,7 @@ namespace GismuRelatedWordsGenerator
                         "limna",
                         "parji",
                         "pencu",
+                        "pinxe",
                         "ralte",
                         "renro",
                         "rirni",
@@ -150,6 +151,63 @@ namespace GismuRelatedWordsGenerator
             },
             new List<GismuRelation> {
                 new GismuRelation {
+                    Title = "食事に関する動作のギスム",
+                    Entries = new List<string> {
+                        "citka",
+                        "pinxe",
+                    }
+                },
+                new GismuRelation {
+                    Title = "食物に関するギスム",
+                    Entries = new List<string> {
+                        "birje",
+                        "cakla",
+                        "cirla",
+                        "ckafi",
+                        "jduli",
+                        "ladru",
+                        "lante",
+                        "nanba",
+                        "narge",
+                        "salta",
+                        "sanmi",
+                        "sanso",
+                        "silna",
+                        "sodva",
+                        "stagi",
+                        "stasu",
+                        "tcati",
+                        "vanju",
+                    }
+                },
+                new GismuRelation {
+                    Title = "食器に関するギスム",
+                    Entries = new List<string> {
+                        "palta",
+                        "palne",
+                        "smuci",
+                        "cinza",
+                    }
+                },
+                new GismuRelation {
+                    Title = "味覚に関する同一構造のギスム",
+                    Entries = new List<string> {
+                        "cpina",
+                        "titla",
+                        "kurki",
+                        "slari",
+                    }
+                },
+            },
+            new List<GismuRelation> {
+                new GismuRelation {
+                    Title = "衣類に関する状態のギスム",
+                    Entries = new List<string> {
+                        "dasni",
+                        "lunbe",
+                    }
+                },
+                new GismuRelation {
                     Title = "衣類に関する同一構造のギスム",
                     Entries = new List<string> {
                         "mapku",
@@ -163,6 +221,14 @@ namespace GismuRelatedWordsGenerator
                         "genxu",
                         "grana",
                         "jesni",
+                    }
+                },
+                new GismuRelation {
+                    Title = "衣類に関するその他のギスム",
+                    Entries = new List<string> {
+                        "daski",
+                        "gluta",
+                        "taxfu",
                     }
                 },
             },
@@ -234,17 +300,6 @@ namespace GismuRelatedWordsGenerator
                         "pinca",
                         "rectu",
                         "sovda",
-                    }
-                },
-            },
-            new List<GismuRelation> {
-                new GismuRelation {
-                    Title = "味覚に関する同一構造のギスム",
-                    Entries = new List<string> {
-                        "cpina",
-                        "titla",
-                        "kurki",
-                        "slari",
                     }
                 },
             },
