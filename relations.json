@@ -8825,6 +8825,413 @@
           ]
         }
       ]
+    },
+    {
+      "tag": "ギスム",
+      "categories": [
+        {
+          "groups": [
+            {
+              "title": "動作に関するギスム",
+              "relations": [
+                "bajra",
+                "banro",
+                "basti",
+                "batci",
+                "benji",
+                "bevri",
+                "bikla",
+                "binxo",
+                "canci",
+                "canja",
+                "carna",
+                "carvi",
+                "casnu",
+                "catke",
+                "catke",
+                "catra",
+                "cecla",
+                "cikna",
+                "cikre",
+                "cilre",
+                "cinba",
+                "cinmo",
+                "cirko",
+                "ciska",
+                "cisma",
+                "citka",
+                "ckasu",
+                "cladu",
+                "cliva",
+                "cmila",
+                "cmoni",
+                "cpacu",
+                "danfu",
+                "dansu",
+                "darxi",
+                "dirce",
+                "dunda",
+                "falnu",
+                "farlu",
+                "fliba",
+                "janli",
+                "jersi",
+                "jgari",
+                "jinru",
+                "jivbu",
+                "klama",
+                "lacpu",
+                "lebna",
+                "limna",
+                "parji",
+                "pencu",
+                "pinxe",
+                "ralte",
+                "renro",
+                "rirni",
+                "sakli",
+                "sanga",
+                "sanji",
+                "sanli",
+                "satre",
+                "senci",
+                "stapa",
+                "tadni",
+                "tikpa",
+                "toknu",
+                "tunlo",
+                "vamtu",
+                "vasru",
+                "vasxu",
+                "vofli"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "色に関する同一構造のギスム",
+              "relations": [
+                "blabi",
+                "blanu",
+                "bunre",
+                "cicna",
+                "crino",
+                "grusi",
+                "narju",
+                "nukni",
+                "pelxu",
+                "xekri",
+                "xunre",
+                "zirpu"
+              ]
+            },
+            {
+              "title": "物質の性質に関するギスム",
+              "entries": [
+                "jdari",
+                "pruni",
+                "ranti",
+                "viknu"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "数学に関するギスム",
+              "entries": [
+                "namcu",
+                "tanjo",
+                "mekso",
+                "sinso",
+                "pilji",
+                "radno",
+                "frinu",
+                "dugri",
+                "saclu",
+                "sumji",
+                "xadba",
+                "sumti",
+                "tenfa",
+                "klani",
+                "kancu",
+                "kanji",
+                "fancu",
+                "dilcu",
+                "vimcu",
+                "girzu"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "食事に関する動作のギスム",
+              "entries": [
+                "citka",
+                "pinxe"
+              ]
+            },
+            {
+              "title": "食物に関するギスム",
+              "entries": [
+                "birje",
+                "cakla",
+                "cirla",
+                "ckafi",
+                "jduli",
+                "ladru",
+                "lante",
+                "nanba",
+                "narge",
+                "salta",
+                "sanmi",
+                "sanso",
+                "silna",
+                "sodva",
+                "stagi",
+                "stasu",
+                "tcati",
+                "vanju"
+              ]
+            },
+            {
+              "title": "食事に関する動作のギスム",
+              "entries": [
+                "citka",
+                "pinxe"
+              ]
+            },
+            {
+              "title": "食器に関するギスム",
+              "entries": [
+                "palta",
+                "palne",
+                "smuci",
+                "cinza"
+              ]
+            },
+            {
+              "title": "味覚に関する同一構造のギスム",
+              "entries": [
+                "cpina",
+                "titla",
+                "kurki",
+                "slari"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "衣類に関する状態のギスム",
+              "entries": [
+                "dasni",
+                "lunbe"
+              ]
+            },
+            {
+              "title": "衣類に関する同一構造のギスム",
+              "entries": [
+                "mapku",
+                "creka",
+                "kosta",
+                "palku",
+                "skaci",
+                "cutci",
+                "smoka",
+                "dasri",
+                "genxu",
+                "grana",
+                "jesni"
+              ]
+            },
+            {
+              "title": "衣類に関するその他のギスム",
+              "entries": [
+                "daski",
+                "gluta",
+                "taxfu"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "国と地域に関する同一構造のギスム",
+              "entries": [
+                "baxso",
+                "bemro",
+                "bengo",
+                "bindo",
+                "brazo",
+                "brito",
+                "dotco",
+                "dzipo",
+                "filso",
+                "fraso",
+                "friko",
+                "gento",
+                "glico",
+                "jerxo",
+                "jordo",
+                "jungo",
+                "kadno",
+                "ketco",
+                "kisto",
+                "latmo",
+                "libjo",
+                "lojbo",
+                "lubno",
+                "meljo",
+                "merko",
+                "mexno",
+                "misro",
+                "morko",
+                "polno",
+                "ponjo",
+                "porto",
+                "rakso",
+                "ropno",
+                "rusko",
+                "sadjo",
+                "semto",
+                "sirxo",
+                "skoto",
+                "slovo",
+                "softo",
+                "spano",
+                "sralo",
+                "srito",
+                "vukro",
+                "xazdo",
+                "xebro",
+                "xelso",
+                "xindo",
+                "xispo",
+                "xrabo",
+                "xurdo"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "生物に関する同一構造のギスム",
+              "entries": [
+                "srasu",
+                "stani",
+                "badna",
+                "balji",
+                "bavmi",
+                "cindu",
+                "cunmi",
+                "dembi",
+                "gurni",
+                "jbari",
+                "kobli",
+                "marna",
+                "mavji",
+                "maxri",
+                "mraji",
+                "pezli",
+                "rismi",
+                "rozgu",
+                "samcu",
+                "sluni",
+                "sobde",
+                "sorgu",
+                "sunga",
+                "tamca",
+                "tujli",
+                "xruba",
+                "xruki",
+                "xrula",
+                "zumri",
+                "curnu",
+                "banfi",
+                "mabru",
+                "datka",
+                "bakni",
+                "cinfo",
+                "gerku",
+                "cipni",
+                "kanba",
+                "kumte",
+                "lanme",
+                "mlatu",
+                "ractu",
+                "ratcu",
+                "smani",
+                "xanto",
+                "xarju",
+                "xasli",
+                "xirma",
+                "finpe",
+                "respa",
+                "since",
+                "cinki",
+                "jalra",
+                "jukni",
+                "manti",
+                "sfani"
+              ]
+            },
+            {
+              "title": "生体に関する同一構造のギスム",
+              "entries": [
+                "ciblu",
+                "kalci",
+                "pimlu",
+                "pinca",
+                "rectu",
+                "sovda"
+              ]
+            }
+          ]
+        },
+        {
+          "groups": [
+            {
+              "title": "季節に関する同一構造のギスム",
+              "entries": [
+                "vensa",
+                "crisa",
+                "critu",
+                "dunra"
+              ]
+            },
+            {
+              "title": "時間帯に関する同一構造のギスム",
+              "entries": [
+                "murse",
+                "cerni",
+                "donri",
+                "vanci",
+                "nicte"
+              ]
+            },
+            {
+              "title": "期間に関する同一構造のギスム",
+              "entries": [
+                "snidu",
+                "mentu",
+                "cacra",
+                "djedi",
+                "masti",
+                "nanca"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
