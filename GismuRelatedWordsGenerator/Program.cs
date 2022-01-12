@@ -392,6 +392,7 @@ namespace GismuRelatedWordsGenerator
                         "cacra",
                         "djedi",
                         "masti",
+                        "nanca"
                     }
                 },
             },
