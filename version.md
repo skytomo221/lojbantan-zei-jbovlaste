@@ -2,6 +2,28 @@
 
 ベータ版のバージョン履歴は[こちら](./version-beta.md)をご覧ください。
 
+## Version 3.0
+
+主なハイライトは以下の通りです。
+
+- 辞書の概要の変更
+- ".i"を削除
+- "snura"の説明を変更
+- "pastu"の説明を修正
+- 関連語の自動化
+
+解決した問題点は以下の通りです。
+
+- [14](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues/14): pastuのx2の脱落
+
+貢献者は以下の通りです。
+
+- [qq542vev (@qq542vev)](https://github.com/qq542vev)
+  - pastuのx2の脱落 [issue #14](https://github.com/skytomo221/lojbantan-zei-jbovlaste/issues/14)
+- [skytomo (@skytomo221)](https://github.com/skytomo221)
+  - Gismu relations [PR #15](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/15)
+  - Skytomo develop [PR #16](https://github.com/skytomo221/lojbantan-zei-jbovlaste/pull/16)
+
 ## Version 2.0
 
 みんなで並行して編集できるように環境を整えました。
