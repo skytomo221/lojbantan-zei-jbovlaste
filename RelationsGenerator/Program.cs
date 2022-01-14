@@ -47,7 +47,10 @@ namespace GismuRelatedWordsGenerator
             var dictionary = OneToManyJsonSerializer.Deserialize(json);
             Thesaurus thesaurus = JsonSerializer.Deserialize<Thesaurus>(File.ReadAllText(@"relations.json"));
 
-            dictionary.Words.ForEach(word => word.Relations = new List<Relation>());
+            foreach (var word in dictionary.Words.Where(word => !word.Tags.Contains("ラフシ") && !word.Tags.Contains("語根《ラフシ》")))
+            {
+                word.Relations = new List<Relation>();
+            }
 
             foreach (var tagFamily in thesaurus.TagFamilies)
             {
@@ -62,7 +65,7 @@ namespace GismuRelatedWordsGenerator
                             relations.Add(new Relation
                             {
                                 Title = group.Title,
-                                Entry = dictionary.Words.First(word => word.Entry.Form == relationWord).Entry
+                                Entry = dictionary.Words.First(word => word.Entry.Form == relationWord && word.Tags.Contains(tagFamily.Tag)).Entry
                             });
                         }
                     }
@@ -70,7 +73,7 @@ namespace GismuRelatedWordsGenerator
                     {
                         foreach (var relationWord in group.Relations)
                         {
-                            var word = dictionary.Words.First(w => w.Entry.Form == relationWord);
+                            var word = dictionary.Words.First(w => w.Entry.Form == relationWord && w.Tags.Contains(tagFamily.Tag));
                             word.Relations = word.Relations.Union(relations).ToList();
                         }
                     }
